@@ -1,0 +1,800 @@
+rank,symbol,company_name,market_cap,stock_price_cad,percent_change,revenue,exchange,source_url
+1,NVDA,NVIDIA Corporation,6.56T,44.69,-0.09%,296.55B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+2,GOOG,Alphabet Inc.,6.29T,61.72,1.36%,589.75B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+3,AAPL,Apple Inc.,5.53T,39.93,1.71%,626.25B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+4,MSFT,Microsoft Corporation,4.18T,28.91,-0.86%,444.26B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+5,AMZN,"Amazon.com, Inc.",3.98T,31.75,1.44%,1.04T,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+6,AVGO,Broadcom Inc.,2.68T,16.16,2.08%,92.62B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+7,META,"Meta Platforms, Inc.",2.11T,32.72,0.40%,300.06B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+8,TSLA,"Tesla, Inc.",2.01T,34.35,0.32%,136.63B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+9,WMT,Walmart Inc.,1.41T,54.74,-1.00%,967.34B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+10,BRK,Berkshire Hathaway Inc.,1.37T,34.04,-0.41%,524.00B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+11,LLY,Eli Lilly and Company,1.17T,35.28,1.18%,100.85B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+12,JPM,JPMorgan Chase & Co.,1.12T,39.52,-,242.26B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+13,MU,"Micron Technology, Inc.",884.42B,28.24,10.66%,79.51B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+14,XOM,Exxon Mobil Corporation,866.67B,27.74,-0.39%,455.06B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+15,VISA,Visa Inc.,837.81B,29.50,-1.67%,60.06B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+16,AMD,"Advanced Micro Devices, Inc.",757.54B,64.04,2.02%,47.35B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+17,JNJ,Johnson & Johnson,734.24B,28.97,-1.06%,133.68B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+18,ASML,ASML Holding N.V.,727.21B,38.52,-2.51%,53.85B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+19,ORAC,Oracle Corporation,705.43B,9.11,1.22%,87.38B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+20,INTC,Intel Corporation,654.92B,62.14,15.03%,74.58B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+21,COST,Costco Wholesale Corporation,611.30B,45.55,0.46%,389.89B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+22,MA,Mastercard Incorporated,606.74B,30.43,-0.98%,47.37B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+23,CATR,Caterpillar Inc.,548.16B,62.48,-2.05%,98.76B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+24,NFLX,"Netflix, Inc.",521.42B,33.60,-2.27%,65.45B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+25,CHEV,Chevron Corporation,517.17B,24.90,0.69%,259.25B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+26,BOFA,Bank of America Corporation,503.88B,26.41,-1.46%,152.97B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+27,ABBV,AbbVie Inc.,500.91B,29.01,0.28%,87.69B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+28,CSCO,"Cisco Systems, Inc.",497.77B,45.12,1.30%,81.10B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+29,PLTR,Palantir Technologies Inc.,476.24B,10.45,-6.28%,7.29B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+30,UNH,UnitedHealth Group Incorporated,458.10B,17.04,0.35%,627.74B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+31,COLA,The Coca-Cola Company,457.68B,27.39,-0.76%,68.71B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+32,PG,The Procter & Gamble Company,454.35B,23.80,-2.74%,121.04B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+33,ROG,Roche Holding AG,439.06B,25.10,-,109.55B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+34,HD,"The Home Depot, Inc.",423.35B,19.48,-0.05%,223.38B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+35,AMAT,"Applied Materials, Inc.",422.57B,43.63,0.30%,38.75B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+36,MS,Morgan Stanley,404.14B,38.60,-0.31%,102.14B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+37,GE,General Electric Company,398.18B,37.02,1.04%,67.44B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+38,GEV,GE Vernova Inc.,392.62B,74.16,1.58%,54.96B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+39,MRK,"Merck & Co., Inc.",380.07B,25.41,1.03%,91.80B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+40,NVS,Novartis AG,377.41B,27.13,-1.24%,78.97B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+41,GS,"The Goldman Sachs Group, Inc.",376.77B,43.30,-2.28%,85.89B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+42,ZYNS,Philip Morris International Inc.,358.75B,23.35,2.77%,57.92B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+43,LVMH,"LVMH MoÃ«t Hennessy - Louis Vuitton, SociÃ©tÃ© EuropÃ©enne",351.53B,18.23,0.11%,130.09B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+44,NSTL,NestlÃ© S.A.,349.36B,23.93,-0.29%,155.42B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+45,TXN,Texas Instruments Incorporated,347.79B,29.36,0.24%,25.74B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+46,RY,Royal Bank of Canada,338.50B,244.18,0.75%,63.42B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+47,WFCS,Wells Fargo & Company,329.65B,22.17,-2.25%,113.25B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+48,RTX,RTX Corporation,316.77B,39.91,-0.47%,126.15B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+49,SMNS,Siemens Aktiengesellschaft,306.31B,30.55,-1.23%,128.31B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+50,LORL,L'OrÃ©al S.A.,305.58B,23.30,-,70.92B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+51,AXP,American Express Company,296.32B,27.28,0.04%,96.05B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+52,ANET,"Arista Networks, Inc.",295.71B,31.23,-0.22%,12.35B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+53,IBM,International Business Machines Corporation,293.43B,33.99,-1.39%,96.19B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+54,CITI,Citigroup Inc.,291.51B,51.91,0.72%,109.90B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+55,PEP,"PepsiCo, Inc.",287.45B,22.96,-2.46%,130.94B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+56,SAPS,SAP SE,275.13B,13.22,1.69%,60.10B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+57,MCDS,McDonald's Corporation,274.74B,24.10,-0.95%,36.86B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+58,NEE,"NextEra Energy, Inc.",270.97B,30.96,-2.18%,38.90B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+59,VZ,Verizon Communications Inc.,270.23B,20.11,-1.47%,194.23B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+60,NOVO,Novo Nordisk A/S,267.31B,18.70,0.70%,66.62B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+61,TTES,TotalEnergies SE,266.77B,32.93,1.76%,256.78B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+62,HRMS,HermÃ¨s International SociÃ©tÃ© en commandite par actions,265.05B,17.91,-4.02%,25.76B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+63,DIS,The Walt Disney Company,244.17B,11.41,-1.81%,130.84B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+64,QCOM,QUALCOMM Incorporated,241.45B,21.96,-4.94%,61.71B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+65,TD,The Toronto-Dominion Bank,241.21B,144.98,0.30%,65.98B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+66,AMGN,Amgen Inc.,237.79B,24.41,-5.57%,51.95B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+67,BA,The Boeing Company,237.34B,36.86,-2.87%,128.68B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+68,TMO,Thermo Fisher Scientific Inc.,233.88B,16.65,-1.19%,62.70B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+69,SCHN,Schneider Electric S.E.,233.06B,26.00,-2.22%,64.64B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+70,TJX,"The TJX Companies, Inc.",232.64B,27.25,-1.70%,81.89B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+71,ALZ,Allianz SE,227.30B,30.00,-,182.19B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+72,SHOP,Shopify Inc.,226.30B,158.48,-8.59%,15.84B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+73,GILD,"Gilead Sciences, Inc.",224.07B,26.80,-0.37%,40.37B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+74,BLK,"BlackRock, Inc.",222.41B,27.00,-1.06%,35.79B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+75,ISRG,"Intuitive Surgical, Inc.",217.95B,23.61,-1.46%,14.77B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+76,APPS,AppLovin Corporation,217.30B,14.97,2.89%,7.51B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+77,SCHW,The Charles Schwab Corporation,216.32B,27.18,-1.09%,34.62B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+78,UNP,Union Pacific Corporation,212.76B,26.86,-0.74%,34.48B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+79,DEER,Deere & Company,212.54B,29.73,-0.03%,63.39B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+80,ABT,Abbott Laboratories,207.44B,15.46,-2.34%,63.00B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+81,CRM,"Salesforce, Inc.",206.43B,14.09,-1.54%,56.32B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+82,UBER,"Uber Technologies, Inc.",204.86B,10.97,-0.36%,71.32B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+83,PANW,"Palo Alto Networks, Inc.",203.63B,21.64,-0.73%,13.42B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+84,PFE,Pfizer Inc.,203.53B,11.72,-0.85%,87.83B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+85,UBSS,UBS Group AG,184.52B,28.36,4.88%,71.62B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+86,HON,Honeywell International Inc.,180.68B,23.87,-1.12%,52.57B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+87,BKNG,Booking Holdings Inc.,174.55B,27.07,-2.20%,38.65B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+88,SPGI,S&P Global Inc.,171.03B,20.20,-0.20%,21.96B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+89,SBUX,Starbucks Corporation,162.76B,28.92,-0.82%,53.37B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+90,ENB,Enbridge Inc.,162.58B,74.86,0.48%,65.19B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+91,LMT,Lockheed Martin Corporation,162.53B,29.65,0.95%,104.19B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+92,CRWD,"CrowdStrike Holdings, Inc.",162.52B,37.15,1.39%,6.53B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+93,CEGS,Constellation Energy Corporation,158.24B,22.08,0.09%,35.01B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+94,SNY,Sanofi,148.63B,20.63,0.68%,76.21B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+95,BMO,Bank of Montreal,143.90B,205.66,0.74%,33.48B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+96,CVS,CVS Health Corporation,142.99B,19.83,-,548.22B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+97,ADBE,Adobe Inc.,139.65B,9.63,-1.23%,33.35B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+98,CM,Canadian Imperial Bank of Commerce,137.75B,150.88,0.81%,27.91B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+99,BN,Brookfield Corporation,137.01B,62.11,1.42%,106.48B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+100,CNQ,Canadian Natural Resources Limited,135.12B,64.77,0.03%,38.76B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+101,BX,Blackstone Inc.,131.54B,15.56,-3.35%,20.10B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+102,NOWS,"ServiceNow, Inc.",129.04B,11.80,0.68%,19.49B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+103,BNS,The Bank of Nova Scotia,128.42B,104.63,0.33%,33.25B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+104,KKR,KKR & Co. Inc.,125.33B,22.53,-,35.17B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+105,WAST,"Waste Management, Inc.",124.48B,21.62,-2.17%,35.47B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+106,AEM,Agnico Eagle Mines Limited,122.40B,245.85,0.45%,18.90B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+107,ABNB,"Airbnb, Inc.",112.31B,23.70,-0.46%,16.78B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+108,UPS,"United Parcel Service, Inc.",111.33B,12.40,1.89%,123.28B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+109,SU,Suncor Energy Inc.,110.74B,94.22,0.99%,48.91B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+110,INGS,ING Groep N.V.,109.59B,33.82,-2.82%,39.61B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+111,BAM,Brookfield Asset Management Ltd.,104.29B,65.39,0.86%,6.60B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+112,MMMM,3M Company,100.45B,22.50,-,34.93B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+113,CP,Canadian Pacific Kansas City Limited,100.38B,113.88,0.72%,14.98B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+114,HOOD,"Robinhood Markets, Inc.",93.78B,12.63,3.78%,6.44B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+115,TRP,TC Energy Corporation,93.72B,89.89,-0.06%,15.48B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+116,CNR,Canadian National Railway Company,90.48B,150.13,0.81%,17.28B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+117,MFC,Manulife Financial Corporation,87.71B,52.98,1.01%,30.98B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+118,ABX,Barrick Mining Corporation,87.41B,52.96,1.51%,23.25B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+119,MSTR,Strategy Inc,87.21B,12.70,4.18%,654.34M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+120,NKE,"NIKE, Inc.",86.81B,7.79,-2.99%,63.44B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+121,IMO,Imperial Oil Limited,85.91B,180.20,1.44%,46.85B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+122,OXY,Occidental Petroleum Corporation,81.31B,25.26,2.02%,29.61B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+123,NA,National Bank of Canada,78.21B,204.51,0.82%,13.45B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+124,AZO,"AutoZone, Inc.",78.06B,21.35,-5.41%,26.71B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+125,WPM,Wheaton Precious Metals Corp.,76.77B,171.42,1.41%,3.17B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+126,CVE,Cenovus Energy Inc.,76.67B,40.82,0.07%,49.70B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+127,BMW,Bayerische Motoren Werke Aktiengesellschaft,73.45B,22.80,-3.72%,214.84B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+128,ATD,Alimentation Couche-Tard Inc.,73.14B,79.70,0.06%,99.41B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+129,COIN,"Coinbase Global, Inc.",72.76B,12.40,6.16%,9.44B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+130,L,Loblaw Companies Limited,72.14B,62.60,1.00%,63.90B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+131,BENZ,Mercedes-Benz Group AG,71.98B,21.10,1.01%,210.18B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+132,CCO,Cameco Corporation,70.22B,160.92,-0.19%,3.54B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+133,CLS,Celestica Inc.,65.90B,575.40,0.39%,19.25B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+134,GWO,Great-West Lifeco Inc.,65.65B,73.31,0.52%,35.45B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+135,F,Ford Motor Company,62.34B,9.78,-3.17%,265.02B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+136,PYPL,"PayPal Holdings, Inc.",61.68B,3.270,-9.67%,45.48B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+137,FNV,Franco-Nevada Corporation,58.77B,306.47,0.53%,2.47B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+138,TRI,Thomson Reuters Corporation,57.81B,133.53,2.32%,10.25B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+139,CMGS,"Chipotle Mexican Grill, Inc.",55.81B,12.72,-1.78%,16.94B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+140,WCN,"Waste Connections, Inc.",55.52B,214.90,-1.68%,13.41B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+141,SLF,Sun Life Financial Inc.,54.39B,99.33,1.17%,34.88B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+142,CSU,Constellation Software Inc.,52.36B,"2,452.00",-0.77%,15.94B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+143,FFH,Fairfax Financial Holdings Limited,50.95B,"2,242.83",1.48%,53.85B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+144,NTR,Nutrien Ltd.,49.62B,103.59,0.38%,35.58B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+145,POW,Power Corporation of Canada,47.59B,76.41,0.90%,38.77B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+146,K,Kinross Gold Corporation,46.93B,39.59,0.74%,11.11B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+147,DOL,Dollarama Inc.,46.32B,172.91,1.42%,7.26B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+148,IFC,Intact Financial Corporation,45.69B,259.91,0.71%,26.07B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+149,FISV,"Fiserv, Inc.",45.55B,6.41,0.63%,29.06B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+150,RDDT,"Reddit, Inc.",44.28B,16.32,0.68%,3.45B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+151,FTS,Fortis Inc.,39.46B,78.28,0.99%,12.17B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+152,TECK.A,Teck Resources Limited,37.85B,79.28,3.04%,12.41B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+153,TECK.B,Teck Resources Limited,37.85B,78.66,1.75%,12.41B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+154,QSR,Restaurant Brands International Inc.,37.82B,110.40,1.37%,12.94B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+155,PPL,Pembina Pipeline Corporation,36.85B,63.21,-0.30%,7.78B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+156,WN,George Weston Limited,36.43B,97.17,0.93%,64.51B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+157,QSP.UN,Restaurant Brands International Limited Partnership,36.11B,107.60,-,12.94B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+158,H,Hydro One Limited,35.12B,59.36,1.38%,9.04B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+159,STZ,"Constellation Brands, Inc.",34.70B,11.76,-5.85%,12.46B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+160,WSP,WSP Global Inc.,30.88B,229.84,0.35%,18.29B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+161,BEP.UN,Brookfield Renewable Partners L.P.,30.48B,45.27,1.59%,8.85B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+162,BCE,BCE Inc.,30.42B,32.76,0.43%,24.47B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+163,PAAS,Pan American Silver Corp.,29.38B,69.62,-0.04%,4.96B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+164,LUN,Lundin Mining Corporation,28.74B,33.97,1.13%,5.56B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+165,BBD.A,Bombardier Inc.,27.56B,278.77,-3.54%,13.44B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+166,BBD.B,Bombardier Inc.,27.56B,280.97,0.57%,13.44B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+167,T,TELUS Corporation,26.79B,17.11,-0.29%,20.35B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+168,RBA,"RB Global, Inc.",26.56B,145.80,1.89%,6.58B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+169,RCI.A,Rogers Communications Inc.,26.51B,49.92,-,22.22B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+170,RCI.B,Rogers Communications Inc.,26.51B,48.92,0.12%,22.22B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+171,TOU,Tourmaline Oil Corp.,25.97B,66.89,1.43%,4.59B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+172,FM,First Quantum Minerals Ltd.,25.71B,31.41,1.19%,7.61B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+173,CDE,"Coeur Mining, Inc.",24.72B,23.82,-0.58%,2.84B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+174,OVV,Ovintiv Inc.,24.26B,85.06,-0.72%,11.88B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+175,SMCI,"Super Micro Computer, Inc.",22.81B,9.01,-0.88%,38.47B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+176,BIP.UN,Brookfield Infrastructure Partners L.P.,22.38B,49.06,0.86%,33.51B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+177,AGI,Alamos Gold Inc.,22.34B,53.26,0.11%,2.89B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+178,MG,Magna International Inc.,22.06B,82.14,1.38%,59.08B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+179,EMA,Emera Incorporated,21.88B,71.64,0.14%,8.78B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+180,LUG,Lundin Gold Inc.,21.22B,87.90,0.15%,2.44B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+181,BNT,Brookfield Wealth Solutions Ltd.,20.37B,62.07,1.22%,15.95B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+182,LULU,lululemon athletica inc.,20.19B,5.59,-1.24%,15.06B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+183,WCP,Whitecap Resources Inc.,19.52B,16.18,0.62%,6.15B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+184,MRU,Metro Inc.,18.99B,89.64,-0.50%,22.18B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+185,GIB.A,CGI Inc.,18.95B,90.16,-0.35%,16.34B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+186,EDV,Endeavour Mining plc,18.83B,79.28,1.89%,6.34B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+187,GFL,GFL Environmental Inc.,18.58B,50.38,-2.02%,6.70B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+188,ARX,ARC Resources Ltd.,18.01B,31.94,0.44%,6.40B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+189,TIH,Toromont Industries Ltd.,17.76B,219.99,1.01%,5.34B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+190,IGM,IGM Financial Inc.,17.64B,77.10,1.98%,4.31B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+191,SAP,Saputo Inc.,16.54B,41.32,0.73%,18.99B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+192,BEPC,Brookfield Renewable Corporation,16.53B,50.04,3.43%,5.17B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+193,ALA,AltaGas Ltd.,16.34B,52.91,0.90%,12.71B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+194,ATZ,Aritzia Inc.,16.17B,141.25,1.25%,3.41B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+195,IAG,iA Financial Corporation Inc.,15.77B,177.25,0.94%,9.11B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+196,ATRL,AtkinsRÃ©alis Group Inc.,15.55B,95.07,-0.25%,11.00B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+197,X,TMX Group Limited,15.51B,56.68,1.25%,1.72B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+198,IVN,Ivanhoe Mines Ltd.,15.16B,10.69,0.56%,605.51M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+199,TFII,TFI International Inc.,15.04B,182.89,-0.07%,10.98B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+200,EQX,Equinox Gold Corp.,14.91B,18.86,-0.21%,2.49B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+201,GIL,Gildan Activewear Inc.,14.63B,80.46,1.85%,5.65B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+202,CCL.A,CCL Industries Inc.,14.37B,84.49,-0.59%,7.66B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+203,CCL.B,CCL Industries Inc.,14.37B,83.72,0.71%,7.66B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+204,STN,Stantec Inc.,14.14B,123.25,-0.60%,6.49B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+205,CU,Canadian Utilities Limited,13.26B,48.58,-0.27%,3.69B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+206,AG,First Majestic Silver Corp.,13.05B,26.34,-0.34%,1.72B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+207,IMG,IAMGOLD Corporation,12.94B,22.28,0.27%,3.91B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+208,FTT,Finning International Inc.,12.92B,99.12,0.24%,10.59B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+209,QBR.A,Quebecor Inc.,12.81B,57.00,-,5.68B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+210,QBR.B,Quebecor Inc.,12.81B,56.61,-0.07%,5.68B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+211,EFN,Element Fleet Management Corp.,12.23B,31.41,1.98%,3.18B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+212,KEY,Keyera Corp.,12.15B,51.24,-3.27%,6.85B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+213,HUT,Hut 8 Corp.,11.78B,106.69,0.40%,322.37M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+214,HBM,Hudbay Minerals Inc.,11.77B,30.38,2.50%,3.31B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+215,CAE,CAE Inc.,11.33B,35.73,1.48%,4.86B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+216,NXE,NexGen Energy Ltd.,11.20B,16.76,-1.09%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+217,CGG,China Gold International Resources Corp. Ltd.,11.19B,28.69,1.67%,1.80B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+218,GMIN,G Mining Ventures Corp.,11.17B,48.00,2.13%,796.16M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+219,DPM,DPM Metals Inc.,10.52B,44.21,-0.07%,1.30B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+220,EMP.A,Empire Company Limited,10.37B,46.04,-1.37%,31.86B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+221,CPX,Capital Power Corporation,10.22B,65.03,-0.45%,3.84B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+222,ELD,Eldorado Gold Corporation,10.20B,40.19,2.66%,2.79B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+223,SOBO,South Bow Corporation,9.99B,47.91,-,2.72B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+224,CTC,"Canadian Tire Corporation, Limited",9.91B,238.00,5.78%,16.32B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+225,CTC.A,"Canadian Tire Corporation, Limited",9.91B,187.50,0.94%,16.32B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+226,SCR,Strathcona Resources Ltd.,9.67B,44.42,-1.55%,3.77B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+227,BBUC,Brookfield Business Corporation,9.55B,46.43,0.61%,37.65B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+228,GRGD,Groupe Dynamite Inc.,9.55B,87.65,0.68%,1.31B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+229,OR,OR Royalties Inc.,9.21B,49.33,0.37%,380.31M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+230,OGC,OceanaGold Corporation,9.11B,40.42,-0.47%,2.60B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+231,TFPM,Triple Flag Precious Metals Corp.,8.82B,42.72,0.05%,532.96M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+232,ONEX,Onex Corporation,8.69B,115.03,0.89%,1.19B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+233,DSG,The Descartes Systems Group Inc.,8.63B,99.24,-1.09%,988.81M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+234,SSRM,SSR Mining Inc.,8.35B,38.63,0.16%,2.23B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+235,CS,Capstone Copper Corp.,8.28B,11.01,1.57%,3.46B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+236,DFY,Definity Financial Corporation,8.04B,66.73,-0.51%,4.71B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+237,FSV,FirstService Corporation,8.01B,172.30,-1.11%,7.77B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+238,PSK,PrairieSky Royalty Ltd.,7.98B,34.16,-0.44%,446.70M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+239,BLCO,Bausch + Lomb Corporation,7.90B,21.82,-1.62%,7.27B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+240,OTEX,Open Text Corporation,7.85B,31.75,0.86%,7.10B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+241,BTO,B2Gold Corp.,7.80B,5.82,-0.17%,4.20B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+242,ACO.X,ATCO Ltd.,7.66B,68.37,0.43%,5.14B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+243,AII,Almonty Industries Inc.,7.55B,27.42,3.12%,32.51M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+244,EFR,Energy Fuels Inc.,7.30B,29.75,1.12%,90.39M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+245,CIGI,Colliers International Group Inc.,7.15B,133.38,-4.72%,7.62B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+246,CSH.UN,Chartwell Retirement Residences,7.10B,22.30,1.83%,1.11B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+247,PRU,Perseus Mining Limited,7.05B,5.29,2.32%,1.75B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+248,MX,Methanex Corporation,6.84B,89.40,1.17%,5.12B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+249,DSV,Discovery Silver Corp.,6.67B,8.30,0.85%,895.63M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+250,AQN,Algonquin Power & Utilities Corp.,6.55B,8.55,0.29%,3.34B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+251,WFG,West Fraser Timber Co. Ltd.,6.34B,82.33,1.63%,7.44B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+252,REI.UN,RioCan Real Estate Investment Trust,6.31B,21.67,-0.05%,1.36B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+253,TVE,Tamarack Valley Energy Ltd.,6.19B,12.77,-0.47%,1.35B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+254,BIPC,Brookfield Infrastructure Corporation,6.18B,51.63,2.28%,5.06B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+255,OLA,Orla Mining Ltd.,6.11B,18.08,2.26%,1.45B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+256,NPI,Northland Power Inc.,6.04B,23.31,0.91%,2.44B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+257,KNT,K92 Mining Inc.,5.87B,24.02,0.29%,816.16M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+258,ELF,E-L Financial Corporation Limited,5.87B,17.10,0.88%,3.39B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+259,ATH,Athabasca Oil Corporation,5.86B,12.07,-0.33%,1.31B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+260,MDA,MDA Space Ltd.,5.84B,41.19,-2.14%,1.63B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+261,XNDU,Xanadu Quantum Technologies Limited,5.69B,19.06,-61.02%,6.33M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+262,GRT.UN,Granite Real Estate Investment Trust,5.68B,93.41,-0.28%,617.89M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+263,EIF,Exchange Income Corporation,5.62B,101.01,1.27%,3.28B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+264,CAR.UN,Canadian Apartment Properties Real Estate Investment Trust,5.62B,36.30,0.08%,1.00B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+265,LNR,Linamar Corporation,5.41B,90.05,-1.23%,10.23B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+266,PDN,Paladin Energy Ltd,5.41B,11.89,2.32%,327.38M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+267,MAU,Montage Gold Corp.,5.39B,13.37,-0.04%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+268,DOO,BRP Inc.,5.38B,73.12,0.21%,8.44B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+269,AC,Air Canada,5.36B,18.46,0.87%,22.96B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+270,NGEX,NGEx Minerals Ltd.,5.30B,25.17,3.07%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+271,PEY,Peyto Exploration & Development Corp.,5.24B,25.58,0.08%,1.07B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+272,GEI,Gibson Energy Inc.,5.21B,28.50,-5.57%,10.70B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+273,TXG,Torex Gold Resources Inc.,5.18B,56.18,1.37%,1.79B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+274,TA,TransAlta Corporation,5.10B,17.07,-0.47%,2.41B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+275,BTE,Baytex Energy Corp.,5.10B,7.01,0.79%,1.48B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+276,CHP.UN,Choice Properties Real Estate Investment Trust,5.06B,15.44,0.13%,1.52B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+277,WGX,Westgold Resources Limited,5.02B,5.27,1.74%,1.81B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+278,FCR.UN,First Capital Real Estate Investment Trust,4.97B,23.42,0.26%,714.05M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+279,ARIS,Aris Mining Corporation,4.91B,23.88,0.25%,1.27B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+280,TPZ,Topaz Energy Corp.,4.88B,31.90,1.14%,336.50M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+281,SKE,Skeena Resources Limited,4.87B,40.01,0.02%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+282,AAUC,Allied Gold Corporation,4.85B,39.39,2.31%,1.83B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+283,SES,SECURE Waste Infrastructure Corp.,4.81B,21.64,-1.95%,1.48B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+284,NG,NovaGold Resources Inc.,4.76B,10.86,0.18%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+285,DML,Denison Mines Corp.,4.62B,5.03,-1.57%,4.92M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+286,SII,Sprott Inc.,4.59B,177.75,-0.14%,390.88M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+287,BYD,Boyd Group Services Inc.,4.59B,165.85,0.61%,4.31B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+288,PPTA,Perpetua Resources Corp.,4.59B,37.37,1.91%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+289,EFX,Enerflex Ltd.,4.56B,37.51,0.40%,3.53B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+290,CG,Centerra Gold Inc.,4.51B,22.93,0.88%,2.19B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+291,POU,Paramount Resources Ltd.,4.51B,30.98,-0.35%,965.70M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+292,BB,BlackBerry Limited,4.48B,7.75,1.71%,748.79M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+293,SJ,Stella-Jones Inc.,4.44B,81.58,0.16%,3.49B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+294,PBH,Premium Brands Holdings Corporation,4.33B,82.55,-0.82%,7.48B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+295,EQB,EQB Inc.,4.31B,122.24,0.81%,1.09B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+296,ATS,ATS Corporation,4.29B,45.68,4.44%,2.80B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+297,PDI,Predictive Discovery Limited,4.27B,0.860,-7.53%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+298,IPCO,International Petroleum Corporation,4.25B,37.43,-0.64%,934.42M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+299,CRT.UN,CT Real Estate Investment Trust,4.16B,17.51,0.17%,604.25M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+300,SEA,Seabridge Gold Inc.,4.12B,38.47,0.26%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+301,SRU.UN,SmartCentres Real Estate Investment Trust,4.10B,28.40,0.21%,935.00M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+302,KXS,Kinaxis Inc.,4.00B,141.98,-1.88%,751.41M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+303,CEU,CES Energy Solutions Corp.,3.99B,19.00,0.42%,2.49B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+304,FVI,Fortuna Mining Corp.,3.82B,12.64,0.88%,1.30B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+305,BLX,Boralex Inc.,3.78B,36.84,0.27%,849.00M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+306,ARE,Aecon Group Inc.,3.73B,55.17,1.29%,5.63B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+307,EDR,Endeavour Silver Corp.,3.66B,11.93,-3.56%,641.00M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+308,SVM,Silvercorp Metals Inc.,3.66B,16.62,0.24%,501.68M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+309,HPS.A,Hammond Power Solutions Inc.,3.50B,296.00,0.68%,898.26M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+310,CURA,"Curaleaf Holdings, Inc.",3.48B,4.550,2.25%,1.74B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+311,MFI,Maple Leaf Foods Inc.,3.48B,27.98,0.11%,3.91B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+312,ERO,Ero Copper Corp.,3.48B,35.05,5.10%,1.08B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+313,AYA,Aya Gold & Silver Inc.,3.47B,24.08,-0.78%,277.11M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+314,WDO,Wesdome Gold Mines Ltd.,3.44B,23.75,2.46%,914.33M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+315,TKO,Taseko Mines Limited,3.42B,9.39,0.43%,672.90M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+316,FIH.U,Fairfax India Holdings Corporation,3.26B,17.51,-1.90%,873.15M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+317,BEI.UN,Boardwalk Real Estate Investment Trust,3.19B,67.02,0.65%,635.95M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+318,VNP,5N Plus Inc.,3.19B,35.12,-0.90%,536.19M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+319,CRR.UN,Crombie Real Estate Investment Trust,3.18B,17.12,0.94%,498.18M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+320,HWX,Headwater Exploration Inc.,3.15B,13.16,-0.75%,522.68M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+321,BDT,Bird Construction Inc.,3.02B,55.14,1.11%,3.40B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+322,FRU,Freehold Royalties Ltd.,2.92B,17.81,0.17%,313.46M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+323,RUS,Russel Metals Inc.,2.91B,53.18,0.26%,4.64B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+324,TVK,TerraVest Industries Inc.,2.86B,130.47,-1.17%,1.54B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+325,EXE,Extendicare Inc.,2.86B,30.48,0.59%,1.66B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+326,ALS,Altius Minerals Corporation,2.84B,51.24,0.45%,53.75M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+327,BHC,Bausch Health Companies Inc.,2.81B,7.79,3.66%,14.70B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+328,VET,Vermilion Energy Inc.,2.81B,18.23,-0.92%,1.70B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+329,HR.UN,H&R Real Estate Investment Trust,2.79B,10.61,0.76%,879.51M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+330,SDE,Spartan Delta Corp.,2.77B,13.67,-0.07%,369.97M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+331,PXT,Parex Resources Inc.,2.72B,29.70,4.95%,1.22B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+332,BDGI,Badger Infrastructure Solutions Ltd.,2.70B,81.83,2.01%,1.20B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+333,CIA,Champion Iron Limited,2.68B,4.775,1.17%,1.78B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+334,KEEL,Keel Infrastructure Corp.,2.67B,4.545,3.06%,314.36M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+335,GTWO,G2 Goldfields Inc.,2.66B,10.60,2.81%,1.34M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+336,IE,Ivanhoe Electric Inc.,2.66B,17.23,0.76%,4.45M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+337,CCA,Cogeco Communications Inc.,2.65B,62.85,-0.19%,2.84B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+338,LAC,Lithium Americas Corp.,2.62B,7.61,1.06%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+339,ABRA,AbraSilver Resource Corp.,2.61B,16.34,0.86%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+340,SGD,Snowline Gold Corp.,2.60B,14.82,0.07%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+341,USA,Americas Gold and Silver Corporation,2.60B,7.78,-2.57%,161.70M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+342,SIA,Sienna Senior Living Inc.,2.51B,23.91,0.93%,1.00B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+343,NFI,NFI Group Inc.,2.51B,21.15,0.43%,4.94B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+344,SXGC,Southern Cross Gold Consolidated Ltd.,2.49B,9.34,0.86%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+345,RUP,Rupert Resources Ltd.,2.41B,10.19,-0.29%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+346,NWC,The North West Company Inc.,2.38B,49.72,-0.88%,2.60B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+347,WPK,Winpak Ltd.,2.33B,39.98,0.45%,1.55B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+348,LAR,Lithium Argentina AG,2.30B,14.35,2.21%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+349,WTE,Westshore Terminals Investment Corporation,2.21B,35.41,-1.17%,323.00M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+350,PMZ.UN,Primaris Real Estate Investment Trust,2.21B,18.94,0.66%,675.29M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+351,SLS,Solaris Resources Inc.,2.21B,13.19,-0.23%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+352,CJ,Cardinal Energy Ltd.,2.19B,12.43,-0.48%,439.43M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+353,CNL,Collective Mining Ltd.,2.18B,23.31,-1.02%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+354,TNZ,Tenaz Energy Corp.,2.14B,65.79,-0.84%,284.13M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+355,RCH,Richelieu Hardware Ltd.,2.12B,38.67,0.35%,1.99B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+356,SIS,Savaria Corporation,2.10B,29.43,1.00%,913.53M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+357,TSU,Trisura Group Ltd.,2.09B,44.22,0.50%,3.20B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+358,KMP.UN,Killam Apartment REIT,2.09B,17.15,0.41%,385.63M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+359,TOY,Spin Master Corp.,2.07B,20.63,0.49%,2.91B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+360,KEL,Kelt Exploration Ltd.,2.06B,10.00,-2.06%,466.99M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+361,MTL,Mullen Group Ltd.,1.97B,20.62,0.34%,2.18B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+362,ALK,Alkane Resources Ltd,1.97B,1.440,1.41%,498.27M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+363,CHE.UN,Chemtrade Logistics Income Fund,1.92B,17.20,0.23%,2.00B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+364,AP.UN,Allied Properties Real Estate Investment Trust,1.85B,9.42,-0.53%,585.67M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+365,IIP.UN,InterRent Real Estate Investment Trust,1.84B,13.13,-0.38%,247.48M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+366,LB,Laurentian Bank of Canada,1.81B,40.36,-0.06%,923.23M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+367,BIR,Birchcliff Energy Ltd.,1.79B,6.49,-0.31%,695.67M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+368,LIF,Labrador Iron Ore Royalty Corporation,1.79B,27.52,-1.71%,165.59M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+369,LSPD,Lightspeed Commerce Inc.,1.78B,12.84,-1.23%,1.63B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+370,LNF,Leon's Furniture Limited,1.78B,26.10,1.08%,2.57B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+371,AAV,Advantage Energy Ltd.,1.73B,10.33,0.29%,637.01M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+372,IAU,i-80 Gold Corp.,1.71B,2.030,-,130.52M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+373,MER,Meren Energy Inc.,1.70B,2.455,-2.19%,770.71M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+374,PD,Precision Drilling Corporation,1.69B,127.96,-1.72%,1.84B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+375,MUX,McEwen Inc.,1.65B,27.96,0.47%,270.87M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+376,VMET,Versamet Royalties Corporation,1.65B,15.21,-0.33%,47.66M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+377,MEQ,Mainstreet Equity Corp.,1.64B,179.29,1.59%,279.56M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+378,AIF,Altus Group Limited,1.64B,44.92,-1.30%,502.89M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+379,SPB,Superior Plus Corp.,1.60B,7.48,0.27%,3.37B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+380,VZLA,Vizsla Silver Corp.,1.60B,4.480,-1.97%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+381,NDM,Northern Dynasty Minerals Ltd.,1.58B,2.810,-0.35%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+382,RGSI,Rockpoint Gas Storage Inc.,1.56B,29.39,0.03%,541.46M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+383,SVI,StorageVault Canada Inc.,1.56B,4.280,0.23%,344.00M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+384,HSLV,Highlander Silver Corp.,1.53B,7.64,1.60%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+385,LAS.A,Lassonde Industries Inc.,1.52B,223.52,-,2.93B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+386,ELE,Elemental Royalty Corporation,1.50B,23.38,1.96%,59.84M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+387,TCW,Trican Well Service Ltd.,1.50B,7.14,0.14%,1.10B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+388,ASCU,Arizona Sonoran Copper Company Inc.,1.50B,7.33,2.37%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+389,GOOS,Canada Goose Holdings Inc.,1.47B,15.55,2.50%,1.46B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+390,MSA,Mineros S.A.,1.47B,5.03,1.62%,1.10B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+391,ASM,Avino Silver & Gold Mines Ltd.,1.45B,8.58,-0.46%,126.45M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+392,NUAG,New Pacific Metals Corp.,1.44B,7.90,1.02%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+393,MAL,Magellan Aerospace Corporation,1.44B,25.10,-0.28%,1.04B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+394,VLE,Valeura Energy Inc.,1.44B,13.41,-0.89%,817.90M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+395,RIO,Rio2 Limited,1.40B,2.570,-,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+396,PET,Pet Valu Holdings Ltd.,1.40B,20.61,0.73%,1.18B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+397,JWEL,Jamieson Wellness Inc.,1.39B,33.87,0.74%,822.06M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+398,CFP,Canfor Corporation,1.38B,11.87,0.81%,5.34B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+399,VITL.UN,Vital Infrastructure Property Trust,1.37B,5.47,-1.26%,458.16M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+400,CRON,Cronos Group Inc.,1.37B,3.650,0.55%,200.99M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+401,BLDP,Ballard Power Systems Inc.,1.35B,5.47,21.83%,136.25M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+402,OBE,Obsidian Energy Ltd.,1.33B,19.02,-3.21%,540.80M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+403,FDY,Faraday Copper Corp.,1.31B,4.570,1.33%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+404,FFM,FireFly Metals Ltd,1.31B,1.800,-,9.25M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+405,SOIL,Saturn Oil & Gas Inc.,1.30B,7.04,-1.95%,881.65M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+406,ORE,Orezone Gold Corporation,1.30B,1.990,2.05%,516.40M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+407,SFC,Sagicor Financial Company Ltd.,1.29B,9.49,-0.11%,1.97B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+408,MRC,Morguard Corporation,1.28B,120.15,-0.29%,1.12B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+409,MDI,Major Drilling Group International Inc.,1.26B,15.53,1.11%,842.94M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+410,LMCU,Lumina Metals Corp.,1.23B,11.38,-8.23%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+411,ET,Evertz Technologies Limited,1.21B,16.11,0.19%,512.02M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+412,CF,Canaccord Genuity Group Inc.,1.21B,12.20,1.50%,1.95B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+413,CJT,Cargojet Inc.,1.20B,77.81,3.13%,997.50M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+414,AGTF,AGT Food and Ingredients Inc.,1.16B,17.10,-1.33%,2.96B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+415,NEO,Neo Performance Materials Inc.,1.15B,28.20,2.77%,656.48M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+416,III,Imperial Metals Corporation,1.14B,6.52,1.56%,691.78M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+417,ARA,Aclara Resources Inc.,1.14B,4.640,-1.49%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+418,BDI,Black Diamond Group Limited,1.13B,16.42,0.37%,484.67M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+419,PMET,PMET Resources Inc.,1.12B,6.47,5.72%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+420,GGD,GoGold Resources Inc.,1.12B,2.625,1.35%,115.87M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+421,OM,Osisko Metals Incorporated,1.12B,1.525,0.33%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+422,GFR,Greenfire Resources Ltd.,1.11B,8.74,-1.02%,584.40M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+423,KEC,Kiwetinohk Energy Corp.,1.11B,24.73,0.12%,586.66M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+424,WELL,WELL Health Technologies Corp.,1.10B,4.310,-,1.40B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+425,RFA,RFA Financial Inc.,1.10B,23.58,-0.92%,199.77M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+426,ATX,ATEX Resources Inc.,1.09B,2.900,-4.29%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+427,CAS,Cascades Inc.,1.08B,10.81,1.12%,4.78B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+428,TLO,Talon Metals Corp.,1.08B,6.73,-2.18%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+429,PSI,Pason Systems Inc.,1.06B,14.99,9.42%,419.27M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+430,SOY,SunOpta Inc.,1.04B,8.91,1.37%,1.12B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+431,MARI,Marimaca Copper Corp.,1.03B,7.82,1.82%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+432,TMQ,Trilogy Metals Inc.,1.03B,5.85,-0.51%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+433,AGF.B,AGF Management Limited,1.03B,15.95,0.06%,573.67M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+434,CVG,Clairvest Group Inc.,1.02B,75.03,-,129.17M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+435,MKP,MCAN Mortgage Corporation,1.01B,25.16,1.04%,142.77M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+436,FEC,Frontera Energy Corporation,1.01B,14.63,-0.20%,1.37B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+437,AD.UN,Alaris Equity Partners Income Trust,1.01B,22.47,0.99%,176.70M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+438,RAY,Stingray Group Inc.,1.01B,14.93,1.01%,429.75M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+439,SGY,Surge Energy Inc.,994.34M,9.93,-1.29%,480.72M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+440,TSAT,Telesat Corporation,981.85M,64.59,-2.62%,417.96M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+441,CTGO,Contango Silver & Gold Inc.,978.00M,31.04,-1.62%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+442,ARG,Amerigo Resources Ltd.,974.02M,6.06,0.66%,347.99M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+443,ISO,IsoEnergy Ltd.,962.39M,15.88,2.25%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+444,ENGH,Enghouse Systems Limited,961.56M,17.82,0.79%,494.98M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+445,TLRY,"Tilray Brands, Inc.",957.46M,7.80,-3.47%,1.17B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+446,SGR.U,Slate Grocery REIT,957.08M,11.78,-0.59%,307.24M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+447,SGR.UN,Slate Grocery REIT,957.08M,16.23,0.50%,307.24M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+448,URE,Ur-Energy Inc.,949.62M,2.385,-0.21%,37.30M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+449,APM,Andean Precious Metals Corp.,918.74M,6.07,-0.49%,493.37M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+450,MTY,MTY Food Group Inc.,918.45M,40.18,0.85%,1.17B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+451,DHT.UN,DRI Healthcare Trust,897.33M,16.31,-0.25%,263.00M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+452,SEC,Senvest Capital Inc.,896.19M,370.00,-,585.44M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+453,ALC,Algoma Central Corporation,892.49M,22.00,-,761.06M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+454,TOT,Total Energy Services Inc.,891.73M,24.19,-0.41%,1.06B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+455,DBM,Doman Building Materials Group Ltd.,879.39M,10.09,0.70%,3.12B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+456,TLG,Troilus Mining Corp.,873.99M,1.640,3.14%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+457,AW,A & W Food Services of Canada Inc.,873.66M,36.66,0.71%,294.10M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+458,PRL,Propel Holdings Inc.,862.02M,24.23,10.64%,861.17M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+459,WRN,Western Copper and Gold Corporation,852.88M,3.845,1.72%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+460,ISC,Information Services Corporation,847.13M,45.30,1.15%,257.77M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+461,CUP.U,"Caribbean Utilities Company, Ltd.",838.35M,14.50,-,389.39M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+462,RSI,Rogers Sugar Inc.,831.17M,6.53,0.77%,1.28B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+463,DCBO,Docebo Inc.,829.85M,28.50,-1.21%,332.75M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+464,ITH,International Tower Hill Mines Ltd.,816.31M,3.130,0.32%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+465,ADEN,ADENTRA Inc.,805.82M,33.72,1.47%,3.08B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+466,GAU,Galiano Gold Inc.,805.35M,3.130,0.97%,450.33M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+467,CGY,Calian Group Ltd.,804.93M,70.72,0.28%,797.06M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+468,QRC,Queen's Road Capital Investment Ltd.,790.88M,15.50,-,458.78M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+469,VBNK,VersaBank,783.78M,25.36,3.76%,129.24M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+470,BLN,Blackline Safety Corp.,782.15M,8.96,0.11%,151.64M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+471,MNO,Meridian Mining Plc,770.01M,1.695,0.89%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+472,DRM,Dream Unlimited Corp.,768.67M,18.65,2.08%,462.95M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+473,URC,Uranium Royalty Corp.,760.22M,5.22,0.58%,54.60M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+474,DXT,Dexterra Group Inc.,742.09M,11.95,0.50%,1.04B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+475,GUD,Knight Therapeutics Inc.,741.80M,7.54,-0.13%,450.09M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+476,WJX,Wajax Corporation,740.01M,28.99,-14.58%,2.15B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+477,MRE,Martinrea International Inc.,733.04M,10.40,0.58%,4.82B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+478,DLCG,Dominion Lending Centres Inc.,732.61M,9.57,0.63%,96.27M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+479,ESI,Ensign Energy Services Inc.,727.07M,3.930,-0.76%,1.64B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+480,LGD,Liberty Gold Corp.,725.21M,1.390,0.72%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+481,DIV,Diversified Royalty Corp.,723.95M,4.340,2.60%,70.79M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+482,BK,Canadian Banc Corp.,717.47M,14.75,0.75%,244.80M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+483,CGX,Cineplex Inc.,705.63M,11.25,0.45%,1.28B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+484,BSX,Belo Sun Mining Corp,688.97M,1.230,-0.81%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+485,ASTL,Algoma Steel Group Inc.,673.82M,6.61,2.96%,2.09B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+486,MI.UN,Minto Apartment Real Estate Investment Trust,639.98M,17.49,0.11%,153.23M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+487,ELVA,Electrovaya Inc.,636.54M,13.52,4.97%,93.53M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+488,FVL,Freegold Ventures Limited,635.47M,1.095,-0.45%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+489,APR.UN,Automotive Properties Real Estate Investment Trust,625.67M,11.53,0.09%,101.84M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+490,ECOR,Ecora Royalties PLC,621.26M,2.530,2.85%,76.65M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+491,EPRX,Eupraxia Pharmaceuticals Inc.,619.95M,9.97,-1.09%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+492,IFP,Interfor Corporation,609.66M,9.41,1.51%,2.81B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+493,FF,First Mining Gold Corp.,608.94M,0.448,1.70%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+494,TPX.A,Molson Coors Canada Inc.,605.14M,66.00,3.94%,2.89B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+495,TPX.B,Molson Coors Canada Inc.,605.14M,60.38,-0.20%,2.89B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+496,CGO,Cogeco Inc.,599.47M,63.14,-0.25%,2.94B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+497,TWC,TWC Enterprises Limited,598.46M,24.78,1.06%,227.60M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+498,FSZ,Fiera Capital Corporation,591.84M,5.67,1.61%,673.00M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+499,MATR,Mattr Corp.,589.20M,9.62,0.21%,1.27B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+500,AI,Atrium Mortgage Investment Corporation,580.53M,12.17,0.91%,60.62M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/
+501,WEED,Canopy Growth Corporation,578.84M,1.510,-0.66%,278.39M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+502,CHR,Chorus Aviation Inc.,578.25M,23.62,0.34%,1.32B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+503,MRG.UN,Morguard North American Residential Real Estate Investment Trust,573.03M,16.40,-2.32%,356.61M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+504,PHX,PHX Energy Services Corp.,572.61M,12.45,-0.72%,709.60M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+505,NXR.UN,Nexus Industrial REIT,572.39M,7.94,-0.38%,172.63M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+506,MRD,Melcor Developments Ltd.,555.69M,18.50,-,410.55M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+507,HOM.U,BSR Real Estate Investment Trust,553.87M,11.76,-0.76%,197.75M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+508,HOM.UN,BSR Real Estate Investment Trust,553.87M,16.28,-0.25%,197.75M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+509,JAG,Jaguar Mining Inc.,550.38M,6.60,2.33%,185.33M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+510,CFW,Calfrac Well Services Ltd.,548.28M,5.60,2.56%,1.39B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+511,TF,Timbercreek Financial Corp.,547.00M,6.68,1.06%,54.82M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+512,NOA,North American Construction Group Ltd.,546.65M,20.10,1.26%,1.28B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+513,CPKR,Canada Packers Inc.,540.58M,18.39,1.07%,1.81B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+514,TCS,Tecsys Inc.,538.29M,36.88,-0.86%,189.65M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+515,DTOL,D2L Inc.,530.79M,9.80,3.27%,294.98M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+516,GO.U,GO Residential Real Estate Investment Trust,528.38M,10.38,2.27%,161.80M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+517,ACQ,AutoCanada Inc.,522.02M,22.78,0.44%,4.90B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+518,ANRG,Anaergia Inc.,519.78M,3.160,4.29%,180.19M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+519,FTG,Firan Technology Group Corporation,518.07M,20.98,1.94%,195.43M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+520,BPF.UN,Boston Pizza Royalties Income Fund,513.88M,24.41,1.08%,51.89M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+521,GSY,goeasy Ltd.,513.56M,32.16,0.41%,506.32M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+522,WFC,Wall Financial Corporation,510.54M,16.00,-,179.24M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+523,CLCH,Clinch Resources Ltd.,508.10M,1.430,2.88%,2.37M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+524,VHI,Vitalhub Corp.,507.97M,8.01,-0.25%,108.97M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+525,IPO,InPlay Oil Corp.,505.77M,17.77,-1.61%,251.82M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+526,MHC.U,Flagship Communities Real Estate Investment Trust,503.87M,19.37,1.41%,141.75M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+527,MHC.UN,Flagship Communities Real Estate Investment Trust,503.87M,26.49,2.00%,141.75M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+528,KBL,K-Bro Linen Inc.,503.16M,39.02,0.05%,506.78M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+529,VOXR,Vox Royalty Corp.,501.60M,7.33,0.69%,22.79M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+530,TRX,TRX Gold Corporation,501.42M,1.550,0.65%,129.78M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+531,TAL,PetroTal Corp.,496.97M,0.540,-,382.07M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+532,PBL,Pollard Banknote Limited,490.47M,17.80,-1.77%,596.02M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+533,PLZ.UN,Plaza Retail REIT,489.36M,4.430,-1.12%,130.86M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+534,ETG,EntrÃ©e Resources Ltd.,488.06M,2.350,0.43%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+535,SBI,Serabi Gold plc,476.16M,6.27,-2.49%,213.69M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+536,KITS,Kits Eyecare Ltd.,473.83M,14.19,1.79%,202.46M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+537,PZA,Pizza Pizza Royalty Corp.,468.19M,14.05,1.44%,40.79M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+538,TCL.A,Transcontinental Inc.,466.73M,5.57,2.96%,2.75B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+539,TCL.B,Transcontinental Inc.,466.73M,6.92,-,2.75B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+540,FLT,Volatus Aerospace Inc.,460.42M,0.670,-1.47%,34.20M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+541,NOU,Nouveau Monde Graphite Inc.,459.96M,2.820,-0.70%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+542,GTE,Gran Tierra Energy Inc.,456.70M,12.66,-2.47%,818.17M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+543,CPH,Cipher Pharmaceuticals Inc.,456.28M,17.85,-0.67%,69.17M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+544,FC,Firm Capital Mortgage Investment Corporation,446.38M,12.27,0.99%,42.56M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+545,CVVY,Cavvy Energy Ltd.,441.99M,1.410,-1.40%,217.92M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+546,CVO,Coveo Solutions Inc.,441.98M,4.690,-1.05%,199.16M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+547,MRT.UN,Morguard Real Estate Investment Trust,434.04M,6.50,-0.61%,241.17M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+548,GASX,NG Energy International Corp.,433.71M,1.600,-5.33%,45.02M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+549,KSI,"kneat.com, inc.",429.71M,4.510,0.89%,63.26M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+550,REAL,Real Matters Inc.,428.65M,5.74,-0.52%,258.54M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+551,CSW.A,Corby Spirit and Wine Limited,418.74M,14.80,0.20%,262.33M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+552,CSW.B,Corby Spirit and Wine Limited,418.74M,14.18,0.07%,262.33M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+553,EDT,Spectral Medical Inc.,416.65M,1.400,-1.41%,2.44M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+554,LCFS,Tidewater Renewables Ltd.,416.13M,10.55,-7.54%,248.00M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+555,VGZ,Vista Gold Corp.,414.11M,2.880,0.70%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+556,PRV.UN,Pro Real Estate Investment Trust,411.86M,6.54,0.93%,104.10M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+557,GBT,BMTC Group Inc.,409.08M,12.99,1.09%,627.11M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+558,JOY,Journey Energy Inc.,402.86M,6.49,8.63%,171.65M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+559,TBL,Taiga Building Products Ltd.,400.47M,3.740,0.81%,1.63B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+560,ERD,Erdene Resource Development Corporation,398.95M,6.10,-0.16%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+561,STCK,Stack Capital Group Inc.,392.89M,26.55,3.51%,56.71M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+562,HLF,High Liner Foods Incorporated,388.63M,13.86,0.51%,1.41B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+563,GRA,NanoXplore Inc.,382.94M,2.130,0.95%,113.16M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+564,GLO,Global Atomic Corporation,382.42M,0.760,-2.56%,1.09M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+565,DC.A,Dundee Corporation,377.30M,4.220,0.48%,5.36M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+566,AFN,Ag Growth International Inc.,374.19M,19.96,0.60%,1.42B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+567,DGX,Digi Power X Inc.,369.99M,5.42,7.33%,46.88M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+568,TI,Titan Mining Corporation,359.73M,3.600,-1.64%,101.79M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+569,LUC,Lucara Diamond Corp.,357.25M,0.235,-2.08%,218.92M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+570,GRID,Tantalus Systems Holding Inc.,356.77M,6.29,-0.94%,74.20M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+571,GOLD,GoldMining Inc.,342.40M,1.600,0.31%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+572,CKI,Clarke Inc.,341.72M,26.35,6.90%,81.60M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+573,BTB.UN,BTB Real Estate Investment Trust,340.56M,3.910,1.56%,130.14M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+574,VLN,Velan Inc.,334.58M,15.50,-,411.71M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+575,PRN,Profound Medical Corp.,331.40M,9.46,3.73%,22.07M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+576,STGO,Steppe Gold Ltd.,328.68M,1.300,-,348.44M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+577,TWM,Tidewater Midstream and Infrastructure Ltd.,323.27M,14.44,-2.43%,1.32B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+578,VCM,Vecima Networks Inc.,322.17M,13.25,0.15%,277.53M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+579,ADN,Acadian Timber Corp.,320.76M,17.44,0.35%,86.96M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+580,CMG,Computer Modelling Group Ltd.,316.45M,3.990,0.25%,126.20M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+581,RBY,Rubellite Energy Corp.,316.05M,3.370,-,210.07M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+582,FRX,Fennec Pharmaceuticals Inc.,311.90M,8.87,-,61.21M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+583,RIC,Richards Group Inc.,311.49M,29.75,8.18%,435.20M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+584,SPAC.U,Mercer Park Opportunities Corp.,311.10M,10.75,-,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+585,SAU,St. Augustine Gold and Copper Limited,308.01M,0.185,-5.13%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+586,DRX,ADF Group Inc.,307.80M,10.95,1.58%,258.74M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+587,RM,Roxmore Resources Inc.,304.32M,4.320,-,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+588,DR,Medical Facilities Corporation,300.11M,17.22,0.70%,348.49M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+589,WILD,WildBrain Ltd.,299.34M,1.410,0.71%,529.86M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+590,TSND,TerrAscend Corp.,297.18M,0.960,-,357.26M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+591,PTM,Platinum Group Metals Ltd.,296.77M,2.380,1.71%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+592,OLY,Olympia Financial Group Inc.,296.56M,123.24,-,98.86M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+593,PRQ,Petrus Resources Ltd.,296.17M,2.010,-,79.36M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+594,FAR,Foraco International SA,291.17M,3.020,1.68%,376.09M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+595,XTC,Exco Technologies Limited,288.34M,7.66,-0.13%,612.66M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+596,HFPC.U,Helios Fairfax Partners Corporation,285.82M,1.860,-2.11%,87.99M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+597,AIDX,Healwell AI Inc.,284.11M,0.980,2.08%,103.80M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+598,MPC,Madison Pacific Properties Inc.,281.28M,5.30,-,43.36M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+599,MPC.C,Madison Pacific Properties Inc.,281.28M,4.550,-2.15%,43.36M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+600,MXG,Maxim Power Corp.,279.70M,4.400,-1.57%,86.87M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+601,GH,Gamehost Inc.,277.32M,13.40,-0.07%,84.26M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+602,TSK,Talisker Resources Ltd.,276.57M,1.330,-,5.45M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+603,MGA,Mega Uranium Ltd.,276.41M,0.710,-1.39%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+604,KEI,Kolibri Global Energy Inc.,276.34M,7.74,-0.64%,78.73M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+605,D.UN,Dream Office Real Estate Investment Trust,276.09M,16.98,0.83%,154.41M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+606,ACB,Aurora Cannabis Inc.,274.94M,4.700,1.08%,373.12M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+607,BNKR,Bunker Hill Mining Corp.,268.44M,5.75,-3.36%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+608,OGI,Organigram Global Inc.,265.80M,1.920,1.59%,279.99M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+609,PIF,Polaris Renewable Energy Inc.,265.71M,12.79,0.63%,110.35M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+610,BNE,Bonterra Energy Corp.,264.44M,7.19,-0.55%,216.61M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+611,ADW.A,Andrew Peller Limited,258.45M,5.69,1.43%,389.04M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+612,ADW.B,Andrew Peller Limited,258.45M,7.18,6.21%,389.04M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+613,BGAU,Blossom Gold Inc.,256.66M,1.950,1.56%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+614,ACX,ACT Energy Technologies Ltd.,254.84M,6.55,-0.91%,474.93M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+615,STLR,STLLR Gold Inc.,254.08M,1.440,1.41%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+616,ELO,Eloro Resources Ltd.,251.28M,2.090,-0.48%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+617,DNG,Dynacor Group Inc.,250.40M,6.24,4.52%,545.15M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+618,CDR,Condor Energies Inc.,248.00M,3.100,-,69.54M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+619,AIM,Aimia Inc.,247.47M,2.740,-1.44%,511.60M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+620,MSCL,Satellos Bioscience Inc.,241.02M,11.58,0.09%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+621,NCF,Northcliff Resources Ltd.,238.55M,0.370,-2.63%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+622,FCD.UN,Firm Capital Property Trust,236.69M,6.53,1.87%,61.86M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+623,SHLE,Source Energy Services Ltd.,232.83M,17.54,-1.46%,700.31M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+624,CRRX,CareRx Corporation,230.95M,3.600,-1.10%,370.24M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+625,WNDR,WonderFi Technologies Inc.,229.93M,0.345,-,45.97M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+626,PNE,Pine Cliff Energy Ltd.,229.63M,0.640,-,164.55M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+627,TC,Tucows Inc.,229.08M,20.51,-5.22%,535.15M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+628,DND,Dye & Durham Limited,228.39M,3.280,-3.53%,423.92M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+629,ORV,Orvana Minerals Corp.,225.43M,1.670,1.21%,149.76M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+630,MOLY,Greenland Resources Inc.,219.52M,1.660,-5.14%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+631,AGMR,Silver Mountain Resources Inc.,214.82M,3.570,0.85%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+632,BOIL,Beyond Oil Ltd.,211.99M,2.780,-1.77%,6.19M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+633,LAM,Laramide Resources Ltd.,207.07M,0.730,-,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+634,CRDL,Cardiol Therapeutics Inc.,203.61M,1.810,-0.55%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+635,XAU,Goldmoney Inc.,202.39M,16.17,0.19%,216.29M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+636,DBO,D-BOX Technologies Inc.,202.19M,0.940,3.30%,51.55M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+637,GENM,Generation Mining Limited,196.34M,0.630,3.28%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+638,XLY,Auxly Cannabis Group Inc.,193.37M,0.135,-,151.48M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+639,STC,Sangoma Technologies Corporation,190.02M,5.78,1.23%,301.23M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+640,ECO,EcoSynthetix Inc.,189.49M,3.190,-0.93%,28.52M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+641,GDC,Genesis Land Development Corp.,188.57M,3.330,-0.60%,381.16M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+642,PSD,Pulse Seismic Inc.,187.14M,3.680,-0.27%,30.18M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+643,MTEK,Metatek-Group Ltd.,186.56M,4.950,-,32.43M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+644,S,Sherritt International Corporation,186.37M,0.263,-0.94%,177.30M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+645,FLNT,Flint Corp.,184.80M,1.780,5.95%,563.85M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+646,QTRH,Quarterhill Inc.,179.97M,1.510,0.67%,212.76M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+647,BOS,AirBoss of America Corp.,178.48M,6.55,-0.30%,562.44M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+648,Y,Yellow Pages Limited,178.31M,12.86,-0.77%,198.88M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+649,AKT.A,AKITA Drilling Ltd.,177.27M,4.600,3.37%,200.90M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+650,AKT.B,AKITA Drilling Ltd.,177.27M,4.600,9.52%,200.90M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+651,HAI,Haivision Systems Inc.,175.05M,6.34,-0.16%,144.70M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+652,GCU,Gunnison Copper Corp.,173.35M,0.410,-,14.94M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+653,LOVE,Cannara Biotech Inc.,172.87M,1.740,-0.57%,113.01M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+654,HMM.A,Hammond Manufacturing Company Limited,161.06M,14.50,2.04%,289.48M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+655,BAMI,Blue Ant Media Corporation,159.52M,5.82,1.22%,267.30M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+656,QEC,Questerre Energy Corporation,158.16M,0.335,-1.47%,70.75M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+657,HBP,Helix BioPharma Corp.,155.81M,2.040,-3.32%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+658,ROOT,Roots Corporation,155.61M,3.970,-,277.68M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+659,TINY,Tiny Ltd.,154.97M,5.29,-,203.75M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+660,YGR,Yangarra Resources Ltd.,154.17M,1.460,-,107.21M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+661,DRT,DIRTT Environmental Solutions Ltd.,153.01M,0.770,-2.53%,231.52M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+662,RUA,Rua Gold Inc.,148.27M,1.330,3.10%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+663,FURY,Fury Gold Mines Limited,147.35M,0.790,1.94%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+664,HLS,HLS Therapeutics Inc.,147.30M,4.710,1.29%,76.10M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+665,OCG,Outcrop Silver & Gold Corporation,146.83M,0.305,1.67%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+666,CXI,"Currency Exchange International, Corp.",146.80M,25.18,1.94%,98.23M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+667,G,Augusta Gold Corp.,146.27M,1.690,-,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+668,WEF,Western Forest Products Inc.,145.49M,14.06,2.03%,986.50M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+669,IMP,Intermap Technologies Corporation,144.61M,1.980,1.02%,14.49M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+670,XTG,Xtra-Gold Resources Corp.,144.31M,3.100,-1.90%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+671,TELY,TelyRx Holdings Inc.,142.30M,3.030,1.00%,58.85M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+672,GEO,Geodrill Limited,141.59M,3.090,3.69%,253.54M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+673,IVQ,Invesque Inc.,137.03M,0.150,7.14%,102.96M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+674,IVQ.U,Invesque Inc.,137.03M,0.0950,-,102.96M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+675,BRE,Bridgemarq Real Estate Services Inc.,132.20M,13.86,-0.57%,407.38M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+676,SRV.UN,SIR Royalty Income Fund,131.16M,15.66,-0.19%,11.10M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+677,LGO,Largo Inc.,129.69M,1.590,2.58%,150.67M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+678,ALYA,Alithya Group Inc.,129.11M,1.320,-0.75%,488.94M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+679,GMX,Globex Mining Enterprises Inc.,126.63M,2.230,0.45%,1.45M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+680,IFA,iFabric Corp.,125.14M,4.060,-1.69%,32.87M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+681,MDP,Medexus Pharmaceuticals Inc.,124.26M,3.940,1.55%,136.34M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+682,E,"Enterprise Group, Inc.",122.42M,1.475,-1.67%,36.35M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+683,GURU,GURU Organic Energy Corp.,118.91M,3.870,-2.03%,35.88M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+684,CWEB,"Charlotte's Web Holdings, Inc.",117.22M,0.690,-5.48%,68.41M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+685,TNT.UN,True North Commercial Real Estate Investment Trust,115.63M,8.28,0.73%,130.12M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+686,XTRA,Xtract One Technologies Inc.,114.37M,0.440,-,17.21M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+687,KPT,KP Tissue Inc.,114.05M,11.35,-0.26%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+688,NANO,Nano One Materials Corp.,113.70M,0.960,1.05%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+689,CCM,Canagold Resources Ltd.,113.39M,0.530,-,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+690,ERE.UN,European Residential Real Estate Investment Trust,110.80M,1.190,0.85%,61.85M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+691,THNC,Thinkific Labs Inc.,109.44M,1.450,-10.49%,100.35M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+692,TRZ,Transat A.T. Inc.,105.79M,2.570,-1.15%,3.44B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+693,WRG,Western Energy Services Corp.,105.27M,3.110,-,203.75M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+694,SLR,Solitario Resources Corp.,102.87M,1.130,-4.24%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+695,ELR,Eastern Platinum Limited,101.45M,0.500,1.01%,84.44M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+696,PNC.A,Postmedia Network Canada Corp.,99.03M,0.940,-,432.21M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+697,PNC.B,Postmedia Network Canada Corp.,99.03M,1.000,5.26%,432.21M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+698,WM,Wallbridge Mining Company Limited,97.81M,0.0800,-,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+699,DCM,DATA Communications Management Corp.,96.35M,1.670,-,450.36M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+700,GDL,Goodfellow Inc.,96.06M,11.55,-0.43%,540.53M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+701,SYZ,Sylogist Ltd.,95.20M,4.000,-1.72%,62.24M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+702,IS,Infrastructure Dividend Split Corp.,93.58M,18.92,-0.94%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+703,FSY,Forsys Metals Corp.,93.00M,0.365,-3.95%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+704,FT,Fortune Minerals Limited,88.74M,0.158,8.62%,112.25K,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+705,SXP,Supremex Inc.,88.32M,3.650,0.55%,274.78M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+706,RTG,RTG Mining Inc.,86.39M,0.0450,-,109.22K,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+707,PNP,Pinetree Capital Ltd.,86.17M,9.01,-1.85%,-17.44M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+708,PYR,PyroGenesis Inc.,82.64M,0.400,-2.50%,12.57M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+709,CEMX,CEMATRIX Corporation,82.38M,0.550,-,45.74M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+710,NEXT,NextSource Materials Inc.,81.02M,0.335,1.52%,1.67M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+711,AIAI,NetraMark Holdings Inc.,78.75M,0.850,-3.41%,165.26K,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+712,ESM,Euro Sun Mining Inc.,77.63M,0.160,-8.57%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+713,COPR,Coppernico Metals Inc.,74.83M,0.420,-1.18%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+714,DYA,dynaCERT Inc.,73.70M,0.145,-,643.93K,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+715,BRAG,Bragg Gaming Group Inc.,73.14M,2.790,-2.45%,170.76M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+716,MCB,McCoy Global Inc.,71.13M,2.600,-0.76%,83.78M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+717,OGD,Orbit Garant Drilling Inc.,70.59M,1.850,-,191.84M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+718,SAM,Starcore International Mines Ltd.,65.13M,0.690,-1.43%,42.23M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+719,TSL,Tree Island Steel Ltd.,63.65M,2.470,0.41%,170.83M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+720,SVA,Sernova Biotherapeutics Inc,61.45M,0.170,-,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+721,FORA,VerticalScope Holdings Inc.,58.54M,2.730,1.11%,79.73M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+722,TXP,Touchstone Exploration Inc.,58.45M,0.180,-,47.65M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+723,BCHT,Birchtech Corp.,57.98M,2.205,1.15%,24.17M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+724,DII.A,Dorel Industries Inc.,57.83M,1.890,-,1.63B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+725,DII.B,Dorel Industries Inc.,57.83M,1.640,-1.21%,1.63B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+726,NPK,Verde AgriTech Limited,56.44M,0.970,-3.00%,16.61M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+727,ICE,Canlan Ice Sports Corp.,55.35M,4.000,-3.61%,100.03M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+728,AVL,Avalon Advanced Materials Inc.,54.29M,0.0600,-7.69%,129.65K,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+729,MDNA,Medicenna Therapeutics Corp.,51.72M,0.625,0.81%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+730,GFP,GreenFirst Forest Products Inc.,51.15M,2.210,-1.34%,303.55M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+731,SWP,Swiss Water Decaffeinated Coffee Inc.,51.03M,4.840,-9.02%,258.72M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+732,TVA.B,TVA Group Inc.,50.12M,1.160,0.87%,540.82M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+733,WPRT,Westport Fuel Systems Inc.,47.14M,2.720,0.37%,31.97M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+734,SLT,Saltire Capital Ltd.,45.15M,4.500,-5.26%,67.29M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+735,SLT.U,Saltire Capital Ltd.,45.15M,3.400,-2.86%,67.29M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+736,SFD,NXT Energy Solutions Inc.,44.82M,0.390,-,16.35M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+737,GVC,Glacier Media Inc.,44.58M,0.340,-,137.51M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+738,ILLM,illumin Holdings Inc.,42.50M,0.870,4.82%,143.59M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+739,UNI,Unisync Corp.,41.64M,2.190,-0.45%,88.17M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+740,BCT,BriaCell Therapeutics Corp.,40.17M,5.51,-0.54%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+741,BYL,Baylin Technologies Inc.,38.96M,0.255,-,76.31M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+742,GRN,Greenlane Renewables Inc.,36.71M,0.225,-2.17%,44.43M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+743,HOT.UN,American Hotel Income Properties REIT LP,36.59M,0.510,8.51%,257.47M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+744,LABS,MediPharm Labs Corp.,36.11M,0.0850,-,45.12M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+745,MBX,Microbix Biosystems Inc.,35.20M,0.255,-,16.76M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+746,ORIO,Orion Digital Corp.,33.25M,1.390,-0.71%,40.66M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+747,BKI,Black Iron Inc.,33.23M,0.100,-,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+748,NPS,Canadian Large Cap Leaders Split Corp.,32.77M,15.17,-0.26%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+749,TGO,TeraGo Inc.,32.38M,0.820,-1.20%,25.36M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+750,RVX,Resverlogix Corp.,31.67M,0.0950,-5.00%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+751,NVO,Novo Resources Corp.,31.35M,0.0800,6.67%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+752,AMC,Arizona Metals Corp.,31.00M,0.205,-8.89%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+753,WCM.A,Wilmington Capital Management Inc.,29.89M,2.400,-,1.25M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+754,WCM.B,Wilmington Capital Management Inc.,29.89M,2.300,-,1.25M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+755,SVB,"Silver Bull Resources, Inc.",28.84M,0.580,-1.69%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+756,YRB,Yorbeau Resources Inc.,28.52M,0.0600,-,71.20K,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+757,INO.UN,Inovalis Real Estate Investment Trust,28.47M,0.790,-7.06%,17.45M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+758,MSV,Minco Silver Corporation,27.42M,0.450,1.12%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+759,BU,Burcon NutraScience Corporation,26.91M,2.120,-,1.48M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+760,CWL,The Caldwell Partners International Inc.,26.55M,0.920,2.22%,115.23M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+761,SFI,Solution Financial Inc.,23.13M,0.275,-,11.32M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+762,AEG,Aegis Brands Inc.,23.03M,0.270,-,16.90M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+763,BEK.B,The Becker Milk Company Limited,22.80M,12.61,-,3.06M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+764,GRC,Gold Springs Resource Corp.,22.64M,0.0900,12.50%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+765,GEC,Global Education Communities Corp.,22.55M,0.330,-,29.83M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+766,PPR,Prairie Provident Resources Inc.,22.21M,0.475,-5.00%,36.94M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+767,FOOD,Goodfood Market Corp.,20.40M,0.210,2.44%,105.76M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+768,BR,Big Rock Brewery Inc.,19.66M,0.710,-11.25%,49.09M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+769,BNG,Bengal Energy Ltd.,19.41M,0.0400,-,3.60M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+770,DIAM,Star Diamond Corporation,19.35M,0.0300,20.00%,-33.00K,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+771,KRN,Karnalyte Resources Inc.,19.18M,0.370,2.78%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+772,AVCN,Avicanna Inc.,17.61M,0.140,-3.45%,25.48M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+773,WRX,Western Resources Corp.,16.33M,0.0400,-,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+774,ADCO,Adcore Inc.,14.92M,0.245,-4.08%,32.67M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+775,CTX,Crescita Therapeutics Inc.,14.15M,0.760,-,21.12M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+776,ACD,Accord Financial Corp.,12.75M,1.480,0.68%,17.62M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+777,HWO,High Arctic Energy Services Inc,10.79M,0.810,-4.71%,10.64M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+778,MPVD,Mountain Province Diamonds Inc.,10.63M,0.0500,-,155.73M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+779,ELEF,Silver Elephant Mining Corp.,10.33M,0.175,-2.78%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+780,BRY,Bri-Chem Corp.,9.38M,0.310,-12.68%,75.60M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+781,AVNT,Avant Brands Inc.,8.69M,0.590,1.72%,34.36M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+782,VRTS,Vertiqal Studios Corp.,8.66M,0.0050,-50.00%,5.83M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+783,EAGR,East Side Games Group Inc.,8.46M,0.110,-,77.58M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+784,CSCI,COSCIENS Biopharma Inc.,8.37M,2.640,0.38%,10.28M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+785,KLS,Kelso Technologies Inc.,8.02M,0.140,-3.45%,14.79M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+786,EGLX,Enthusiast Gaming Holdings Inc.,6.37M,0.0450,12.50%,32.03M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+787,CJR.B,Corus Entertainment Inc.,5.98M,0.0350,16.67%,1.03B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+788,APS,Aptose Biosciences Inc.,5.10M,2.000,-15.25%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+789,FMR,Future Mineral Resources Inc.,5.08M,0.290,-,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+790,AAB,Aberdeen International Inc.,4.82M,0.0300,-,-684.94K,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+791,CFF,Conifex Timber Inc.,4.48M,0.115,4.55%,142.75M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+792,CNT,Century Global Commodities Corporation,4.14M,0.0350,-12.50%,13.82M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+793,AUMN,Golden Minerals Company,3.64M,0.280,5.66%,405.29K,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+794,CRWN,Crown Capital Partners Inc.,3.59M,0.600,-,98.38M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+795,MKZ.UN,Mackenzie Master Limited Partnership,3.07M,0.490,-,778.04K,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+796,APLI,Appili Therapeutics Inc.,2.65M,0.0150,-25.00%,206.31K,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+797,RPR.UN,Ravelin Properties REIT,2.02M,0.0250,-,185.29M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+798,BABY,Else Nutrition Holdings Inc.,1.48M,0.0300,-,6.03M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
+799,IOM,Assure Holdings Corp.,2.50K,20.20,-2.89%,-5.85M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2
