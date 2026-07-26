@@ -1,0 +1,5595 @@
+{
+  "NVDA": {
+    "company_name": "NVIDIA Corporation",
+    "sector": "Technology",
+    "industry": "Semiconductors",
+    "yahoo_symbol": "NVDA.TO",
+    "exchange": "TSX"
+  },
+  "GOOG": {
+    "company_name": "Alphabet Inc.",
+    "sector": "Communication Services",
+    "industry": "Internet Content & Information",
+    "yahoo_symbol": "GOOG.TO",
+    "exchange": "TSX"
+  },
+  "AAPL": {
+    "company_name": "Apple Inc.",
+    "sector": "Technology",
+    "industry": "Consumer Electronics",
+    "yahoo_symbol": "AAPL.TO",
+    "exchange": "TSX"
+  },
+  "MSFT": {
+    "company_name": "Microsoft Corporation",
+    "sector": "Technology",
+    "industry": "Software - Infrastructure",
+    "yahoo_symbol": "MSFT.TO",
+    "exchange": "TSX"
+  },
+  "AMZN": {
+    "company_name": "Amazon.com, Inc.",
+    "sector": "Consumer Cyclical",
+    "industry": "Internet Retail",
+    "yahoo_symbol": "AMZN.TO",
+    "exchange": "TSX"
+  },
+  "AVGO": {
+    "company_name": "Broadcom Inc.",
+    "sector": NaN,
+    "industry": NaN,
+    "yahoo_symbol": "AVGO.TO",
+    "exchange": "TSX"
+  },
+  "META": {
+    "company_name": "Meta Platforms, Inc.",
+    "sector": "Communication Services",
+    "industry": "Internet Content & Information",
+    "yahoo_symbol": "META.TO",
+    "exchange": "TSX"
+  },
+  "TSLA": {
+    "company_name": "Tesla, Inc.",
+    "sector": "Consumer Cyclical",
+    "industry": "Auto Manufacturers",
+    "yahoo_symbol": "TSLA.TO",
+    "exchange": "TSX"
+  },
+  "WMT": {
+    "company_name": "Walmart Inc.",
+    "sector": NaN,
+    "industry": NaN,
+    "yahoo_symbol": "WMT.TO",
+    "exchange": "TSX"
+  },
+  "BRK": {
+    "company_name": "Berkshire Hathaway Inc.",
+    "sector": "Financial Services",
+    "industry": "Insurance - Diversified",
+    "yahoo_symbol": "BRK.TO",
+    "exchange": "TSX"
+  },
+  "LLY": {
+    "company_name": "Eli Lilly and Company",
+    "sector": NaN,
+    "industry": NaN,
+    "yahoo_symbol": "LLY.TO",
+    "exchange": "TSX"
+  },
+  "JPM": {
+    "company_name": "JPMorgan Chase & Co.",
+    "sector": NaN,
+    "industry": NaN,
+    "yahoo_symbol": "JPM.TO",
+    "exchange": "TSX"
+  },
+  "MU": {
+    "company_name": "Micron Technology, Inc.",
+    "sector": NaN,
+    "industry": NaN,
+    "yahoo_symbol": "MU.TO",
+    "exchange": "TSX"
+  },
+  "XOM": {
+    "company_name": "Exxon Mobil Corporation",
+    "sector": NaN,
+    "industry": NaN,
+    "yahoo_symbol": "XOM.TO",
+    "exchange": "TSX"
+  },
+  "VISA": {
+    "company_name": "Visa Inc.",
+    "sector": NaN,
+    "industry": NaN,
+    "yahoo_symbol": "VISA.TO",
+    "exchange": "TSX"
+  },
+  "AMD": {
+    "company_name": "Advanced Micro Devices, Inc.",
+    "sector": "Technology",
+    "industry": "Semiconductors",
+    "yahoo_symbol": "AMD.TO",
+    "exchange": "TSX"
+  },
+  "JNJ": {
+    "company_name": "Johnson & Johnson",
+    "sector": NaN,
+    "industry": NaN,
+    "yahoo_symbol": "JNJ.TO",
+    "exchange": "TSX"
+  },
+  "ASML": {
+    "company_name": "ASML Holding N.V.",
+    "sector": NaN,
+    "industry": NaN,
+    "yahoo_symbol": "ASML.TO",
+    "exchange": "TSX"
+  },
+  "ORAC": {
+    "company_name": "Oracle Corporation",
+    "sector": NaN,
+    "industry": NaN,
+    "yahoo_symbol": "ORAC.TO",
+    "exchange": "TSX"
+  },
+  "INTC": {
+    "company_name": "Intel Corporation",
+    "sector": NaN,
+    "industry": NaN,
+    "yahoo_symbol": "INTC.TO",
+    "exchange": "TSX"
+  },
+  "COST": {
+    "company_name": "Costco Wholesale Corporation",
+    "sector": "Consumer Defensive",
+    "industry": "Discount Stores",
+    "yahoo_symbol": "COST.TO",
+    "exchange": "TSX"
+  },
+  "MA": {
+    "company_name": "Mastercard Incorporated",
+    "sector": NaN,
+    "industry": NaN,
+    "yahoo_symbol": "MA.TO",
+    "exchange": "TSX"
+  },
+  "CATR": {
+    "company_name": "Caterpillar Inc.",
+    "sector": NaN,
+    "industry": NaN,
+    "yahoo_symbol": "CATR.TO",
+    "exchange": "TSX"
+  },
+  "NFLX": {
+    "company_name": "Netflix, Inc.",
+    "sector": NaN,
+    "industry": NaN,
+    "yahoo_symbol": "NFLX.TO",
+    "exchange": "TSX"
+  },
+  "CHEV": {
+    "company_name": "Chevron Corporation",
+    "sector": NaN,
+    "industry": NaN,
+    "yahoo_symbol": "CHEV.TO",
+    "exchange": "TSX"
+  },
+  "BOFA": {
+    "company_name": "Bank of America Corporation",
+    "sector": NaN,
+    "industry": NaN,
+    "yahoo_symbol": "BOFA.TO",
+    "exchange": "TSX"
+  },
+  "ABBV": {
+    "company_name": "AbbVie Inc.",
+    "sector": NaN,
+    "industry": NaN,
+    "yahoo_symbol": "ABBV.TO",
+    "exchange": "TSX"
+  },
+  "CSCO": {
+    "company_name": "Cisco Systems, Inc.",
+    "sector": NaN,
+    "industry": NaN,
+    "yahoo_symbol": "CSCO.TO",
+    "exchange": "TSX"
+  },
+  "PLTR": {
+    "company_name": "Palantir Technologies Inc.",
+    "sector": NaN,
+    "industry": NaN,
+    "yahoo_symbol": "PLTR.TO",
+    "exchange": "TSX"
+  },
+  "UNH": {
+    "company_name": "UnitedHealth Group Incorporated",
+    "sector": NaN,
+    "industry": NaN,
+    "yahoo_symbol": "UNH.TO",
+    "exchange": "TSX"
+  },
+  "COLA": {
+    "company_name": "The Coca-Cola Company",
+    "sector": NaN,
+    "industry": NaN,
+    "yahoo_symbol": "COLA.TO",
+    "exchange": "TSX"
+  },
+  "PG": {
+    "company_name": "The Procter & Gamble Company",
+    "sector": NaN,
+    "industry": NaN,
+    "yahoo_symbol": "PG.TO",
+    "exchange": "TSX"
+  },
+  "ROG": {
+    "company_name": "Roche Holding AG",
+    "sector": NaN,
+    "industry": NaN,
+    "yahoo_symbol": "ROG.TO",
+    "exchange": "TSX"
+  },
+  "HD": {
+    "company_name": "The Home Depot, Inc.",
+    "sector": NaN,
+    "industry": NaN,
+    "yahoo_symbol": "HD.TO",
+    "exchange": "TSX"
+  },
+  "AMAT": {
+    "company_name": "Applied Materials, Inc.",
+    "sector": NaN,
+    "industry": NaN,
+    "yahoo_symbol": "AMAT.TO",
+    "exchange": "TSX"
+  },
+  "MS": {
+    "company_name": "Morgan Stanley",
+    "sector": NaN,
+    "industry": NaN,
+    "yahoo_symbol": "MS.TO",
+    "exchange": "TSX"
+  },
+  "GE": {
+    "company_name": "General Electric Company",
+    "sector": NaN,
+    "industry": NaN,
+    "yahoo_symbol": "GE.TO",
+    "exchange": "TSX"
+  },
+  "GEV": {
+    "company_name": "GE Vernova Inc.",
+    "sector": NaN,
+    "industry": NaN,
+    "yahoo_symbol": "GEV.TO",
+    "exchange": "TSX"
+  },
+  "MRK": {
+    "company_name": "Merck & Co., Inc.",
+    "sector": NaN,
+    "industry": NaN,
+    "yahoo_symbol": "MRK.TO",
+    "exchange": "TSX"
+  },
+  "NVS": {
+    "company_name": "Novartis AG",
+    "sector": NaN,
+    "industry": NaN,
+    "yahoo_symbol": "NVS.TO",
+    "exchange": "TSX"
+  },
+  "GS": {
+    "company_name": "The Goldman Sachs Group, Inc.",
+    "sector": NaN,
+    "industry": NaN,
+    "yahoo_symbol": "GS.TO",
+    "exchange": "TSX"
+  },
+  "ZYNS": {
+    "company_name": "Philip Morris International Inc.",
+    "sector": NaN,
+    "industry": NaN,
+    "yahoo_symbol": "ZYNS.TO",
+    "exchange": "TSX"
+  },
+  "LVMH": {
+    "company_name": "LVMH Mo\u00c3\u00abt Hennessy - Louis Vuitton, Soci\u00c3\u00a9t\u00c3\u00a9 Europ\u00c3\u00a9enne",
+    "sector": NaN,
+    "industry": NaN,
+    "yahoo_symbol": "LVMH.TO",
+    "exchange": "TSX"
+  },
+  "NSTL": {
+    "company_name": "Nestl\u00c3\u00a9 S.A.",
+    "sector": NaN,
+    "industry": NaN,
+    "yahoo_symbol": "NSTL.TO",
+    "exchange": "TSX"
+  },
+  "TXN": {
+    "company_name": "Texas Instruments Incorporated",
+    "sector": NaN,
+    "industry": NaN,
+    "yahoo_symbol": "TXN.TO",
+    "exchange": "TSX"
+  },
+  "RY": {
+    "company_name": "Royal Bank of Canada",
+    "sector": "Financial Services",
+    "industry": "Banks - Diversified",
+    "yahoo_symbol": "RY.TO",
+    "exchange": "TSX"
+  },
+  "WFCS": {
+    "company_name": "Wells Fargo & Company",
+    "sector": NaN,
+    "industry": NaN,
+    "yahoo_symbol": "WFCS.TO",
+    "exchange": "TSX"
+  },
+  "RTX": {
+    "company_name": "RTX Corporation",
+    "sector": NaN,
+    "industry": NaN,
+    "yahoo_symbol": "RTX.TO",
+    "exchange": "TSX"
+  },
+  "SMNS": {
+    "company_name": "Siemens Aktiengesellschaft",
+    "sector": NaN,
+    "industry": NaN,
+    "yahoo_symbol": "SMNS.TO",
+    "exchange": "TSX"
+  },
+  "LORL": {
+    "company_name": "L'Or\u00c3\u00a9al S.A.",
+    "sector": NaN,
+    "industry": NaN,
+    "yahoo_symbol": "LORL.TO",
+    "exchange": "TSX"
+  },
+  "AXP": {
+    "company_name": "American Express Company",
+    "sector": NaN,
+    "industry": NaN,
+    "yahoo_symbol": "AXP.TO",
+    "exchange": "TSX"
+  },
+  "ANET": {
+    "company_name": "Arista Networks, Inc.",
+    "sector": NaN,
+    "industry": NaN,
+    "yahoo_symbol": "ANET.TO",
+    "exchange": "TSX"
+  },
+  "IBM": {
+    "company_name": "International Business Machines Corporation",
+    "sector": NaN,
+    "industry": NaN,
+    "yahoo_symbol": "IBM.TO",
+    "exchange": "TSX"
+  },
+  "CITI": {
+    "company_name": "Citigroup Inc.",
+    "sector": NaN,
+    "industry": NaN,
+    "yahoo_symbol": "CITI.TO",
+    "exchange": "TSX"
+  },
+  "PEP": {
+    "company_name": "PepsiCo, Inc.",
+    "sector": NaN,
+    "industry": NaN,
+    "yahoo_symbol": "PEP.TO",
+    "exchange": "TSX"
+  },
+  "SAPS": {
+    "company_name": "SAP SE",
+    "sector": NaN,
+    "industry": NaN,
+    "yahoo_symbol": "SAPS.TO",
+    "exchange": "TSX"
+  },
+  "MCDS": {
+    "company_name": "McDonald's Corporation",
+    "sector": NaN,
+    "industry": NaN,
+    "yahoo_symbol": "MCDS.TO",
+    "exchange": "TSX"
+  },
+  "NEE": {
+    "company_name": "NextEra Energy, Inc.",
+    "sector": NaN,
+    "industry": NaN,
+    "yahoo_symbol": "NEE.TO",
+    "exchange": "TSX"
+  },
+  "VZ": {
+    "company_name": "Verizon Communications Inc.",
+    "sector": NaN,
+    "industry": NaN,
+    "yahoo_symbol": "VZ.TO",
+    "exchange": "TSX"
+  },
+  "NOVO": {
+    "company_name": "Novo Nordisk A/S",
+    "sector": NaN,
+    "industry": NaN,
+    "yahoo_symbol": "NOVO.TO",
+    "exchange": "TSX"
+  },
+  "TTES": {
+    "company_name": "TotalEnergies SE",
+    "sector": NaN,
+    "industry": NaN,
+    "yahoo_symbol": "TTES.TO",
+    "exchange": "TSX"
+  },
+  "HRMS": {
+    "company_name": "Herm\u00c3\u00a8s International Soci\u00c3\u00a9t\u00c3\u00a9 en commandite par actions",
+    "sector": NaN,
+    "industry": NaN,
+    "yahoo_symbol": "HRMS.TO",
+    "exchange": "TSX"
+  },
+  "DIS": {
+    "company_name": "The Walt Disney Company",
+    "sector": NaN,
+    "industry": NaN,
+    "yahoo_symbol": "DIS.TO",
+    "exchange": "TSX"
+  },
+  "QCOM": {
+    "company_name": "QUALCOMM Incorporated",
+    "sector": NaN,
+    "industry": NaN,
+    "yahoo_symbol": "QCOM.TO",
+    "exchange": "TSX"
+  },
+  "TD": {
+    "company_name": "The Toronto-Dominion Bank",
+    "sector": "Financial Services",
+    "industry": "Banks - Diversified",
+    "yahoo_symbol": "TD.TO",
+    "exchange": "TSX"
+  },
+  "AMGN": {
+    "company_name": "Amgen Inc.",
+    "sector": NaN,
+    "industry": NaN,
+    "yahoo_symbol": "AMGN.TO",
+    "exchange": "TSX"
+  },
+  "BA": {
+    "company_name": "The Boeing Company",
+    "sector": NaN,
+    "industry": NaN,
+    "yahoo_symbol": "BA.TO",
+    "exchange": "TSX"
+  },
+  "TMO": {
+    "company_name": "Thermo Fisher Scientific Inc.",
+    "sector": NaN,
+    "industry": NaN,
+    "yahoo_symbol": "TMO.TO",
+    "exchange": "TSX"
+  },
+  "SCHN": {
+    "company_name": "Schneider Electric S.E.",
+    "sector": NaN,
+    "industry": NaN,
+    "yahoo_symbol": "SCHN.TO",
+    "exchange": "TSX"
+  },
+  "TJX": {
+    "company_name": "The TJX Companies, Inc.",
+    "sector": NaN,
+    "industry": NaN,
+    "yahoo_symbol": "TJX.TO",
+    "exchange": "TSX"
+  },
+  "ALZ": {
+    "company_name": "Allianz SE",
+    "sector": NaN,
+    "industry": NaN,
+    "yahoo_symbol": "ALZ.TO",
+    "exchange": "TSX"
+  },
+  "SHOP": {
+    "company_name": "Shopify Inc.",
+    "sector": "Technology",
+    "industry": "Software - Application",
+    "yahoo_symbol": "SHOP.TO",
+    "exchange": "TSX"
+  },
+  "GILD": {
+    "company_name": "Gilead Sciences, Inc.",
+    "sector": NaN,
+    "industry": NaN,
+    "yahoo_symbol": "GILD.TO",
+    "exchange": "TSX"
+  },
+  "BLK": {
+    "company_name": "BlackRock, Inc.",
+    "sector": NaN,
+    "industry": NaN,
+    "yahoo_symbol": "BLK.TO",
+    "exchange": "TSX"
+  },
+  "ISRG": {
+    "company_name": "Intuitive Surgical, Inc.",
+    "sector": NaN,
+    "industry": NaN,
+    "yahoo_symbol": "ISRG.TO",
+    "exchange": "TSX"
+  },
+  "APPS": {
+    "company_name": "AppLovin Corporation",
+    "sector": NaN,
+    "industry": NaN,
+    "yahoo_symbol": "APPS.TO",
+    "exchange": "TSX"
+  },
+  "SCHW": {
+    "company_name": "The Charles Schwab Corporation",
+    "sector": NaN,
+    "industry": NaN,
+    "yahoo_symbol": "SCHW.TO",
+    "exchange": "TSX"
+  },
+  "UNP": {
+    "company_name": "Union Pacific Corporation",
+    "sector": NaN,
+    "industry": NaN,
+    "yahoo_symbol": "UNP.TO",
+    "exchange": "TSX"
+  },
+  "DEER": {
+    "company_name": "Deere & Company",
+    "sector": NaN,
+    "industry": NaN,
+    "yahoo_symbol": "DEER.TO",
+    "exchange": "TSX"
+  },
+  "ABT": {
+    "company_name": "Abbott Laboratories",
+    "sector": NaN,
+    "industry": NaN,
+    "yahoo_symbol": "ABT.TO",
+    "exchange": "TSX"
+  },
+  "CRM": {
+    "company_name": "Salesforce, Inc.",
+    "sector": NaN,
+    "industry": NaN,
+    "yahoo_symbol": "CRM.TO",
+    "exchange": "TSX"
+  },
+  "UBER": {
+    "company_name": "Uber Technologies, Inc.",
+    "sector": NaN,
+    "industry": NaN,
+    "yahoo_symbol": "UBER.TO",
+    "exchange": "TSX"
+  },
+  "PANW": {
+    "company_name": "Palo Alto Networks, Inc.",
+    "sector": NaN,
+    "industry": NaN,
+    "yahoo_symbol": "PANW.TO",
+    "exchange": "TSX"
+  },
+  "PFE": {
+    "company_name": "Pfizer Inc.",
+    "sector": NaN,
+    "industry": NaN,
+    "yahoo_symbol": "PFE.TO",
+    "exchange": "TSX"
+  },
+  "UBSS": {
+    "company_name": "UBS Group AG",
+    "sector": NaN,
+    "industry": NaN,
+    "yahoo_symbol": "UBSS.TO",
+    "exchange": "TSX"
+  },
+  "HON": {
+    "company_name": "Honeywell International Inc.",
+    "sector": NaN,
+    "industry": NaN,
+    "yahoo_symbol": "HON.TO",
+    "exchange": "TSX"
+  },
+  "BKNG": {
+    "company_name": "Booking Holdings Inc.",
+    "sector": NaN,
+    "industry": NaN,
+    "yahoo_symbol": "BKNG.TO",
+    "exchange": "TSX"
+  },
+  "SPGI": {
+    "company_name": "S&P Global Inc.",
+    "sector": NaN,
+    "industry": NaN,
+    "yahoo_symbol": "SPGI.TO",
+    "exchange": "TSX"
+  },
+  "SBUX": {
+    "company_name": "Starbucks Corporation",
+    "sector": NaN,
+    "industry": NaN,
+    "yahoo_symbol": "SBUX.TO",
+    "exchange": "TSX"
+  },
+  "ENB": {
+    "company_name": "Enbridge Inc.",
+    "sector": "Energy",
+    "industry": "Oil & Gas Midstream",
+    "yahoo_symbol": "ENB.TO",
+    "exchange": "TSX"
+  },
+  "LMT": {
+    "company_name": "Lockheed Martin Corporation",
+    "sector": NaN,
+    "industry": NaN,
+    "yahoo_symbol": "LMT.TO",
+    "exchange": "TSX"
+  },
+  "CRWD": {
+    "company_name": "CrowdStrike Holdings, Inc.",
+    "sector": NaN,
+    "industry": NaN,
+    "yahoo_symbol": "CRWD.TO",
+    "exchange": "TSX"
+  },
+  "CEGS": {
+    "company_name": "Constellation Energy Corporation",
+    "sector": NaN,
+    "industry": NaN,
+    "yahoo_symbol": "CEGS.TO",
+    "exchange": "TSX"
+  },
+  "SNY": {
+    "company_name": "Sanofi",
+    "sector": NaN,
+    "industry": NaN,
+    "yahoo_symbol": "SNY.TO",
+    "exchange": "TSX"
+  },
+  "BMO": {
+    "company_name": "Bank of Montreal",
+    "sector": "Financial Services",
+    "industry": "Banks - Diversified",
+    "yahoo_symbol": "BMO.TO",
+    "exchange": "TSX"
+  },
+  "CVS": {
+    "company_name": "CVS Health Corporation",
+    "sector": NaN,
+    "industry": NaN,
+    "yahoo_symbol": "CVS.TO",
+    "exchange": "TSX"
+  },
+  "ADBE": {
+    "company_name": "Adobe Inc.",
+    "sector": NaN,
+    "industry": NaN,
+    "yahoo_symbol": "ADBE.TO",
+    "exchange": "TSX"
+  },
+  "CM": {
+    "company_name": "Canadian Imperial Bank of Commerce",
+    "sector": "Financial Services",
+    "industry": "Banks - Diversified",
+    "yahoo_symbol": "CM.TO",
+    "exchange": "TSX"
+  },
+  "BN": {
+    "company_name": "Brookfield Corporation",
+    "sector": "Financial Services",
+    "industry": "Asset Management",
+    "yahoo_symbol": "BN.TO",
+    "exchange": "TSX"
+  },
+  "CNQ": {
+    "company_name": "Canadian Natural Resources Limited",
+    "sector": "Energy",
+    "industry": "Oil & Gas E&P",
+    "yahoo_symbol": "CNQ.TO",
+    "exchange": "TSX"
+  },
+  "BX": {
+    "company_name": "Blackstone Inc.",
+    "sector": NaN,
+    "industry": NaN,
+    "yahoo_symbol": "BX.TO",
+    "exchange": "TSX"
+  },
+  "NOWS": {
+    "company_name": "ServiceNow, Inc.",
+    "sector": NaN,
+    "industry": NaN,
+    "yahoo_symbol": "NOWS.TO",
+    "exchange": "TSX"
+  },
+  "BNS": {
+    "company_name": "The Bank of Nova Scotia",
+    "sector": "Financial Services",
+    "industry": "Banks - Diversified",
+    "yahoo_symbol": "BNS.TO",
+    "exchange": "TSX"
+  },
+  "KKR": {
+    "company_name": "KKR & Co. Inc.",
+    "sector": NaN,
+    "industry": NaN,
+    "yahoo_symbol": "KKR.TO",
+    "exchange": "TSX"
+  },
+  "WAST": {
+    "company_name": "Waste Management, Inc.",
+    "sector": NaN,
+    "industry": NaN,
+    "yahoo_symbol": "WAST.TO",
+    "exchange": "TSX"
+  },
+  "AEM": {
+    "company_name": "Agnico Eagle Mines Limited",
+    "sector": "Basic Materials",
+    "industry": "Gold",
+    "yahoo_symbol": "AEM.TO",
+    "exchange": "TSX"
+  },
+  "ABNB": {
+    "company_name": "Airbnb, Inc.",
+    "sector": NaN,
+    "industry": NaN,
+    "yahoo_symbol": "ABNB.TO",
+    "exchange": "TSX"
+  },
+  "UPS": {
+    "company_name": "United Parcel Service, Inc.",
+    "sector": NaN,
+    "industry": NaN,
+    "yahoo_symbol": "UPS.TO",
+    "exchange": "TSX"
+  },
+  "SU": {
+    "company_name": "Suncor Energy Inc.",
+    "sector": "Energy",
+    "industry": "Oil & Gas Integrated",
+    "yahoo_symbol": "SU.TO",
+    "exchange": "TSX"
+  },
+  "INGS": {
+    "company_name": "ING Groep N.V.",
+    "sector": NaN,
+    "industry": NaN,
+    "yahoo_symbol": "INGS.TO",
+    "exchange": "TSX"
+  },
+  "BAM": {
+    "company_name": "Brookfield Asset Management Ltd.",
+    "sector": "Financial Services",
+    "industry": "Asset Management",
+    "yahoo_symbol": "BAM.TO",
+    "exchange": "TSX"
+  },
+  "MMMM": {
+    "company_name": "3M Company",
+    "sector": NaN,
+    "industry": NaN,
+    "yahoo_symbol": "MMMM.TO",
+    "exchange": "TSX"
+  },
+  "CP": {
+    "company_name": "Canadian Pacific Kansas City Limited",
+    "sector": "Industrials",
+    "industry": "Railroads",
+    "yahoo_symbol": "CP.TO",
+    "exchange": "TSX"
+  },
+  "HOOD": {
+    "company_name": "Robinhood Markets, Inc.",
+    "sector": NaN,
+    "industry": NaN,
+    "yahoo_symbol": "HOOD.TO",
+    "exchange": "TSX"
+  },
+  "TRP": {
+    "company_name": "TC Energy Corporation",
+    "sector": "Energy",
+    "industry": "Oil & Gas Midstream",
+    "yahoo_symbol": "TRP.TO",
+    "exchange": "TSX"
+  },
+  "CNR": {
+    "company_name": "Canadian National Railway Company",
+    "sector": "Industrials",
+    "industry": "Railroads",
+    "yahoo_symbol": "CNR.TO",
+    "exchange": "TSX"
+  },
+  "MFC": {
+    "company_name": "Manulife Financial Corporation",
+    "sector": "Financial Services",
+    "industry": "Insurance - Life",
+    "yahoo_symbol": "MFC.TO",
+    "exchange": "TSX"
+  },
+  "ABX": {
+    "company_name": "Barrick Mining Corporation",
+    "sector": "Basic Materials",
+    "industry": "Gold",
+    "yahoo_symbol": "ABX.TO",
+    "exchange": "TSX"
+  },
+  "MSTR": {
+    "company_name": "Strategy Inc",
+    "sector": NaN,
+    "industry": NaN,
+    "yahoo_symbol": "MSTR.TO",
+    "exchange": "TSX"
+  },
+  "NKE": {
+    "company_name": "NIKE, Inc.",
+    "sector": NaN,
+    "industry": NaN,
+    "yahoo_symbol": "NKE.TO",
+    "exchange": "TSX"
+  },
+  "IMO": {
+    "company_name": "Imperial Oil Limited",
+    "sector": "Energy",
+    "industry": "Oil & Gas Integrated",
+    "yahoo_symbol": "IMO.TO",
+    "exchange": "TSX"
+  },
+  "OXY": {
+    "company_name": "Occidental Petroleum Corporation",
+    "sector": NaN,
+    "industry": NaN,
+    "yahoo_symbol": "OXY.TO",
+    "exchange": "TSX"
+  },
+  "NAN": {
+    "company_name": "National Bank of Canada",
+    "sector": NaN,
+    "industry": NaN,
+    "yahoo_symbol": "NAN.TO",
+    "exchange": "TSX"
+  },
+  "AZO": {
+    "company_name": "AutoZone, Inc.",
+    "sector": NaN,
+    "industry": NaN,
+    "yahoo_symbol": "AZO.TO",
+    "exchange": "TSX"
+  },
+  "WPM": {
+    "company_name": "Wheaton Precious Metals Corp.",
+    "sector": "Basic Materials",
+    "industry": "Gold",
+    "yahoo_symbol": "WPM.TO",
+    "exchange": "TSX"
+  },
+  "CVE": {
+    "company_name": "Cenovus Energy Inc.",
+    "sector": "Energy",
+    "industry": "Oil & Gas Integrated",
+    "yahoo_symbol": "CVE.TO",
+    "exchange": "TSX"
+  },
+  "BMW": {
+    "company_name": "Bayerische Motoren Werke Aktiengesellschaft",
+    "sector": NaN,
+    "industry": NaN,
+    "yahoo_symbol": "BMW.TO",
+    "exchange": "TSX"
+  },
+  "ATD": {
+    "company_name": "Alimentation Couche-Tard Inc.",
+    "sector": "Consumer Cyclical",
+    "industry": "Specialty Retail",
+    "yahoo_symbol": "ATD.TO",
+    "exchange": "TSX"
+  },
+  "COIN": {
+    "company_name": "Coinbase Global, Inc.",
+    "sector": NaN,
+    "industry": NaN,
+    "yahoo_symbol": "COIN.TO",
+    "exchange": "TSX"
+  },
+  "L": {
+    "company_name": "Loblaw Companies Limited",
+    "sector": "Consumer Defensive",
+    "industry": "Grocery Stores",
+    "yahoo_symbol": "L.TO",
+    "exchange": "TSX"
+  },
+  "BENZ": {
+    "company_name": "Mercedes-Benz Group AG",
+    "sector": NaN,
+    "industry": NaN,
+    "yahoo_symbol": "BENZ.TO",
+    "exchange": "TSX"
+  },
+  "CCO": {
+    "company_name": "Cameco Corporation",
+    "sector": "Energy",
+    "industry": "Uranium",
+    "yahoo_symbol": "CCO.TO",
+    "exchange": "TSX"
+  },
+  "CLS": {
+    "company_name": "Celestica Inc.",
+    "sector": "Technology",
+    "industry": "Electronic Components",
+    "yahoo_symbol": "CLS.TO",
+    "exchange": "TSX"
+  },
+  "GWO": {
+    "company_name": "Great-West Lifeco Inc.",
+    "sector": "Financial Services",
+    "industry": "Insurance - Life",
+    "yahoo_symbol": "GWO.TO",
+    "exchange": "TSX"
+  },
+  "F": {
+    "company_name": "Ford Motor Company",
+    "sector": NaN,
+    "industry": NaN,
+    "yahoo_symbol": "F.TO",
+    "exchange": "TSX"
+  },
+  "PYPL": {
+    "company_name": "PayPal Holdings, Inc.",
+    "sector": NaN,
+    "industry": NaN,
+    "yahoo_symbol": "PYPL.TO",
+    "exchange": "TSX"
+  },
+  "FNV": {
+    "company_name": "Franco-Nevada Corporation",
+    "sector": "Basic Materials",
+    "industry": "Gold",
+    "yahoo_symbol": "FNV.TO",
+    "exchange": "TSX"
+  },
+  "TRI": {
+    "company_name": "Thomson Reuters Corporation",
+    "sector": "Industrials",
+    "industry": "Specialty Business Services",
+    "yahoo_symbol": "TRI.TO",
+    "exchange": "TSX"
+  },
+  "CMGS": {
+    "company_name": "Chipotle Mexican Grill, Inc.",
+    "sector": NaN,
+    "industry": NaN,
+    "yahoo_symbol": "CMGS.TO",
+    "exchange": "TSX"
+  },
+  "WCN": {
+    "company_name": "Waste Connections, Inc.",
+    "sector": "Industrials",
+    "industry": "Waste Management",
+    "yahoo_symbol": "WCN.TO",
+    "exchange": "TSX"
+  },
+  "SLF": {
+    "company_name": "Sun Life Financial Inc.",
+    "sector": "Financial Services",
+    "industry": "Insurance - Diversified",
+    "yahoo_symbol": "SLF.TO",
+    "exchange": "TSX"
+  },
+  "CSU": {
+    "company_name": "Constellation Software Inc.",
+    "sector": "Technology",
+    "industry": "Software - Application",
+    "yahoo_symbol": "CSU.TO",
+    "exchange": "TSX"
+  },
+  "FFH": {
+    "company_name": "Fairfax Financial Holdings Limited",
+    "sector": "Financial Services",
+    "industry": "Insurance - Property & Casualty",
+    "yahoo_symbol": "FFH.TO",
+    "exchange": "TSX"
+  },
+  "NTR": {
+    "company_name": "Nutrien Ltd.",
+    "sector": "Basic Materials",
+    "industry": "Agricultural Inputs",
+    "yahoo_symbol": "NTR.TO",
+    "exchange": "TSX"
+  },
+  "POW": {
+    "company_name": "Power Corporation of Canada",
+    "sector": "Financial Services",
+    "industry": "Insurance - Life",
+    "yahoo_symbol": "POW.TO",
+    "exchange": "TSX"
+  },
+  "K": {
+    "company_name": "Kinross Gold Corporation",
+    "sector": "Basic Materials",
+    "industry": "Gold",
+    "yahoo_symbol": "K.TO",
+    "exchange": "TSX"
+  },
+  "DOL": {
+    "company_name": "Dollarama Inc.",
+    "sector": "Consumer Defensive",
+    "industry": "Discount Stores",
+    "yahoo_symbol": "DOL.TO",
+    "exchange": "TSX"
+  },
+  "IFC": {
+    "company_name": "Intact Financial Corporation",
+    "sector": "Financial Services",
+    "industry": "Insurance - Property & Casualty",
+    "yahoo_symbol": "IFC.TO",
+    "exchange": "TSX"
+  },
+  "FISV": {
+    "company_name": "Fiserv, Inc.",
+    "sector": NaN,
+    "industry": NaN,
+    "yahoo_symbol": "FISV.TO",
+    "exchange": "TSX"
+  },
+  "RDDT": {
+    "company_name": "Reddit, Inc.",
+    "sector": NaN,
+    "industry": NaN,
+    "yahoo_symbol": "RDDT.TO",
+    "exchange": "TSX"
+  },
+  "FTS": {
+    "company_name": "Fortis Inc.",
+    "sector": "Utilities",
+    "industry": "Utilities - Regulated Electric",
+    "yahoo_symbol": "FTS.TO",
+    "exchange": "TSX"
+  },
+  "TECK.A": {
+    "company_name": "Teck Resources Limited",
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "yahoo_symbol": "TECK-A.TO",
+    "exchange": "TSX"
+  },
+  "TECK.B": {
+    "company_name": "Teck Resources Limited",
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "yahoo_symbol": "TECK-B.TO",
+    "exchange": "TSX"
+  },
+  "QSR": {
+    "company_name": "Restaurant Brands International Inc.",
+    "sector": "Consumer Cyclical",
+    "industry": "Restaurants",
+    "yahoo_symbol": "QSR.TO",
+    "exchange": "TSX"
+  },
+  "PPL": {
+    "company_name": "Pembina Pipeline Corporation",
+    "sector": "Energy",
+    "industry": "Oil & Gas Midstream",
+    "yahoo_symbol": "PPL.TO",
+    "exchange": "TSX"
+  },
+  "WN": {
+    "company_name": "George Weston Limited",
+    "sector": "Consumer Defensive",
+    "industry": "Grocery Stores",
+    "yahoo_symbol": "WN.TO",
+    "exchange": "TSX"
+  },
+  "QSP.UN": {
+    "company_name": "Restaurant Brands International Limited Partnership",
+    "sector": "Consumer Cyclical",
+    "industry": "Restaurants",
+    "yahoo_symbol": "QSP-UN.TO",
+    "exchange": "TSX"
+  },
+  "H": {
+    "company_name": "Hydro One Limited",
+    "sector": "Utilities",
+    "industry": "Utilities - Regulated Electric",
+    "yahoo_symbol": "H.TO",
+    "exchange": "TSX"
+  },
+  "STZ": {
+    "company_name": "Constellation Brands, Inc.",
+    "sector": NaN,
+    "industry": NaN,
+    "yahoo_symbol": "STZ.TO",
+    "exchange": "TSX"
+  },
+  "WSP": {
+    "company_name": "WSP Global Inc.",
+    "sector": "Industrials",
+    "industry": "Engineering & Construction",
+    "yahoo_symbol": "WSP.TO",
+    "exchange": "TSX"
+  },
+  "BEP.UN": {
+    "company_name": "Brookfield Renewable Partners L.P.",
+    "sector": "Utilities",
+    "industry": "Utilities - Renewable",
+    "yahoo_symbol": "BEP-UN.TO",
+    "exchange": "TSX"
+  },
+  "BCE": {
+    "company_name": "BCE Inc.",
+    "sector": "Communication Services",
+    "industry": "Telecom Services",
+    "yahoo_symbol": "BCE.TO",
+    "exchange": "TSX"
+  },
+  "PAAS": {
+    "company_name": "Pan American Silver Corp.",
+    "sector": "Basic Materials",
+    "industry": "Gold",
+    "yahoo_symbol": "PAAS.TO",
+    "exchange": "TSX"
+  },
+  "LUN": {
+    "company_name": "Lundin Mining Corporation",
+    "sector": "Basic Materials",
+    "industry": "Copper",
+    "yahoo_symbol": "LUN.TO",
+    "exchange": "TSX"
+  },
+  "BBD.A": {
+    "company_name": "Bombardier Inc.",
+    "sector": "Industrials",
+    "industry": "Aerospace & Defense",
+    "yahoo_symbol": "BBD-A.TO",
+    "exchange": "TSX"
+  },
+  "BBD.B": {
+    "company_name": "Bombardier Inc.",
+    "sector": "Industrials",
+    "industry": "Aerospace & Defense",
+    "yahoo_symbol": "BBD-B.TO",
+    "exchange": "TSX"
+  },
+  "T": {
+    "company_name": "TELUS Corporation",
+    "sector": "Communication Services",
+    "industry": "Telecom Services",
+    "yahoo_symbol": "T.TO",
+    "exchange": "TSX"
+  },
+  "RBA": {
+    "company_name": "RB Global, Inc.",
+    "sector": "Industrials",
+    "industry": "Specialty Business Services",
+    "yahoo_symbol": "RBA.TO",
+    "exchange": "TSX"
+  },
+  "RCI.A": {
+    "company_name": "Rogers Communications Inc.",
+    "sector": "Communication Services",
+    "industry": "Telecom Services",
+    "yahoo_symbol": "RCI-A.TO",
+    "exchange": "TSX"
+  },
+  "RCI.B": {
+    "company_name": "Rogers Communications Inc.",
+    "sector": "Communication Services",
+    "industry": "Telecom Services",
+    "yahoo_symbol": "RCI-B.TO",
+    "exchange": "TSX"
+  },
+  "TOU": {
+    "company_name": "Tourmaline Oil Corp.",
+    "sector": "Energy",
+    "industry": "Oil & Gas E&P",
+    "yahoo_symbol": "TOU.TO",
+    "exchange": "TSX"
+  },
+  "FM": {
+    "company_name": "First Quantum Minerals Ltd.",
+    "sector": "Basic Materials",
+    "industry": "Copper",
+    "yahoo_symbol": "FM.TO",
+    "exchange": "TSX"
+  },
+  "CDE": {
+    "company_name": "Coeur Mining, Inc.",
+    "sector": "Basic Materials",
+    "industry": "Gold",
+    "yahoo_symbol": "CDE.TO",
+    "exchange": "TSX"
+  },
+  "OVV": {
+    "company_name": "Ovintiv Inc.",
+    "sector": "Energy",
+    "industry": "Oil & Gas E&P",
+    "yahoo_symbol": "OVV.TO",
+    "exchange": "TSX"
+  },
+  "SMCI": {
+    "company_name": "Super Micro Computer, Inc.",
+    "sector": NaN,
+    "industry": NaN,
+    "yahoo_symbol": "SMCI.TO",
+    "exchange": "TSX"
+  },
+  "BIP.UN": {
+    "company_name": "Brookfield Infrastructure Partners L.P.",
+    "sector": "Utilities",
+    "industry": "Utilities - Diversified",
+    "yahoo_symbol": "BIP-UN.TO",
+    "exchange": "TSX"
+  },
+  "AGI": {
+    "company_name": "Alamos Gold Inc.",
+    "sector": "Basic Materials",
+    "industry": "Gold",
+    "yahoo_symbol": "AGI.TO",
+    "exchange": "TSX"
+  },
+  "MG": {
+    "company_name": "Magna International Inc.",
+    "sector": "Consumer Cyclical",
+    "industry": "Auto Parts",
+    "yahoo_symbol": "MG.TO",
+    "exchange": "TSX"
+  },
+  "EMA": {
+    "company_name": "Emera Incorporated",
+    "sector": "Utilities",
+    "industry": "Utilities - Regulated Electric",
+    "yahoo_symbol": "EMA.TO",
+    "exchange": "TSX"
+  },
+  "LUG": {
+    "company_name": "Lundin Gold Inc.",
+    "sector": "Basic Materials",
+    "industry": "Gold",
+    "yahoo_symbol": "LUG.TO",
+    "exchange": "TSX"
+  },
+  "BNT": {
+    "company_name": "Brookfield Wealth Solutions Ltd.",
+    "sector": "Financial Services",
+    "industry": "Insurance - Diversified",
+    "yahoo_symbol": "BNT.TO",
+    "exchange": "TSX"
+  },
+  "LULU": {
+    "company_name": "lululemon athletica inc.",
+    "sector": NaN,
+    "industry": NaN,
+    "yahoo_symbol": "LULU.TO",
+    "exchange": "TSX"
+  },
+  "WCP": {
+    "company_name": "Whitecap Resources Inc.",
+    "sector": "Energy",
+    "industry": "Oil & Gas E&P",
+    "yahoo_symbol": "WCP.TO",
+    "exchange": "TSX"
+  },
+  "MRU": {
+    "company_name": "Metro Inc.",
+    "sector": "Consumer Defensive",
+    "industry": "Grocery Stores",
+    "yahoo_symbol": "MRU.TO",
+    "exchange": "TSX"
+  },
+  "GIB.A": {
+    "company_name": "CGI Inc.",
+    "sector": "Technology",
+    "industry": "Information Technology Services",
+    "yahoo_symbol": "GIB-A.TO",
+    "exchange": "TSX"
+  },
+  "EDV": {
+    "company_name": "Endeavour Mining plc",
+    "sector": "Basic Materials",
+    "industry": "Gold",
+    "yahoo_symbol": "EDV.TO",
+    "exchange": "TSX"
+  },
+  "GFL": {
+    "company_name": "GFL Environmental Inc.",
+    "sector": "Industrials",
+    "industry": "Waste Management",
+    "yahoo_symbol": "GFL.TO",
+    "exchange": "TSX"
+  },
+  "ARX": {
+    "company_name": "ARC Resources Ltd.",
+    "sector": "Energy",
+    "industry": "Oil & Gas E&P",
+    "yahoo_symbol": "ARX.TO",
+    "exchange": "TSX"
+  },
+  "TIH": {
+    "company_name": "Toromont Industries Ltd.",
+    "sector": "Industrials",
+    "industry": "Industrial Distribution",
+    "yahoo_symbol": "TIH.TO",
+    "exchange": "TSX"
+  },
+  "IGM": {
+    "company_name": "IGM Financial Inc.",
+    "sector": "Financial Services",
+    "industry": "Asset Management",
+    "yahoo_symbol": "IGM.TO",
+    "exchange": "TSX"
+  },
+  "SAP": {
+    "company_name": "Saputo Inc.",
+    "sector": "Consumer Defensive",
+    "industry": "Packaged Foods",
+    "yahoo_symbol": "SAP.TO",
+    "exchange": "TSX"
+  },
+  "BEPC": {
+    "company_name": "Brookfield Renewable Corporation",
+    "sector": "Utilities",
+    "industry": "Utilities - Renewable",
+    "yahoo_symbol": "BEPC.TO",
+    "exchange": "TSX"
+  },
+  "ALA": {
+    "company_name": "AltaGas Ltd.",
+    "sector": "Energy",
+    "industry": "Oil & Gas Midstream",
+    "yahoo_symbol": "ALA.TO",
+    "exchange": "TSX"
+  },
+  "ATZ": {
+    "company_name": "Aritzia Inc.",
+    "sector": "Consumer Cyclical",
+    "industry": "Apparel Retail",
+    "yahoo_symbol": "ATZ.TO",
+    "exchange": "TSX"
+  },
+  "IAG": {
+    "company_name": "iA Financial Corporation Inc.",
+    "sector": "Financial Services",
+    "industry": "Insurance - Diversified",
+    "yahoo_symbol": "IAG.TO",
+    "exchange": "TSX"
+  },
+  "ATRL": {
+    "company_name": "AtkinsR\u00c3\u00a9alis Group Inc.",
+    "sector": "Industrials",
+    "industry": "Engineering & Construction",
+    "yahoo_symbol": "ATRL.TO",
+    "exchange": "TSX"
+  },
+  "X": {
+    "company_name": "TMX Group Limited",
+    "sector": "Financial Services",
+    "industry": "Financial Data & Stock Exchanges",
+    "yahoo_symbol": "X.TO",
+    "exchange": "TSX"
+  },
+  "IVN": {
+    "company_name": "Ivanhoe Mines Ltd.",
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "yahoo_symbol": "IVN.TO",
+    "exchange": "TSX"
+  },
+  "TFII": {
+    "company_name": "TFI International Inc.",
+    "sector": "Industrials",
+    "industry": "Trucking",
+    "yahoo_symbol": "TFII.TO",
+    "exchange": "TSX"
+  },
+  "EQX": {
+    "company_name": "Equinox Gold Corp.",
+    "sector": "Basic Materials",
+    "industry": "Gold",
+    "yahoo_symbol": "EQX.TO",
+    "exchange": "TSX"
+  },
+  "GIL": {
+    "company_name": "Gildan Activewear Inc.",
+    "sector": "Consumer Cyclical",
+    "industry": "Apparel Manufacturing",
+    "yahoo_symbol": "GIL.TO",
+    "exchange": "TSX"
+  },
+  "CCL.A": {
+    "company_name": "CCL Industries Inc.",
+    "sector": "Consumer Cyclical",
+    "industry": "Packaging & Containers",
+    "yahoo_symbol": "CCL-A.TO",
+    "exchange": "TSX"
+  },
+  "CCL.B": {
+    "company_name": "CCL Industries Inc.",
+    "sector": "Consumer Cyclical",
+    "industry": "Packaging & Containers",
+    "yahoo_symbol": "CCL-B.TO",
+    "exchange": "TSX"
+  },
+  "STN": {
+    "company_name": "Stantec Inc.",
+    "sector": "Industrials",
+    "industry": "Engineering & Construction",
+    "yahoo_symbol": "STN.TO",
+    "exchange": "TSX"
+  },
+  "CU": {
+    "company_name": "Canadian Utilities Limited",
+    "sector": "Utilities",
+    "industry": "Utilities - Diversified",
+    "yahoo_symbol": "CU.TO",
+    "exchange": "TSX"
+  },
+  "AG": {
+    "company_name": "First Majestic Silver Corp.",
+    "sector": "Basic Materials",
+    "industry": "Silver",
+    "yahoo_symbol": "AG.TO",
+    "exchange": "TSX"
+  },
+  "IMG": {
+    "company_name": "IAMGOLD Corporation",
+    "sector": "Basic Materials",
+    "industry": "Gold",
+    "yahoo_symbol": "IMG.TO",
+    "exchange": "TSX"
+  },
+  "FTT": {
+    "company_name": "Finning International Inc.",
+    "sector": "Industrials",
+    "industry": "Industrial Distribution",
+    "yahoo_symbol": "FTT.TO",
+    "exchange": "TSX"
+  },
+  "QBR.A": {
+    "company_name": "Quebecor Inc.",
+    "sector": "Communication Services",
+    "industry": "Telecom Services",
+    "yahoo_symbol": "QBR-A.TO",
+    "exchange": "TSX"
+  },
+  "QBR.B": {
+    "company_name": "Quebecor Inc.",
+    "sector": "Communication Services",
+    "industry": "Telecom Services",
+    "yahoo_symbol": "QBR-B.TO",
+    "exchange": "TSX"
+  },
+  "EFN": {
+    "company_name": "Element Fleet Management Corp.",
+    "sector": "Industrials",
+    "industry": "Rental & Leasing Services",
+    "yahoo_symbol": "EFN.TO",
+    "exchange": "TSX"
+  },
+  "KEY": {
+    "company_name": "Keyera Corp.",
+    "sector": "Energy",
+    "industry": "Oil & Gas Midstream",
+    "yahoo_symbol": "KEY.TO",
+    "exchange": "TSX"
+  },
+  "HUT": {
+    "company_name": "Hut 8 Corp.",
+    "sector": "Financial Services",
+    "industry": "Capital Markets",
+    "yahoo_symbol": "HUT.TO",
+    "exchange": "TSX"
+  },
+  "HBM": {
+    "company_name": "Hudbay Minerals Inc.",
+    "sector": "Basic Materials",
+    "industry": "Copper",
+    "yahoo_symbol": "HBM.TO",
+    "exchange": "TSX"
+  },
+  "CAE": {
+    "company_name": "CAE Inc.",
+    "sector": "Industrials",
+    "industry": "Aerospace & Defense",
+    "yahoo_symbol": "CAE.TO",
+    "exchange": "TSX"
+  },
+  "NXE": {
+    "company_name": "NexGen Energy Ltd.",
+    "sector": "Energy",
+    "industry": "Uranium",
+    "yahoo_symbol": "NXE.TO",
+    "exchange": "TSX"
+  },
+  "CGG": {
+    "company_name": "China Gold International Resources Corp. Ltd.",
+    "sector": "Basic Materials",
+    "industry": "Other Precious Metals & Mining",
+    "yahoo_symbol": "CGG.TO",
+    "exchange": "TSX"
+  },
+  "GMIN": {
+    "company_name": "G Mining Ventures Corp.",
+    "sector": "Basic Materials",
+    "industry": "Gold",
+    "yahoo_symbol": "GMIN.TO",
+    "exchange": "TSX"
+  },
+  "DPM": {
+    "company_name": "DPM Metals Inc.",
+    "sector": "Basic Materials",
+    "industry": "Gold",
+    "yahoo_symbol": "DPM.TO",
+    "exchange": "TSX"
+  },
+  "EMP.A": {
+    "company_name": "Empire Company Limited",
+    "sector": "Consumer Defensive",
+    "industry": "Grocery Stores",
+    "yahoo_symbol": "EMP-A.TO",
+    "exchange": "TSX"
+  },
+  "CPX": {
+    "company_name": "Capital Power Corporation",
+    "sector": "Utilities",
+    "industry": "Utilities - Independent Power Producers",
+    "yahoo_symbol": "CPX.TO",
+    "exchange": "TSX"
+  },
+  "ELD": {
+    "company_name": "Eldorado Gold Corporation",
+    "sector": "Basic Materials",
+    "industry": "Gold",
+    "yahoo_symbol": "ELD.TO",
+    "exchange": "TSX"
+  },
+  "SOBO": {
+    "company_name": "South Bow Corporation",
+    "sector": "Energy",
+    "industry": "Oil & Gas Midstream",
+    "yahoo_symbol": "SOBO.TO",
+    "exchange": "TSX"
+  },
+  "CTC": {
+    "company_name": "Canadian Tire Corporation, Limited",
+    "sector": "Consumer Cyclical",
+    "industry": "Specialty Retail",
+    "yahoo_symbol": "CTC.TO",
+    "exchange": "TSX"
+  },
+  "CTC.A": {
+    "company_name": "Canadian Tire Corporation, Limited",
+    "sector": "Consumer Cyclical",
+    "industry": "Specialty Retail",
+    "yahoo_symbol": "CTC-A.TO",
+    "exchange": "TSX"
+  },
+  "SCR": {
+    "company_name": "Strathcona Resources Ltd.",
+    "sector": "Energy",
+    "industry": "Oil & Gas E&P",
+    "yahoo_symbol": "SCR.TO",
+    "exchange": "TSX"
+  },
+  "BBUC": {
+    "company_name": "Brookfield Business Corporation",
+    "sector": "Industrials",
+    "industry": "Conglomerates",
+    "yahoo_symbol": "BBUC.TO",
+    "exchange": "TSX"
+  },
+  "GRGD": {
+    "company_name": "Groupe Dynamite Inc.",
+    "sector": "Consumer Cyclical",
+    "industry": "Apparel Retail",
+    "yahoo_symbol": "GRGD.TO",
+    "exchange": "TSX"
+  },
+  "OR": {
+    "company_name": "OR Royalties Inc.",
+    "sector": "Basic Materials",
+    "industry": "Gold",
+    "yahoo_symbol": "OR.TO",
+    "exchange": "TSX"
+  },
+  "OGC": {
+    "company_name": "OceanaGold Corporation",
+    "sector": "Basic Materials",
+    "industry": "Gold",
+    "yahoo_symbol": "OGC.TO",
+    "exchange": "TSX"
+  },
+  "TFPM": {
+    "company_name": "Triple Flag Precious Metals Corp.",
+    "sector": "Basic Materials",
+    "industry": "Other Precious Metals & Mining",
+    "yahoo_symbol": "TFPM.TO",
+    "exchange": "TSX"
+  },
+  "ONEX": {
+    "company_name": "Onex Corporation",
+    "sector": "Financial Services",
+    "industry": "Asset Management",
+    "yahoo_symbol": "ONEX.TO",
+    "exchange": "TSX"
+  },
+  "DSG": {
+    "company_name": "The Descartes Systems Group Inc.",
+    "sector": "Technology",
+    "industry": "Software - Application",
+    "yahoo_symbol": "DSG.TO",
+    "exchange": "TSX"
+  },
+  "SSRM": {
+    "company_name": "SSR Mining Inc.",
+    "sector": "Basic Materials",
+    "industry": "Gold",
+    "yahoo_symbol": "SSRM.TO",
+    "exchange": "TSX"
+  },
+  "CS": {
+    "company_name": "Capstone Copper Corp.",
+    "sector": "Basic Materials",
+    "industry": "Copper",
+    "yahoo_symbol": "CS.TO",
+    "exchange": "TSX"
+  },
+  "DFY": {
+    "company_name": "Definity Financial Corporation",
+    "sector": "Financial Services",
+    "industry": "Insurance - Property & Casualty",
+    "yahoo_symbol": "DFY.TO",
+    "exchange": "TSX"
+  },
+  "FSV": {
+    "company_name": "FirstService Corporation",
+    "sector": "Real Estate",
+    "industry": "Real Estate Services",
+    "yahoo_symbol": "FSV.TO",
+    "exchange": "TSX"
+  },
+  "PSK": {
+    "company_name": "PrairieSky Royalty Ltd.",
+    "sector": "Energy",
+    "industry": "Oil & Gas E&P",
+    "yahoo_symbol": "PSK.TO",
+    "exchange": "TSX"
+  },
+  "BLCO": {
+    "company_name": "Bausch + Lomb Corporation",
+    "sector": "Healthcare",
+    "industry": "Medical Instruments & Supplies",
+    "yahoo_symbol": "BLCO.TO",
+    "exchange": "TSX"
+  },
+  "OTEX": {
+    "company_name": "Open Text Corporation",
+    "sector": "Technology",
+    "industry": "Software - Application",
+    "yahoo_symbol": "OTEX.TO",
+    "exchange": "TSX"
+  },
+  "BTO": {
+    "company_name": "B2Gold Corp.",
+    "sector": "Basic Materials",
+    "industry": "Gold",
+    "yahoo_symbol": "BTO.TO",
+    "exchange": "TSX"
+  },
+  "ACO.X": {
+    "company_name": "ATCO Ltd.",
+    "sector": "Utilities",
+    "industry": "Utilities - Diversified",
+    "yahoo_symbol": "ACO-X.TO",
+    "exchange": "TSX"
+  },
+  "AII": {
+    "company_name": "Almonty Industries Inc.",
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "yahoo_symbol": "AII.TO",
+    "exchange": "TSX"
+  },
+  "EFR": {
+    "company_name": "Energy Fuels Inc.",
+    "sector": "Energy",
+    "industry": "Uranium",
+    "yahoo_symbol": "EFR.TO",
+    "exchange": "TSX"
+  },
+  "CIGI": {
+    "company_name": "Colliers International Group Inc.",
+    "sector": "Real Estate",
+    "industry": "Real Estate Services",
+    "yahoo_symbol": "CIGI.TO",
+    "exchange": "TSX"
+  },
+  "CSH.UN": {
+    "company_name": "Chartwell Retirement Residences",
+    "sector": "Real Estate",
+    "industry": "REIT - Healthcare Facilities",
+    "yahoo_symbol": "CSH-UN.TO",
+    "exchange": "TSX"
+  },
+  "PRU": {
+    "company_name": "Perseus Mining Limited",
+    "sector": "Basic Materials",
+    "industry": "Gold",
+    "yahoo_symbol": "PRU.TO",
+    "exchange": "TSX"
+  },
+  "MX": {
+    "company_name": "Methanex Corporation",
+    "sector": "Basic Materials",
+    "industry": "Chemicals",
+    "yahoo_symbol": "MX.TO",
+    "exchange": "TSX"
+  },
+  "DSV": {
+    "company_name": "Discovery Silver Corp.",
+    "sector": "Basic Materials",
+    "industry": "Silver",
+    "yahoo_symbol": "DSV.TO",
+    "exchange": "TSX"
+  },
+  "AQN": {
+    "company_name": "Algonquin Power & Utilities Corp.",
+    "sector": "Utilities",
+    "industry": "Utilities - Diversified",
+    "yahoo_symbol": "AQN.TO",
+    "exchange": "TSX"
+  },
+  "WFG": {
+    "company_name": "West Fraser Timber Co. Ltd.",
+    "sector": "Basic Materials",
+    "industry": "Lumber & Wood Production",
+    "yahoo_symbol": "WFG.TO",
+    "exchange": "TSX"
+  },
+  "REI.UN": {
+    "company_name": "RioCan Real Estate Investment Trust",
+    "sector": "Real Estate",
+    "industry": "REIT - Retail",
+    "yahoo_symbol": "REI-UN.TO",
+    "exchange": "TSX"
+  },
+  "TVE": {
+    "company_name": "Tamarack Valley Energy Ltd.",
+    "sector": "Energy",
+    "industry": "Oil & Gas E&P",
+    "yahoo_symbol": "TVE.TO",
+    "exchange": "TSX"
+  },
+  "BIPC": {
+    "company_name": "Brookfield Infrastructure Corporation",
+    "sector": "Utilities",
+    "industry": "Utilities - Regulated Gas",
+    "yahoo_symbol": "BIPC.TO",
+    "exchange": "TSX"
+  },
+  "OLA": {
+    "company_name": "Orla Mining Ltd.",
+    "sector": "Basic Materials",
+    "industry": "Gold",
+    "yahoo_symbol": "OLA.TO",
+    "exchange": "TSX"
+  },
+  "NPI": {
+    "company_name": "Northland Power Inc.",
+    "sector": "Utilities",
+    "industry": "Utilities - Renewable",
+    "yahoo_symbol": "NPI.TO",
+    "exchange": "TSX"
+  },
+  "KNT": {
+    "company_name": "K92 Mining Inc.",
+    "sector": "Basic Materials",
+    "industry": "Gold",
+    "yahoo_symbol": "KNT.TO",
+    "exchange": "TSX"
+  },
+  "ELF": {
+    "company_name": "E-L Financial Corporation Limited",
+    "sector": "Financial Services",
+    "industry": "Insurance - Life",
+    "yahoo_symbol": "ELF.TO",
+    "exchange": "TSX"
+  },
+  "ATH": {
+    "company_name": "Athabasca Oil Corporation",
+    "sector": "Energy",
+    "industry": "Oil & Gas E&P",
+    "yahoo_symbol": "ATH.TO",
+    "exchange": "TSX"
+  },
+  "MDA": {
+    "company_name": "MDA Space Ltd.",
+    "sector": "Industrials",
+    "industry": "Aerospace & Defense",
+    "yahoo_symbol": "MDA.TO",
+    "exchange": "TSX"
+  },
+  "XNDU": {
+    "company_name": "Xanadu Quantum Technologies Limited",
+    "sector": "Technology",
+    "industry": "Software - Infrastructure",
+    "yahoo_symbol": "XNDU.TO",
+    "exchange": "TSX"
+  },
+  "GRT.UN": {
+    "company_name": "Granite Real Estate Investment Trust",
+    "sector": "Real Estate",
+    "industry": "REIT - Industrial",
+    "yahoo_symbol": "GRT-UN.TO",
+    "exchange": "TSX"
+  },
+  "EIF": {
+    "company_name": "Exchange Income Corporation",
+    "sector": "Industrials",
+    "industry": "Airlines",
+    "yahoo_symbol": "EIF.TO",
+    "exchange": "TSX"
+  },
+  "CAR.UN": {
+    "company_name": "Canadian Apartment Properties Real Estate Investment Trust",
+    "sector": "Real Estate",
+    "industry": "REIT - Residential",
+    "yahoo_symbol": "CAR-UN.TO",
+    "exchange": "TSX"
+  },
+  "LNR": {
+    "company_name": "Linamar Corporation",
+    "sector": "Consumer Cyclical",
+    "industry": "Auto Parts",
+    "yahoo_symbol": "LNR.TO",
+    "exchange": "TSX"
+  },
+  "PDN": {
+    "company_name": "Paladin Energy Ltd",
+    "sector": "Energy",
+    "industry": "Uranium",
+    "yahoo_symbol": "PDN.TO",
+    "exchange": "TSX"
+  },
+  "MAU": {
+    "company_name": "Montage Gold Corp.",
+    "sector": "Basic Materials",
+    "industry": "Gold",
+    "yahoo_symbol": "MAU.TO",
+    "exchange": "TSX"
+  },
+  "DOO": {
+    "company_name": "BRP Inc.",
+    "sector": "Consumer Cyclical",
+    "industry": "Recreational Vehicles",
+    "yahoo_symbol": "DOO.TO",
+    "exchange": "TSX"
+  },
+  "AC": {
+    "company_name": "Air Canada",
+    "sector": "Industrials",
+    "industry": "Airlines",
+    "yahoo_symbol": "AC.TO",
+    "exchange": "TSX"
+  },
+  "NGEX": {
+    "company_name": "NGEx Minerals Ltd.",
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "yahoo_symbol": "NGEX.TO",
+    "exchange": "TSX"
+  },
+  "PEY": {
+    "company_name": "Peyto Exploration & Development Corp.",
+    "sector": "Energy",
+    "industry": "Oil & Gas E&P",
+    "yahoo_symbol": "PEY.TO",
+    "exchange": "TSX"
+  },
+  "GEI": {
+    "company_name": "Gibson Energy Inc.",
+    "sector": "Energy",
+    "industry": "Oil & Gas Midstream",
+    "yahoo_symbol": "GEI.TO",
+    "exchange": "TSX"
+  },
+  "TXG": {
+    "company_name": "Torex Gold Resources Inc.",
+    "sector": "Basic Materials",
+    "industry": "Gold",
+    "yahoo_symbol": "TXG.TO",
+    "exchange": "TSX"
+  },
+  "TA": {
+    "company_name": "TransAlta Corporation",
+    "sector": "Utilities",
+    "industry": "Utilities - Independent Power Producers",
+    "yahoo_symbol": "TA.TO",
+    "exchange": "TSX"
+  },
+  "BTE": {
+    "company_name": "Baytex Energy Corp.",
+    "sector": "Energy",
+    "industry": "Oil & Gas E&P",
+    "yahoo_symbol": "BTE.TO",
+    "exchange": "TSX"
+  },
+  "CHP.UN": {
+    "company_name": "Choice Properties Real Estate Investment Trust",
+    "sector": "Real Estate",
+    "industry": "REIT - Retail",
+    "yahoo_symbol": "CHP-UN.TO",
+    "exchange": "TSX"
+  },
+  "WGX": {
+    "company_name": "Westgold Resources Limited",
+    "sector": "Basic Materials",
+    "industry": "Gold",
+    "yahoo_symbol": "WGX.TO",
+    "exchange": "TSX"
+  },
+  "FCR.UN": {
+    "company_name": "First Capital Real Estate Investment Trust",
+    "sector": "Real Estate",
+    "industry": "REIT - Retail",
+    "yahoo_symbol": "FCR-UN.TO",
+    "exchange": "TSX"
+  },
+  "ARIS": {
+    "company_name": "Aris Mining Corporation",
+    "sector": "Basic Materials",
+    "industry": "Gold",
+    "yahoo_symbol": "ARIS.TO",
+    "exchange": "TSX"
+  },
+  "TPZ": {
+    "company_name": "Topaz Energy Corp.",
+    "sector": "Energy",
+    "industry": "Oil & Gas Midstream",
+    "yahoo_symbol": "TPZ.TO",
+    "exchange": "TSX"
+  },
+  "SKE": {
+    "company_name": "Skeena Resources Limited",
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "yahoo_symbol": "SKE.TO",
+    "exchange": "TSX"
+  },
+  "AAUC": {
+    "company_name": "Allied Gold Corporation",
+    "sector": "Basic Materials",
+    "industry": "Gold",
+    "yahoo_symbol": "AAUC.TO",
+    "exchange": "TSX"
+  },
+  "SES": {
+    "company_name": "SECURE Waste Infrastructure Corp.",
+    "sector": "Industrials",
+    "industry": "Waste Management",
+    "yahoo_symbol": "SES.TO",
+    "exchange": "TSX"
+  },
+  "NG": {
+    "company_name": "NovaGold Resources Inc.",
+    "sector": "Basic Materials",
+    "industry": "Gold",
+    "yahoo_symbol": "NG.TO",
+    "exchange": "TSX"
+  },
+  "DML": {
+    "company_name": "Denison Mines Corp.",
+    "sector": "Energy",
+    "industry": "Uranium",
+    "yahoo_symbol": "DML.TO",
+    "exchange": "TSX"
+  },
+  "SII": {
+    "company_name": "Sprott Inc.",
+    "sector": "Financial Services",
+    "industry": "Asset Management",
+    "yahoo_symbol": "SII.TO",
+    "exchange": "TSX"
+  },
+  "BYD": {
+    "company_name": "Boyd Group Services Inc.",
+    "sector": "Consumer Cyclical",
+    "industry": "Auto & Truck Dealerships",
+    "yahoo_symbol": "BYD.TO",
+    "exchange": "TSX"
+  },
+  "PPTA": {
+    "company_name": "Perpetua Resources Corp.",
+    "sector": "Basic Materials",
+    "industry": "Other Precious Metals & Mining",
+    "yahoo_symbol": "PPTA.TO",
+    "exchange": "TSX"
+  },
+  "EFX": {
+    "company_name": "Enerflex Ltd.",
+    "sector": "Energy",
+    "industry": "Oil & Gas Equipment & Services",
+    "yahoo_symbol": "EFX.TO",
+    "exchange": "TSX"
+  },
+  "CG": {
+    "company_name": "Centerra Gold Inc.",
+    "sector": "Basic Materials",
+    "industry": "Gold",
+    "yahoo_symbol": "CG.TO",
+    "exchange": "TSX"
+  },
+  "POU": {
+    "company_name": "Paramount Resources Ltd.",
+    "sector": "Energy",
+    "industry": "Oil & Gas E&P",
+    "yahoo_symbol": "POU.TO",
+    "exchange": "TSX"
+  },
+  "BB": {
+    "company_name": "BlackBerry Limited",
+    "sector": "Technology",
+    "industry": "Software - Infrastructure",
+    "yahoo_symbol": "BB.TO",
+    "exchange": "TSX"
+  },
+  "SJ": {
+    "company_name": "Stella-Jones Inc.",
+    "sector": "Basic Materials",
+    "industry": "Lumber & Wood Production",
+    "yahoo_symbol": "SJ.TO",
+    "exchange": "TSX"
+  },
+  "PBH": {
+    "company_name": "Premium Brands Holdings Corporation",
+    "sector": "Consumer Defensive",
+    "industry": "Packaged Foods",
+    "yahoo_symbol": "PBH.TO",
+    "exchange": "TSX"
+  },
+  "EQB": {
+    "company_name": "EQB Inc.",
+    "sector": "Financial Services",
+    "industry": "Banks - Regional",
+    "yahoo_symbol": "EQB.TO",
+    "exchange": "TSX"
+  },
+  "ATS": {
+    "company_name": "ATS Corporation",
+    "sector": "Industrials",
+    "industry": "Specialty Industrial Machinery",
+    "yahoo_symbol": "ATS.TO",
+    "exchange": "TSX"
+  },
+  "PDI": {
+    "company_name": "Predictive Discovery Limited",
+    "sector": "Basic Materials",
+    "industry": "Gold",
+    "yahoo_symbol": "PDI.TO",
+    "exchange": "TSX"
+  },
+  "IPCO": {
+    "company_name": "International Petroleum Corporation",
+    "sector": "Energy",
+    "industry": "Oil & Gas E&P",
+    "yahoo_symbol": "IPCO.TO",
+    "exchange": "TSX"
+  },
+  "CRT.UN": {
+    "company_name": "CT Real Estate Investment Trust",
+    "sector": "Real Estate",
+    "industry": "REIT - Retail",
+    "yahoo_symbol": "CRT-UN.TO",
+    "exchange": "TSX"
+  },
+  "SEA": {
+    "company_name": "Seabridge Gold Inc.",
+    "sector": "Basic Materials",
+    "industry": "Gold",
+    "yahoo_symbol": "SEA.TO",
+    "exchange": "TSX"
+  },
+  "SRU.UN": {
+    "company_name": "SmartCentres Real Estate Investment Trust",
+    "sector": "Real Estate",
+    "industry": "REIT - Retail",
+    "yahoo_symbol": "SRU-UN.TO",
+    "exchange": "TSX"
+  },
+  "KXS": {
+    "company_name": "Kinaxis Inc.",
+    "sector": "Technology",
+    "industry": "Software - Application",
+    "yahoo_symbol": "KXS.TO",
+    "exchange": "TSX"
+  },
+  "CEU": {
+    "company_name": "CES Energy Solutions Corp.",
+    "sector": "Energy",
+    "industry": "Oil & Gas Equipment & Services",
+    "yahoo_symbol": "CEU.TO",
+    "exchange": "TSX"
+  },
+  "FVI": {
+    "company_name": "Fortuna Mining Corp.",
+    "sector": "Basic Materials",
+    "industry": "Gold",
+    "yahoo_symbol": "FVI.TO",
+    "exchange": "TSX"
+  },
+  "BLX": {
+    "company_name": "Boralex Inc.",
+    "sector": "Utilities",
+    "industry": "Utilities - Renewable",
+    "yahoo_symbol": "BLX.TO",
+    "exchange": "TSX"
+  },
+  "ARE": {
+    "company_name": "Aecon Group Inc.",
+    "sector": "Industrials",
+    "industry": "Engineering & Construction",
+    "yahoo_symbol": "ARE.TO",
+    "exchange": "TSX"
+  },
+  "EDR": {
+    "company_name": "Endeavour Silver Corp.",
+    "sector": "Basic Materials",
+    "industry": "Silver",
+    "yahoo_symbol": "EDR.TO",
+    "exchange": "TSX"
+  },
+  "SVM": {
+    "company_name": "Silvercorp Metals Inc.",
+    "sector": "Basic Materials",
+    "industry": "Silver",
+    "yahoo_symbol": "SVM.TO",
+    "exchange": "TSX"
+  },
+  "HPS.A": {
+    "company_name": "Hammond Power Solutions Inc.",
+    "sector": "Industrials",
+    "industry": "Electrical Equipment & Parts",
+    "yahoo_symbol": "HPS-A.TO",
+    "exchange": "TSX"
+  },
+  "CURA": {
+    "company_name": "Curaleaf Holdings, Inc.",
+    "sector": "Healthcare",
+    "industry": "Drug Manufacturers - Specialty & Generic",
+    "yahoo_symbol": "CURA.TO",
+    "exchange": "TSX"
+  },
+  "MFI": {
+    "company_name": "Maple Leaf Foods Inc.",
+    "sector": "Consumer Defensive",
+    "industry": "Packaged Foods",
+    "yahoo_symbol": "MFI.TO",
+    "exchange": "TSX"
+  },
+  "ERO": {
+    "company_name": "Ero Copper Corp.",
+    "sector": "Basic Materials",
+    "industry": "Copper",
+    "yahoo_symbol": "ERO.TO",
+    "exchange": "TSX"
+  },
+  "AYA": {
+    "company_name": "Aya Gold & Silver Inc.",
+    "sector": "Basic Materials",
+    "industry": "Silver",
+    "yahoo_symbol": "AYA.TO",
+    "exchange": "TSX"
+  },
+  "WDO": {
+    "company_name": "Wesdome Gold Mines Ltd.",
+    "sector": "Basic Materials",
+    "industry": "Gold",
+    "yahoo_symbol": "WDO.TO",
+    "exchange": "TSX"
+  },
+  "TKO": {
+    "company_name": "Taseko Mines Limited",
+    "sector": "Basic Materials",
+    "industry": "Copper",
+    "yahoo_symbol": "TKO.TO",
+    "exchange": "TSX"
+  },
+  "FIH.U": {
+    "company_name": "Fairfax India Holdings Corporation",
+    "sector": "Financial Services",
+    "industry": "Asset Management",
+    "yahoo_symbol": "FIH-U.TO",
+    "exchange": "TSX"
+  },
+  "BEI.UN": {
+    "company_name": "Boardwalk Real Estate Investment Trust",
+    "sector": "Real Estate",
+    "industry": "REIT - Residential",
+    "yahoo_symbol": "BEI-UN.TO",
+    "exchange": "TSX"
+  },
+  "VNP": {
+    "company_name": "5N Plus Inc.",
+    "sector": "Basic Materials",
+    "industry": "Specialty Chemicals",
+    "yahoo_symbol": "VNP.TO",
+    "exchange": "TSX"
+  },
+  "CRR.UN": {
+    "company_name": "Crombie Real Estate Investment Trust",
+    "sector": "Real Estate",
+    "industry": "REIT - Diversified",
+    "yahoo_symbol": "CRR-UN.TO",
+    "exchange": "TSX"
+  },
+  "HWX": {
+    "company_name": "Headwater Exploration Inc.",
+    "sector": "Energy",
+    "industry": "Oil & Gas E&P",
+    "yahoo_symbol": "HWX.TO",
+    "exchange": "TSX"
+  },
+  "BDT": {
+    "company_name": "Bird Construction Inc.",
+    "sector": "Industrials",
+    "industry": "Engineering & Construction",
+    "yahoo_symbol": "BDT.TO",
+    "exchange": "TSX"
+  },
+  "FRU": {
+    "company_name": "Freehold Royalties Ltd.",
+    "sector": "Energy",
+    "industry": "Oil & Gas E&P",
+    "yahoo_symbol": "FRU.TO",
+    "exchange": "TSX"
+  },
+  "RUS": {
+    "company_name": "Russel Metals Inc.",
+    "sector": "Industrials",
+    "industry": "Industrial Distribution",
+    "yahoo_symbol": "RUS.TO",
+    "exchange": "TSX"
+  },
+  "TVK": {
+    "company_name": "TerraVest Industries Inc.",
+    "sector": "Energy",
+    "industry": "Oil & Gas Equipment & Services",
+    "yahoo_symbol": "TVK.TO",
+    "exchange": "TSX"
+  },
+  "EXE": {
+    "company_name": "Extendicare Inc.",
+    "sector": "Healthcare",
+    "industry": "Medical Care Facilities",
+    "yahoo_symbol": "EXE.TO",
+    "exchange": "TSX"
+  },
+  "ALS": {
+    "company_name": "Altius Minerals Corporation",
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "yahoo_symbol": "ALS.TO",
+    "exchange": "TSX"
+  },
+  "BHC": {
+    "company_name": "Bausch Health Companies Inc.",
+    "sector": "Healthcare",
+    "industry": "Drug Manufacturers - Specialty & Generic",
+    "yahoo_symbol": "BHC.TO",
+    "exchange": "TSX"
+  },
+  "VET": {
+    "company_name": "Vermilion Energy Inc.",
+    "sector": "Energy",
+    "industry": "Oil & Gas E&P",
+    "yahoo_symbol": "VET.TO",
+    "exchange": "TSX"
+  },
+  "HR.UN": {
+    "company_name": "H&R Real Estate Investment Trust",
+    "sector": "Real Estate",
+    "industry": "REIT - Diversified",
+    "yahoo_symbol": "HR-UN.TO",
+    "exchange": "TSX"
+  },
+  "SDE": {
+    "company_name": "Spartan Delta Corp.",
+    "sector": "Energy",
+    "industry": "Oil & Gas E&P",
+    "yahoo_symbol": "SDE.TO",
+    "exchange": "TSX"
+  },
+  "PXT": {
+    "company_name": "Parex Resources Inc.",
+    "sector": "Energy",
+    "industry": "Oil & Gas E&P",
+    "yahoo_symbol": "PXT.TO",
+    "exchange": "TSX"
+  },
+  "BDGI": {
+    "company_name": "Badger Infrastructure Solutions Ltd.",
+    "sector": "Industrials",
+    "industry": "Engineering & Construction",
+    "yahoo_symbol": "BDGI.TO",
+    "exchange": "TSX"
+  },
+  "CIA": {
+    "company_name": "Champion Iron Limited",
+    "sector": "Basic Materials",
+    "industry": "Steel",
+    "yahoo_symbol": "CIA.TO",
+    "exchange": "TSX"
+  },
+  "KEEL": {
+    "company_name": "Keel Infrastructure Corp.",
+    "sector": "Technology",
+    "industry": "Information Technology Services",
+    "yahoo_symbol": "KEEL.TO",
+    "exchange": "TSX"
+  },
+  "GTWO": {
+    "company_name": "G2 Goldfields Inc.",
+    "sector": "Basic Materials",
+    "industry": "Gold",
+    "yahoo_symbol": "GTWO.TO",
+    "exchange": "TSX"
+  },
+  "IE": {
+    "company_name": "Ivanhoe Electric Inc.",
+    "sector": "Basic Materials",
+    "industry": "Copper",
+    "yahoo_symbol": "IE.TO",
+    "exchange": "TSX"
+  },
+  "CCA": {
+    "company_name": "Cogeco Communications Inc.",
+    "sector": "Communication Services",
+    "industry": "Telecom Services",
+    "yahoo_symbol": "CCA.TO",
+    "exchange": "TSX"
+  },
+  "LAC": {
+    "company_name": "Lithium Americas Corp.",
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "yahoo_symbol": "LAC.TO",
+    "exchange": "TSX"
+  },
+  "ABRA": {
+    "company_name": "AbraSilver Resource Corp.",
+    "sector": "Basic Materials",
+    "industry": "Other Precious Metals & Mining",
+    "yahoo_symbol": "ABRA.TO",
+    "exchange": "TSX"
+  },
+  "SGD": {
+    "company_name": "Snowline Gold Corp.",
+    "sector": "Basic Materials",
+    "industry": "Gold",
+    "yahoo_symbol": "SGD.TO",
+    "exchange": "TSX"
+  },
+  "USA": {
+    "company_name": "Americas Gold and Silver Corporation",
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "yahoo_symbol": "USA.TO",
+    "exchange": "TSX"
+  },
+  "SIA": {
+    "company_name": "Sienna Senior Living Inc.",
+    "sector": "Healthcare",
+    "industry": "Medical Care Facilities",
+    "yahoo_symbol": "SIA.TO",
+    "exchange": "TSX"
+  },
+  "NFI": {
+    "company_name": "NFI Group Inc.",
+    "sector": "Consumer Cyclical",
+    "industry": "Auto Manufacturers",
+    "yahoo_symbol": "NFI.TO",
+    "exchange": "TSX"
+  },
+  "SXGC": {
+    "company_name": "Southern Cross Gold Consolidated Ltd.",
+    "sector": "Basic Materials",
+    "industry": "Gold",
+    "yahoo_symbol": "SXGC.TO",
+    "exchange": "TSX"
+  },
+  "RUP": {
+    "company_name": "Rupert Resources Ltd.",
+    "sector": "Basic Materials",
+    "industry": "Gold",
+    "yahoo_symbol": "RUP.TO",
+    "exchange": "TSX"
+  },
+  "NWC": {
+    "company_name": "The North West Company Inc.",
+    "sector": "Consumer Defensive",
+    "industry": "Grocery Stores",
+    "yahoo_symbol": "NWC.TO",
+    "exchange": "TSX"
+  },
+  "WPK": {
+    "company_name": "Winpak Ltd.",
+    "sector": "Consumer Cyclical",
+    "industry": "Packaging & Containers",
+    "yahoo_symbol": "WPK.TO",
+    "exchange": "TSX"
+  },
+  "LAR": {
+    "company_name": "Lithium Argentina AG",
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "yahoo_symbol": "LAR.TO",
+    "exchange": "TSX"
+  },
+  "WTE": {
+    "company_name": "Westshore Terminals Investment Corporation",
+    "sector": "Industrials",
+    "industry": "Marine Shipping",
+    "yahoo_symbol": "WTE.TO",
+    "exchange": "TSX"
+  },
+  "PMZ.UN": {
+    "company_name": "Primaris Real Estate Investment Trust",
+    "sector": "Real Estate",
+    "industry": "REIT - Retail",
+    "yahoo_symbol": "PMZ-UN.TO",
+    "exchange": "TSX"
+  },
+  "SLS": {
+    "company_name": "Solaris Resources Inc.",
+    "sector": "Basic Materials",
+    "industry": "Other Precious Metals & Mining",
+    "yahoo_symbol": "SLS.TO",
+    "exchange": "TSX"
+  },
+  "CJ": {
+    "company_name": "Cardinal Energy Ltd.",
+    "sector": "Energy",
+    "industry": "Oil & Gas E&P",
+    "yahoo_symbol": "CJ.TO",
+    "exchange": "TSX"
+  },
+  "CNL": {
+    "company_name": "Collective Mining Ltd.",
+    "sector": "Basic Materials",
+    "industry": "Gold",
+    "yahoo_symbol": "CNL.TO",
+    "exchange": "TSX"
+  },
+  "TNZ": {
+    "company_name": "Tenaz Energy Corp.",
+    "sector": "Energy",
+    "industry": "Oil & Gas E&P",
+    "yahoo_symbol": "TNZ.TO",
+    "exchange": "TSX"
+  },
+  "RCH": {
+    "company_name": "Richelieu Hardware Ltd.",
+    "sector": "Industrials",
+    "industry": "Tools & Accessories",
+    "yahoo_symbol": "RCH.TO",
+    "exchange": "TSX"
+  },
+  "SIS": {
+    "company_name": "Savaria Corporation",
+    "sector": "Industrials",
+    "industry": "Specialty Industrial Machinery",
+    "yahoo_symbol": "SIS.TO",
+    "exchange": "TSX"
+  },
+  "TSU": {
+    "company_name": "Trisura Group Ltd.",
+    "sector": "Financial Services",
+    "industry": "Insurance - Specialty",
+    "yahoo_symbol": "TSU.TO",
+    "exchange": "TSX"
+  },
+  "KMP.UN": {
+    "company_name": "Killam Apartment REIT",
+    "sector": "Real Estate",
+    "industry": "REIT - Residential",
+    "yahoo_symbol": "KMP-UN.TO",
+    "exchange": "TSX"
+  },
+  "TOY": {
+    "company_name": "Spin Master Corp.",
+    "sector": "Consumer Cyclical",
+    "industry": "Leisure",
+    "yahoo_symbol": "TOY.TO",
+    "exchange": "TSX"
+  },
+  "KEL": {
+    "company_name": "Kelt Exploration Ltd.",
+    "sector": "Energy",
+    "industry": "Oil & Gas E&P",
+    "yahoo_symbol": "KEL.TO",
+    "exchange": "TSX"
+  },
+  "MTL": {
+    "company_name": "Mullen Group Ltd.",
+    "sector": "Industrials",
+    "industry": "Trucking",
+    "yahoo_symbol": "MTL.TO",
+    "exchange": "TSX"
+  },
+  "ALK": {
+    "company_name": "Alkane Resources Ltd",
+    "sector": "Basic Materials",
+    "industry": "Gold",
+    "yahoo_symbol": "ALK.TO",
+    "exchange": "TSX"
+  },
+  "CHE.UN": {
+    "company_name": "Chemtrade Logistics Income Fund",
+    "sector": "Basic Materials",
+    "industry": "Chemicals",
+    "yahoo_symbol": "CHE-UN.TO",
+    "exchange": "TSX"
+  },
+  "AP.UN": {
+    "company_name": "Allied Properties Real Estate Investment Trust",
+    "sector": "Real Estate",
+    "industry": "REIT - Office",
+    "yahoo_symbol": "AP-UN.TO",
+    "exchange": "TSX"
+  },
+  "IIP.UN": {
+    "company_name": "InterRent Real Estate Investment Trust",
+    "sector": "Real Estate",
+    "industry": "REIT - Residential",
+    "yahoo_symbol": "IIP-UN.TO",
+    "exchange": "TSX"
+  },
+  "LB": {
+    "company_name": "Laurentian Bank of Canada",
+    "sector": "Financial Services",
+    "industry": "Banks - Regional",
+    "yahoo_symbol": "LB.TO",
+    "exchange": "TSX"
+  },
+  "BIR": {
+    "company_name": "Birchcliff Energy Ltd.",
+    "sector": "Energy",
+    "industry": "Oil & Gas E&P",
+    "yahoo_symbol": "BIR.TO",
+    "exchange": "TSX"
+  },
+  "LIF": {
+    "company_name": "Labrador Iron Ore Royalty Corporation",
+    "sector": "Basic Materials",
+    "industry": "Steel",
+    "yahoo_symbol": "LIF.TO",
+    "exchange": "TSX"
+  },
+  "LSPD": {
+    "company_name": "Lightspeed Commerce Inc.",
+    "sector": "Technology",
+    "industry": "Software - Application",
+    "yahoo_symbol": "LSPD.TO",
+    "exchange": "TSX"
+  },
+  "LNF": {
+    "company_name": "Leon's Furniture Limited",
+    "sector": "Consumer Cyclical",
+    "industry": "Specialty Retail",
+    "yahoo_symbol": "LNF.TO",
+    "exchange": "TSX"
+  },
+  "AAV": {
+    "company_name": "Advantage Energy Ltd.",
+    "sector": "Energy",
+    "industry": "Oil & Gas E&P",
+    "yahoo_symbol": "AAV.TO",
+    "exchange": "TSX"
+  },
+  "IAU": {
+    "company_name": "i-80 Gold Corp.",
+    "sector": "Basic Materials",
+    "industry": "Gold",
+    "yahoo_symbol": "IAU.TO",
+    "exchange": "TSX"
+  },
+  "MER": {
+    "company_name": "Meren Energy Inc.",
+    "sector": "Energy",
+    "industry": "Oil & Gas E&P",
+    "yahoo_symbol": "MER.TO",
+    "exchange": "TSX"
+  },
+  "PD": {
+    "company_name": "Precision Drilling Corporation",
+    "sector": "Energy",
+    "industry": "Oil & Gas Drilling",
+    "yahoo_symbol": "PD.TO",
+    "exchange": "TSX"
+  },
+  "MUX": {
+    "company_name": "McEwen Inc.",
+    "sector": "Basic Materials",
+    "industry": "Other Precious Metals & Mining",
+    "yahoo_symbol": "MUX.TO",
+    "exchange": "TSX"
+  },
+  "VMET": {
+    "company_name": "Versamet Royalties Corporation",
+    "sector": "Basic Materials",
+    "industry": "Other Precious Metals & Mining",
+    "yahoo_symbol": "VMET.TO",
+    "exchange": "TSX"
+  },
+  "MEQ": {
+    "company_name": "Mainstreet Equity Corp.",
+    "sector": "Real Estate",
+    "industry": "Real Estate Services",
+    "yahoo_symbol": "MEQ.TO",
+    "exchange": "TSX"
+  },
+  "AIF": {
+    "company_name": "Altus Group Limited",
+    "sector": "Real Estate",
+    "industry": "Real Estate Services",
+    "yahoo_symbol": "AIF.TO",
+    "exchange": "TSX"
+  },
+  "SPB": {
+    "company_name": "Superior Plus Corp.",
+    "sector": "Utilities",
+    "industry": "Utilities - Regulated Gas",
+    "yahoo_symbol": "SPB.TO",
+    "exchange": "TSX"
+  },
+  "VZLA": {
+    "company_name": "Vizsla Silver Corp.",
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "yahoo_symbol": "VZLA.TO",
+    "exchange": "TSX"
+  },
+  "NDM": {
+    "company_name": "Northern Dynasty Minerals Ltd.",
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "yahoo_symbol": "NDM.TO",
+    "exchange": "TSX"
+  },
+  "RGSI": {
+    "company_name": "Rockpoint Gas Storage Inc.",
+    "sector": "Utilities",
+    "industry": "Utilities - Regulated Gas",
+    "yahoo_symbol": "RGSI.TO",
+    "exchange": "TSX"
+  },
+  "SVI": {
+    "company_name": "StorageVault Canada Inc.",
+    "sector": "Real Estate",
+    "industry": "Real Estate Services",
+    "yahoo_symbol": "SVI.TO",
+    "exchange": "TSX"
+  },
+  "HSLV": {
+    "company_name": "Highlander Silver Corp.",
+    "sector": "Basic Materials",
+    "industry": "Silver",
+    "yahoo_symbol": "HSLV.TO",
+    "exchange": "TSX"
+  },
+  "LAS.A": {
+    "company_name": "Lassonde Industries Inc.",
+    "sector": "Consumer Defensive",
+    "industry": "Beverages - Non-Alcoholic",
+    "yahoo_symbol": "LAS-A.TO",
+    "exchange": "TSX"
+  },
+  "ELE": {
+    "company_name": "Elemental Royalty Corporation",
+    "sector": "Basic Materials",
+    "industry": "Other Precious Metals & Mining",
+    "yahoo_symbol": "ELE.TO",
+    "exchange": "TSX"
+  },
+  "TCW": {
+    "company_name": "Trican Well Service Ltd.",
+    "sector": "Energy",
+    "industry": "Oil & Gas Equipment & Services",
+    "yahoo_symbol": "TCW.TO",
+    "exchange": "TSX"
+  },
+  "ASCU": {
+    "company_name": "Arizona Sonoran Copper Company Inc.",
+    "sector": "Basic Materials",
+    "industry": "Copper",
+    "yahoo_symbol": "ASCU.TO",
+    "exchange": "TSX"
+  },
+  "GOOS": {
+    "company_name": "Canada Goose Holdings Inc.",
+    "sector": "Consumer Cyclical",
+    "industry": "Apparel Manufacturing",
+    "yahoo_symbol": "GOOS.TO",
+    "exchange": "TSX"
+  },
+  "MSA": {
+    "company_name": "Mineros S.A.",
+    "sector": "Basic Materials",
+    "industry": "Gold",
+    "yahoo_symbol": "MSA.TO",
+    "exchange": "TSX"
+  },
+  "ASM": {
+    "company_name": "Avino Silver & Gold Mines Ltd.",
+    "sector": "Basic Materials",
+    "industry": "Other Precious Metals & Mining",
+    "yahoo_symbol": "ASM.TO",
+    "exchange": "TSX"
+  },
+  "NUAG": {
+    "company_name": "New Pacific Metals Corp.",
+    "sector": "Basic Materials",
+    "industry": "Silver",
+    "yahoo_symbol": "NUAG.TO",
+    "exchange": "TSX"
+  },
+  "MAL": {
+    "company_name": "Magellan Aerospace Corporation",
+    "sector": "Industrials",
+    "industry": "Aerospace & Defense",
+    "yahoo_symbol": "MAL.TO",
+    "exchange": "TSX"
+  },
+  "VLE": {
+    "company_name": "Valeura Energy Inc.",
+    "sector": "Energy",
+    "industry": "Oil & Gas E&P",
+    "yahoo_symbol": "VLE.TO",
+    "exchange": "TSX"
+  },
+  "RIO": {
+    "company_name": "Rio2 Limited",
+    "sector": "Basic Materials",
+    "industry": "Gold",
+    "yahoo_symbol": "RIO.TO",
+    "exchange": "TSX"
+  },
+  "PET": {
+    "company_name": "Pet Valu Holdings Ltd.",
+    "sector": "Consumer Cyclical",
+    "industry": "Specialty Retail",
+    "yahoo_symbol": "PET.TO",
+    "exchange": "TSX"
+  },
+  "JWEL": {
+    "company_name": "Jamieson Wellness Inc.",
+    "sector": "Consumer Defensive",
+    "industry": "Packaged Foods",
+    "yahoo_symbol": "JWEL.TO",
+    "exchange": "TSX"
+  },
+  "CFP": {
+    "company_name": "Canfor Corporation",
+    "sector": "Basic Materials",
+    "industry": "Lumber & Wood Production",
+    "yahoo_symbol": "CFP.TO",
+    "exchange": "TSX"
+  },
+  "VITL.UN": {
+    "company_name": "Vital Infrastructure Property Trust",
+    "sector": "Real Estate",
+    "industry": "REIT - Healthcare Facilities",
+    "yahoo_symbol": "VITL-UN.TO",
+    "exchange": "TSX"
+  },
+  "CRON": {
+    "company_name": "Cronos Group Inc.",
+    "sector": "Healthcare",
+    "industry": "Drug Manufacturers - Specialty & Generic",
+    "yahoo_symbol": "CRON.TO",
+    "exchange": "TSX"
+  },
+  "BLDP": {
+    "company_name": "Ballard Power Systems Inc.",
+    "sector": "Industrials",
+    "industry": "Electrical Equipment & Parts",
+    "yahoo_symbol": "BLDP.TO",
+    "exchange": "TSX"
+  },
+  "OBE": {
+    "company_name": "Obsidian Energy Ltd.",
+    "sector": "Energy",
+    "industry": "Oil & Gas E&P",
+    "yahoo_symbol": "OBE.TO",
+    "exchange": "TSX"
+  },
+  "FDY": {
+    "company_name": "Faraday Copper Corp.",
+    "sector": "Basic Materials",
+    "industry": "Copper",
+    "yahoo_symbol": "FDY.TO",
+    "exchange": "TSX"
+  },
+  "FFM": {
+    "company_name": "FireFly Metals Ltd",
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "yahoo_symbol": "FFM.TO",
+    "exchange": "TSX"
+  },
+  "SOIL": {
+    "company_name": "Saturn Oil & Gas Inc.",
+    "sector": "Energy",
+    "industry": "Oil & Gas E&P",
+    "yahoo_symbol": "SOIL.TO",
+    "exchange": "TSX"
+  },
+  "ORE": {
+    "company_name": "Orezone Gold Corporation",
+    "sector": "Basic Materials",
+    "industry": "Gold",
+    "yahoo_symbol": "ORE.TO",
+    "exchange": "TSX"
+  },
+  "SFC": {
+    "company_name": "Sagicor Financial Company Ltd.",
+    "sector": "Financial Services",
+    "industry": "Insurance - Life",
+    "yahoo_symbol": "SFC.TO",
+    "exchange": "TSX"
+  },
+  "MRC": {
+    "company_name": "Morguard Corporation",
+    "sector": "Real Estate",
+    "industry": "Real Estate - Diversified",
+    "yahoo_symbol": "MRC.TO",
+    "exchange": "TSX"
+  },
+  "MDI": {
+    "company_name": "Major Drilling Group International Inc.",
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "yahoo_symbol": "MDI.TO",
+    "exchange": "TSX"
+  },
+  "LMCU": {
+    "company_name": "Lumina Metals Corp.",
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "yahoo_symbol": "LMCU.TO",
+    "exchange": "TSX"
+  },
+  "ET": {
+    "company_name": "Evertz Technologies Limited",
+    "sector": "Technology",
+    "industry": "Communication Equipment",
+    "yahoo_symbol": "ET.TO",
+    "exchange": "TSX"
+  },
+  "CF": {
+    "company_name": "Canaccord Genuity Group Inc.",
+    "sector": "Financial Services",
+    "industry": "Capital Markets",
+    "yahoo_symbol": "CF.TO",
+    "exchange": "TSX"
+  },
+  "CJT": {
+    "company_name": "Cargojet Inc.",
+    "sector": "Industrials",
+    "industry": "Integrated Freight & Logistics",
+    "yahoo_symbol": "CJT.TO",
+    "exchange": "TSX"
+  },
+  "AGTF": {
+    "company_name": "AGT Food and Ingredients Inc.",
+    "sector": "Consumer Defensive",
+    "industry": "Farm Products",
+    "yahoo_symbol": "AGTF.TO",
+    "exchange": "TSX"
+  },
+  "NEO": {
+    "company_name": "Neo Performance Materials Inc.",
+    "sector": "Basic Materials",
+    "industry": "Specialty Chemicals",
+    "yahoo_symbol": "NEO.TO",
+    "exchange": "TSX"
+  },
+  "III": {
+    "company_name": "Imperial Metals Corporation",
+    "sector": "Basic Materials",
+    "industry": "Copper",
+    "yahoo_symbol": "III.TO",
+    "exchange": "TSX"
+  },
+  "ARA": {
+    "company_name": "Aclara Resources Inc.",
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "yahoo_symbol": "ARA.TO",
+    "exchange": "TSX"
+  },
+  "BDI": {
+    "company_name": "Black Diamond Group Limited",
+    "sector": "Industrials",
+    "industry": "Rental & Leasing Services",
+    "yahoo_symbol": "BDI.TO",
+    "exchange": "TSX"
+  },
+  "PMET": {
+    "company_name": "PMET Resources Inc.",
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "yahoo_symbol": "PMET.TO",
+    "exchange": "TSX"
+  },
+  "GGD": {
+    "company_name": "GoGold Resources Inc.",
+    "sector": "Basic Materials",
+    "industry": "Other Precious Metals & Mining",
+    "yahoo_symbol": "GGD.TO",
+    "exchange": "TSX"
+  },
+  "OM": {
+    "company_name": "Osisko Metals Incorporated",
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "yahoo_symbol": "OM.TO",
+    "exchange": "TSX"
+  },
+  "GFR": {
+    "company_name": "Greenfire Resources Ltd.",
+    "sector": "Energy",
+    "industry": "Oil & Gas E&P",
+    "yahoo_symbol": "GFR.TO",
+    "exchange": "TSX"
+  },
+  "KEC": {
+    "company_name": "Kiwetinohk Energy Corp.",
+    "sector": NaN,
+    "industry": NaN,
+    "yahoo_symbol": "KEC.TO",
+    "exchange": "TSX"
+  },
+  "WELL": {
+    "company_name": "WELL Health Technologies Corp.",
+    "sector": "Healthcare",
+    "industry": "Medical Care Facilities",
+    "yahoo_symbol": "WELL.TO",
+    "exchange": "TSX"
+  },
+  "RFA": {
+    "company_name": "RFA Financial Inc.",
+    "sector": "Real Estate",
+    "industry": "REIT - Diversified",
+    "yahoo_symbol": "RFA.TO",
+    "exchange": "TSX"
+  },
+  "ATX": {
+    "company_name": "ATEX Resources Inc.",
+    "sector": "Basic Materials",
+    "industry": "Gold",
+    "yahoo_symbol": "ATX.TO",
+    "exchange": "TSX"
+  },
+  "CAS": {
+    "company_name": "Cascades Inc.",
+    "sector": "Consumer Cyclical",
+    "industry": "Packaging & Containers",
+    "yahoo_symbol": "CAS.TO",
+    "exchange": "TSX"
+  },
+  "TLO": {
+    "company_name": "Talon Metals Corp.",
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "yahoo_symbol": "TLO.TO",
+    "exchange": "TSX"
+  },
+  "PSI": {
+    "company_name": "Pason Systems Inc.",
+    "sector": "Energy",
+    "industry": "Oil & Gas Equipment & Services",
+    "yahoo_symbol": "PSI.TO",
+    "exchange": "TSX"
+  },
+  "SOY": {
+    "company_name": "SunOpta Inc.",
+    "sector": "Consumer Defensive",
+    "industry": "Beverages - Non-Alcoholic",
+    "yahoo_symbol": "SOY.TO",
+    "exchange": "TSX"
+  },
+  "MARI": {
+    "company_name": "Marimaca Copper Corp.",
+    "sector": "Basic Materials",
+    "industry": "Copper",
+    "yahoo_symbol": "MARI.TO",
+    "exchange": "TSX"
+  },
+  "TMQ": {
+    "company_name": "Trilogy Metals Inc.",
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "yahoo_symbol": "TMQ.TO",
+    "exchange": "TSX"
+  },
+  "AGF.B": {
+    "company_name": "AGF Management Limited",
+    "sector": "Financial Services",
+    "industry": "Asset Management",
+    "yahoo_symbol": "AGF-B.TO",
+    "exchange": "TSX"
+  },
+  "CVG": {
+    "company_name": "Clairvest Group Inc.",
+    "sector": "Financial Services",
+    "industry": "Asset Management",
+    "yahoo_symbol": "CVG.TO",
+    "exchange": "TSX"
+  },
+  "MKP": {
+    "company_name": "MCAN Mortgage Corporation",
+    "sector": "Financial Services",
+    "industry": "Mortgage Finance",
+    "yahoo_symbol": "MKP.TO",
+    "exchange": "TSX"
+  },
+  "FEC": {
+    "company_name": "Frontera Energy Corporation",
+    "sector": "Energy",
+    "industry": "Oil & Gas E&P",
+    "yahoo_symbol": "FEC.TO",
+    "exchange": "TSX"
+  },
+  "AD.UN": {
+    "company_name": "Alaris Equity Partners Income Trust",
+    "sector": "Financial Services",
+    "industry": "Asset Management",
+    "yahoo_symbol": "AD-UN.TO",
+    "exchange": "TSX"
+  },
+  "RAY": {
+    "company_name": "Stingray Group Inc.",
+    "sector": "Communication Services",
+    "industry": "Broadcasting",
+    "yahoo_symbol": "RAY.TO",
+    "exchange": "TSX"
+  },
+  "SGY": {
+    "company_name": "Surge Energy Inc.",
+    "sector": "Energy",
+    "industry": "Oil & Gas E&P",
+    "yahoo_symbol": "SGY.TO",
+    "exchange": "TSX"
+  },
+  "TSAT": {
+    "company_name": "Telesat Corporation",
+    "sector": "Technology",
+    "industry": "Communication Equipment",
+    "yahoo_symbol": "TSAT.TO",
+    "exchange": "TSX"
+  },
+  "CTGO": {
+    "company_name": "Contango Silver & Gold Inc.",
+    "sector": "Basic Materials",
+    "industry": "Gold",
+    "yahoo_symbol": "CTGO.TO",
+    "exchange": "TSX"
+  },
+  "ARG": {
+    "company_name": "Amerigo Resources Ltd.",
+    "sector": "Basic Materials",
+    "industry": "Copper",
+    "yahoo_symbol": "ARG.TO",
+    "exchange": "TSX"
+  },
+  "ISO": {
+    "company_name": "IsoEnergy Ltd.",
+    "sector": "Energy",
+    "industry": "Uranium",
+    "yahoo_symbol": "ISO.TO",
+    "exchange": "TSX"
+  },
+  "ENGH": {
+    "company_name": "Enghouse Systems Limited",
+    "sector": "Technology",
+    "industry": "Software - Application",
+    "yahoo_symbol": "ENGH.TO",
+    "exchange": "TSX"
+  },
+  "TLRY": {
+    "company_name": "Tilray Brands, Inc.",
+    "sector": "Healthcare",
+    "industry": "Drug Manufacturers - Specialty & Generic",
+    "yahoo_symbol": "TLRY.TO",
+    "exchange": "TSX"
+  },
+  "SGR.U": {
+    "company_name": "Slate Grocery REIT",
+    "sector": "Real Estate",
+    "industry": "REIT - Retail",
+    "yahoo_symbol": "SGR-U.TO",
+    "exchange": "TSX"
+  },
+  "SGR.UN": {
+    "company_name": "Slate Grocery REIT",
+    "sector": "Real Estate",
+    "industry": "REIT - Retail",
+    "yahoo_symbol": "SGR-UN.TO",
+    "exchange": "TSX"
+  },
+  "URE": {
+    "company_name": "Ur-Energy Inc.",
+    "sector": "Energy",
+    "industry": "Uranium",
+    "yahoo_symbol": "URE.TO",
+    "exchange": "TSX"
+  },
+  "APM": {
+    "company_name": "Andean Precious Metals Corp.",
+    "sector": "Basic Materials",
+    "industry": "Silver",
+    "yahoo_symbol": "APM.TO",
+    "exchange": "TSX"
+  },
+  "MTY": {
+    "company_name": "MTY Food Group Inc.",
+    "sector": "Consumer Cyclical",
+    "industry": "Restaurants",
+    "yahoo_symbol": "MTY.TO",
+    "exchange": "TSX"
+  },
+  "DHT.UN": {
+    "company_name": "DRI Healthcare Trust",
+    "sector": "Healthcare",
+    "industry": "Drug Manufacturers - Specialty & Generic",
+    "yahoo_symbol": "DHT-UN.TO",
+    "exchange": "TSX"
+  },
+  "SEC": {
+    "company_name": "Senvest Capital Inc.",
+    "sector": "Financial Services",
+    "industry": "Asset Management",
+    "yahoo_symbol": "SEC.TO",
+    "exchange": "TSX"
+  },
+  "ALC": {
+    "company_name": "Algoma Central Corporation",
+    "sector": "Industrials",
+    "industry": "Marine Shipping",
+    "yahoo_symbol": "ALC.TO",
+    "exchange": "TSX"
+  },
+  "TOT": {
+    "company_name": "Total Energy Services Inc.",
+    "sector": "Energy",
+    "industry": "Oil & Gas Equipment & Services",
+    "yahoo_symbol": "TOT.TO",
+    "exchange": "TSX"
+  },
+  "DBM": {
+    "company_name": "Doman Building Materials Group Ltd.",
+    "sector": "Industrials",
+    "industry": "Industrial Distribution",
+    "yahoo_symbol": "DBM.TO",
+    "exchange": "TSX"
+  },
+  "TLG": {
+    "company_name": "Troilus Mining Corp.",
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "yahoo_symbol": "TLG.TO",
+    "exchange": "TSX"
+  },
+  "AW": {
+    "company_name": "A & W Food Services of Canada Inc.",
+    "sector": "Consumer Cyclical",
+    "industry": "Restaurants",
+    "yahoo_symbol": "AW.TO",
+    "exchange": "TSX"
+  },
+  "PRL": {
+    "company_name": "Propel Holdings Inc.",
+    "sector": "Financial Services",
+    "industry": "Credit Services",
+    "yahoo_symbol": "PRL.TO",
+    "exchange": "TSX"
+  },
+  "WRN": {
+    "company_name": "Western Copper and Gold Corporation",
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "yahoo_symbol": "WRN.TO",
+    "exchange": "TSX"
+  },
+  "ISC": {
+    "company_name": "Information Services Corporation",
+    "sector": "Industrials",
+    "industry": "Specialty Business Services",
+    "yahoo_symbol": "ISC.TO",
+    "exchange": "TSX"
+  },
+  "CUP.U": {
+    "company_name": "Caribbean Utilities Company, Ltd.",
+    "sector": "Utilities",
+    "industry": "Utilities - Regulated Electric",
+    "yahoo_symbol": "CUP-U.TO",
+    "exchange": "TSX"
+  },
+  "RSI": {
+    "company_name": "Rogers Sugar Inc.",
+    "sector": "Consumer Defensive",
+    "industry": "Confectioners",
+    "yahoo_symbol": "RSI.TO",
+    "exchange": "TSX"
+  },
+  "DCBO": {
+    "company_name": "Docebo Inc.",
+    "sector": "Technology",
+    "industry": "Software - Application",
+    "yahoo_symbol": "DCBO.TO",
+    "exchange": "TSX"
+  },
+  "ITH": {
+    "company_name": "International Tower Hill Mines Ltd.",
+    "sector": "Basic Materials",
+    "industry": "Gold",
+    "yahoo_symbol": "ITH.TO",
+    "exchange": "TSX"
+  },
+  "ADEN": {
+    "company_name": "ADENTRA Inc.",
+    "sector": "Industrials",
+    "industry": "Industrial Distribution",
+    "yahoo_symbol": "ADEN.TO",
+    "exchange": "TSX"
+  },
+  "GAU": {
+    "company_name": "Galiano Gold Inc.",
+    "sector": "Basic Materials",
+    "industry": "Gold",
+    "yahoo_symbol": "GAU.TO",
+    "exchange": "TSX"
+  },
+  "CGY": {
+    "company_name": "Calian Group Ltd.",
+    "sector": "Industrials",
+    "industry": "Specialty Business Services",
+    "yahoo_symbol": "CGY.TO",
+    "exchange": "TSX"
+  },
+  "QRC": {
+    "company_name": "Queen's Road Capital Investment Ltd.",
+    "sector": "Financial Services",
+    "industry": "Asset Management",
+    "yahoo_symbol": "QRC.TO",
+    "exchange": "TSX"
+  },
+  "VBNK": {
+    "company_name": "VersaBank",
+    "sector": "Financial Services",
+    "industry": "Banks - Regional",
+    "yahoo_symbol": "VBNK.TO",
+    "exchange": "TSX"
+  },
+  "BLN": {
+    "company_name": "Blackline Safety Corp.",
+    "sector": "Technology",
+    "industry": "Software - Application",
+    "yahoo_symbol": "BLN.TO",
+    "exchange": "TSX"
+  },
+  "MNO": {
+    "company_name": "Meridian Mining Plc",
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "yahoo_symbol": "MNO.TO",
+    "exchange": "TSX"
+  },
+  "DRM": {
+    "company_name": "Dream Unlimited Corp.",
+    "sector": "Real Estate",
+    "industry": "Real Estate - Development",
+    "yahoo_symbol": "DRM.TO",
+    "exchange": "TSX"
+  },
+  "URC": {
+    "company_name": "Uranium Royalty Corp.",
+    "sector": "Energy",
+    "industry": "Uranium",
+    "yahoo_symbol": "URC.TO",
+    "exchange": "TSX"
+  },
+  "DXT": {
+    "company_name": "Dexterra Group Inc.",
+    "sector": "Industrials",
+    "industry": "Specialty Business Services",
+    "yahoo_symbol": "DXT.TO",
+    "exchange": "TSX"
+  },
+  "GUD": {
+    "company_name": "Knight Therapeutics Inc.",
+    "sector": "Healthcare",
+    "industry": "Drug Manufacturers - Specialty & Generic",
+    "yahoo_symbol": "GUD.TO",
+    "exchange": "TSX"
+  },
+  "WJX": {
+    "company_name": "Wajax Corporation",
+    "sector": "Industrials",
+    "industry": "Industrial Distribution",
+    "yahoo_symbol": "WJX.TO",
+    "exchange": "TSX"
+  },
+  "MRE": {
+    "company_name": "Martinrea International Inc.",
+    "sector": "Consumer Cyclical",
+    "industry": "Auto Parts",
+    "yahoo_symbol": "MRE.TO",
+    "exchange": "TSX"
+  },
+  "DLCG": {
+    "company_name": "Dominion Lending Centres Inc.",
+    "sector": "Financial Services",
+    "industry": "Mortgage Finance",
+    "yahoo_symbol": "DLCG.TO",
+    "exchange": "TSX"
+  },
+  "ESI": {
+    "company_name": "Ensign Energy Services Inc.",
+    "sector": "Energy",
+    "industry": "Oil & Gas Drilling",
+    "yahoo_symbol": "ESI.TO",
+    "exchange": "TSX"
+  },
+  "LGD": {
+    "company_name": "Liberty Gold Corp.",
+    "sector": "Basic Materials",
+    "industry": "Gold",
+    "yahoo_symbol": "LGD.TO",
+    "exchange": "TSX"
+  },
+  "DIV": {
+    "company_name": "Diversified Royalty Corp.",
+    "sector": "Industrials",
+    "industry": "Specialty Business Services",
+    "yahoo_symbol": "DIV.TO",
+    "exchange": "TSX"
+  },
+  "BK": {
+    "company_name": "Canadian Banc Corp.",
+    "sector": "Financial Services",
+    "industry": "Asset Management",
+    "yahoo_symbol": "BK.TO",
+    "exchange": "TSX"
+  },
+  "CGX": {
+    "company_name": "Cineplex Inc.",
+    "sector": "Communication Services",
+    "industry": "Entertainment",
+    "yahoo_symbol": "CGX.TO",
+    "exchange": "TSX"
+  },
+  "BSX": {
+    "company_name": "Belo Sun Mining Corp",
+    "sector": "Basic Materials",
+    "industry": "Gold",
+    "yahoo_symbol": "BSX.TO",
+    "exchange": "TSX"
+  },
+  "ASTL": {
+    "company_name": "Algoma Steel Group Inc.",
+    "sector": "Basic Materials",
+    "industry": "Steel",
+    "yahoo_symbol": "ASTL.TO",
+    "exchange": "TSX"
+  },
+  "MI.UN": {
+    "company_name": "Minto Apartment Real Estate Investment Trust",
+    "sector": "Real Estate",
+    "industry": "REIT - Residential",
+    "yahoo_symbol": "MI-UN.TO",
+    "exchange": "TSX"
+  },
+  "ELVA": {
+    "company_name": "Electrovaya Inc.",
+    "sector": "Industrials",
+    "industry": "Electrical Equipment & Parts",
+    "yahoo_symbol": "ELVA.TO",
+    "exchange": "TSX"
+  },
+  "FVL": {
+    "company_name": "Freegold Ventures Limited",
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "yahoo_symbol": "FVL.TO",
+    "exchange": "TSX"
+  },
+  "APR.UN": {
+    "company_name": "Automotive Properties Real Estate Investment Trust",
+    "sector": "Real Estate",
+    "industry": "REIT - Specialty",
+    "yahoo_symbol": "APR-UN.TO",
+    "exchange": "TSX"
+  },
+  "ECOR": {
+    "company_name": "Ecora Royalties PLC",
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "yahoo_symbol": "ECOR.TO",
+    "exchange": "TSX"
+  },
+  "EPRX": {
+    "company_name": "Eupraxia Pharmaceuticals Inc.",
+    "sector": "Healthcare",
+    "industry": "Biotechnology",
+    "yahoo_symbol": "EPRX.TO",
+    "exchange": "TSX"
+  },
+  "IFP": {
+    "company_name": "Interfor Corporation",
+    "sector": "Basic Materials",
+    "industry": "Lumber & Wood Production",
+    "yahoo_symbol": "IFP.TO",
+    "exchange": "TSX"
+  },
+  "FF": {
+    "company_name": "First Mining Gold Corp.",
+    "sector": "Basic Materials",
+    "industry": "Gold",
+    "yahoo_symbol": "FF.TO",
+    "exchange": "TSX"
+  },
+  "TPX.A": {
+    "company_name": "Molson Coors Canada Inc.",
+    "sector": "Consumer Defensive",
+    "industry": "Beverages - Brewers",
+    "yahoo_symbol": "TPX-A.TO",
+    "exchange": "TSX"
+  },
+  "TPX.B": {
+    "company_name": "Molson Coors Canada Inc.",
+    "sector": "Consumer Defensive",
+    "industry": "Beverages - Brewers",
+    "yahoo_symbol": "TPX-B.TO",
+    "exchange": "TSX"
+  },
+  "CGO": {
+    "company_name": "Cogeco Inc.",
+    "sector": "Communication Services",
+    "industry": "Telecom Services",
+    "yahoo_symbol": "CGO.TO",
+    "exchange": "TSX"
+  },
+  "TWC": {
+    "company_name": "TWC Enterprises Limited",
+    "sector": "Consumer Cyclical",
+    "industry": "Leisure",
+    "yahoo_symbol": "TWC.TO",
+    "exchange": "TSX"
+  },
+  "FSZ": {
+    "company_name": "Fiera Capital Corporation",
+    "sector": "Financial Services",
+    "industry": "Asset Management",
+    "yahoo_symbol": "FSZ.TO",
+    "exchange": "TSX"
+  },
+  "MATR": {
+    "company_name": "Mattr Corp.",
+    "sector": "Energy",
+    "industry": "Oil & Gas Equipment & Services",
+    "yahoo_symbol": "MATR.TO",
+    "exchange": "TSX"
+  },
+  "AI": {
+    "company_name": "Atrium Mortgage Investment Corporation",
+    "sector": "Financial Services",
+    "industry": "Mortgage Finance",
+    "yahoo_symbol": "AI.TO",
+    "exchange": "TSX"
+  },
+  "WEED": {
+    "company_name": "Canopy Growth Corporation",
+    "sector": "Healthcare",
+    "industry": "Drug Manufacturers - Specialty & Generic",
+    "yahoo_symbol": "WEED.TO",
+    "exchange": "TSX"
+  },
+  "CHR": {
+    "company_name": "Chorus Aviation Inc.",
+    "sector": "Industrials",
+    "industry": "Airports & Air Services",
+    "yahoo_symbol": "CHR.TO",
+    "exchange": "TSX"
+  },
+  "MRG.UN": {
+    "company_name": "Morguard North American Residential Real Estate Investment Trust",
+    "sector": "Real Estate",
+    "industry": "REIT - Residential",
+    "yahoo_symbol": "MRG-UN.TO",
+    "exchange": "TSX"
+  },
+  "PHX": {
+    "company_name": "PHX Energy Services Corp.",
+    "sector": "Energy",
+    "industry": "Oil & Gas Drilling",
+    "yahoo_symbol": "PHX.TO",
+    "exchange": "TSX"
+  },
+  "NXR.UN": {
+    "company_name": "Nexus Industrial REIT",
+    "sector": "Real Estate",
+    "industry": "REIT - Industrial",
+    "yahoo_symbol": "NXR-UN.TO",
+    "exchange": "TSX"
+  },
+  "MRD": {
+    "company_name": "Melcor Developments Ltd.",
+    "sector": "Real Estate",
+    "industry": "Real Estate - Development",
+    "yahoo_symbol": "MRD.TO",
+    "exchange": "TSX"
+  },
+  "HOM.U": {
+    "company_name": "BSR Real Estate Investment Trust",
+    "sector": "Real Estate",
+    "industry": "REIT - Residential",
+    "yahoo_symbol": "HOM-U.TO",
+    "exchange": "TSX"
+  },
+  "HOM.UN": {
+    "company_name": "BSR Real Estate Investment Trust",
+    "sector": "Real Estate",
+    "industry": "REIT - Residential",
+    "yahoo_symbol": "HOM-UN.TO",
+    "exchange": "TSX"
+  },
+  "JAG": {
+    "company_name": "Jaguar Mining Inc.",
+    "sector": "Basic Materials",
+    "industry": "Gold",
+    "yahoo_symbol": "JAG.TO",
+    "exchange": "TSX"
+  },
+  "CFW": {
+    "company_name": "Calfrac Well Services Ltd.",
+    "sector": "Energy",
+    "industry": "Oil & Gas Equipment & Services",
+    "yahoo_symbol": "CFW.TO",
+    "exchange": "TSX"
+  },
+  "TF": {
+    "company_name": "Timbercreek Financial Corp.",
+    "sector": "Financial Services",
+    "industry": "Mortgage Finance",
+    "yahoo_symbol": "TF.TO",
+    "exchange": "TSX"
+  },
+  "NOA": {
+    "company_name": "North American Construction Group Ltd.",
+    "sector": "Energy",
+    "industry": "Oil & Gas Equipment & Services",
+    "yahoo_symbol": "NOA.TO",
+    "exchange": "TSX"
+  },
+  "CPKR": {
+    "company_name": "Canada Packers Inc.",
+    "sector": "Consumer Defensive",
+    "industry": "Farm Products",
+    "yahoo_symbol": "CPKR.TO",
+    "exchange": "TSX"
+  },
+  "TCS": {
+    "company_name": "Tecsys Inc.",
+    "sector": "Technology",
+    "industry": "Software - Application",
+    "yahoo_symbol": "TCS.TO",
+    "exchange": "TSX"
+  },
+  "DTOL": {
+    "company_name": "D2L Inc.",
+    "sector": "Technology",
+    "industry": "Software - Application",
+    "yahoo_symbol": "DTOL.TO",
+    "exchange": "TSX"
+  },
+  "GO.U": {
+    "company_name": "GO Residential Real Estate Investment Trust",
+    "sector": "Real Estate",
+    "industry": "REIT - Residential",
+    "yahoo_symbol": "GO-U.TO",
+    "exchange": "TSX"
+  },
+  "ACQ": {
+    "company_name": "AutoCanada Inc.",
+    "sector": "Consumer Cyclical",
+    "industry": "Auto & Truck Dealerships",
+    "yahoo_symbol": "ACQ.TO",
+    "exchange": "TSX"
+  },
+  "ANRG": {
+    "company_name": "Anaergia Inc.",
+    "sector": "Industrials",
+    "industry": "Waste Management",
+    "yahoo_symbol": "ANRG.TO",
+    "exchange": "TSX"
+  },
+  "FTG": {
+    "company_name": "Firan Technology Group Corporation",
+    "sector": "Industrials",
+    "industry": "Aerospace & Defense",
+    "yahoo_symbol": "FTG.TO",
+    "exchange": "TSX"
+  },
+  "BPF.UN": {
+    "company_name": "Boston Pizza Royalties Income Fund",
+    "sector": "Consumer Cyclical",
+    "industry": "Restaurants",
+    "yahoo_symbol": "BPF-UN.TO",
+    "exchange": "TSX"
+  },
+  "GSY": {
+    "company_name": "goeasy Ltd.",
+    "sector": "Financial Services",
+    "industry": "Credit Services",
+    "yahoo_symbol": "GSY.TO",
+    "exchange": "TSX"
+  },
+  "WFC": {
+    "company_name": "Wall Financial Corporation",
+    "sector": "Consumer Cyclical",
+    "industry": "Lodging",
+    "yahoo_symbol": "WFC.TO",
+    "exchange": "TSX"
+  },
+  "CLCH": {
+    "company_name": "Clinch Resources Ltd.",
+    "sector": "Basic Materials",
+    "industry": "Steel",
+    "yahoo_symbol": "CLCH.TO",
+    "exchange": "TSX"
+  },
+  "VHI": {
+    "company_name": "Vitalhub Corp.",
+    "sector": "Healthcare",
+    "industry": "Health Information Services",
+    "yahoo_symbol": "VHI.TO",
+    "exchange": "TSX"
+  },
+  "IPO": {
+    "company_name": "InPlay Oil Corp.",
+    "sector": "Energy",
+    "industry": "Oil & Gas E&P",
+    "yahoo_symbol": "IPO.TO",
+    "exchange": "TSX"
+  },
+  "MHC.U": {
+    "company_name": "Flagship Communities Real Estate Investment Trust",
+    "sector": "Real Estate",
+    "industry": "REIT - Residential",
+    "yahoo_symbol": "MHC-U.TO",
+    "exchange": "TSX"
+  },
+  "MHC.UN": {
+    "company_name": "Flagship Communities Real Estate Investment Trust",
+    "sector": "Real Estate",
+    "industry": "REIT - Residential",
+    "yahoo_symbol": "MHC-UN.TO",
+    "exchange": "TSX"
+  },
+  "KBL": {
+    "company_name": "K-Bro Linen Inc.",
+    "sector": "Industrials",
+    "industry": "Specialty Business Services",
+    "yahoo_symbol": "KBL.TO",
+    "exchange": "TSX"
+  },
+  "VOXR": {
+    "company_name": "Vox Royalty Corp.",
+    "sector": "Basic Materials",
+    "industry": "Other Precious Metals & Mining",
+    "yahoo_symbol": "VOXR.TO",
+    "exchange": "TSX"
+  },
+  "TRX": {
+    "company_name": "TRX Gold Corporation",
+    "sector": "Basic Materials",
+    "industry": "Gold",
+    "yahoo_symbol": "TRX.TO",
+    "exchange": "TSX"
+  },
+  "TAL": {
+    "company_name": "PetroTal Corp.",
+    "sector": "Energy",
+    "industry": "Oil & Gas E&P",
+    "yahoo_symbol": "TAL.TO",
+    "exchange": "TSX"
+  },
+  "PBL": {
+    "company_name": "Pollard Banknote Limited",
+    "sector": "Consumer Cyclical",
+    "industry": "Gambling",
+    "yahoo_symbol": "PBL.TO",
+    "exchange": "TSX"
+  },
+  "PLZ.UN": {
+    "company_name": "Plaza Retail REIT",
+    "sector": "Real Estate",
+    "industry": "REIT - Retail",
+    "yahoo_symbol": "PLZ-UN.TO",
+    "exchange": "TSX"
+  },
+  "ETG": {
+    "company_name": "Entr\u00c3\u00a9e Resources Ltd.",
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "yahoo_symbol": "ETG.TO",
+    "exchange": "TSX"
+  },
+  "SBI": {
+    "company_name": "Serabi Gold plc",
+    "sector": "Basic Materials",
+    "industry": "Gold",
+    "yahoo_symbol": "SBI.TO",
+    "exchange": "TSX"
+  },
+  "KITS": {
+    "company_name": "Kits Eyecare Ltd.",
+    "sector": "Consumer Cyclical",
+    "industry": "Specialty Retail",
+    "yahoo_symbol": "KITS.TO",
+    "exchange": "TSX"
+  },
+  "PZA": {
+    "company_name": "Pizza Pizza Royalty Corp.",
+    "sector": "Consumer Cyclical",
+    "industry": "Restaurants",
+    "yahoo_symbol": "PZA.TO",
+    "exchange": "TSX"
+  },
+  "TCL.A": {
+    "company_name": "Transcontinental Inc.",
+    "sector": "Consumer Cyclical",
+    "industry": "Packaging & Containers",
+    "yahoo_symbol": "TCL-A.TO",
+    "exchange": "TSX"
+  },
+  "TCL.B": {
+    "company_name": "Transcontinental Inc.",
+    "sector": "Consumer Cyclical",
+    "industry": "Packaging & Containers",
+    "yahoo_symbol": "TCL-B.TO",
+    "exchange": "TSX"
+  },
+  "FLT": {
+    "company_name": "Volatus Aerospace Inc.",
+    "sector": "Industrials",
+    "industry": "Aerospace & Defense",
+    "yahoo_symbol": "FLT.TO",
+    "exchange": "TSX"
+  },
+  "NOU": {
+    "company_name": "Nouveau Monde Graphite Inc.",
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "yahoo_symbol": "NOU.TO",
+    "exchange": "TSX"
+  },
+  "GTE": {
+    "company_name": "Gran Tierra Energy Inc.",
+    "sector": "Energy",
+    "industry": "Oil & Gas E&P",
+    "yahoo_symbol": "GTE.TO",
+    "exchange": "TSX"
+  },
+  "CPH": {
+    "company_name": "Cipher Pharmaceuticals Inc.",
+    "sector": "Healthcare",
+    "industry": "Drug Manufacturers - Specialty & Generic",
+    "yahoo_symbol": "CPH.TO",
+    "exchange": "TSX"
+  },
+  "FC": {
+    "company_name": "Firm Capital Mortgage Investment Corporation",
+    "sector": "Financial Services",
+    "industry": "Mortgage Finance",
+    "yahoo_symbol": "FC.TO",
+    "exchange": "TSX"
+  },
+  "CVVY": {
+    "company_name": "Cavvy Energy Ltd.",
+    "sector": "Energy",
+    "industry": "Oil & Gas E&P",
+    "yahoo_symbol": "CVVY.TO",
+    "exchange": "TSX"
+  },
+  "CVO": {
+    "company_name": "Coveo Solutions Inc.",
+    "sector": "Technology",
+    "industry": "Software - Infrastructure",
+    "yahoo_symbol": "CVO.TO",
+    "exchange": "TSX"
+  },
+  "MRT.UN": {
+    "company_name": "Morguard Real Estate Investment Trust",
+    "sector": "Real Estate",
+    "industry": "REIT - Diversified",
+    "yahoo_symbol": "MRT-UN.TO",
+    "exchange": "TSX"
+  },
+  "GASX": {
+    "company_name": "NG Energy International Corp.",
+    "sector": "Energy",
+    "industry": "Oil & Gas E&P",
+    "yahoo_symbol": "GASX.TO",
+    "exchange": "TSX"
+  },
+  "KSI": {
+    "company_name": "kneat.com, inc.",
+    "sector": "Healthcare",
+    "industry": "Health Information Services",
+    "yahoo_symbol": "KSI.TO",
+    "exchange": "TSX"
+  },
+  "REAL": {
+    "company_name": "Real Matters Inc.",
+    "sector": "Real Estate",
+    "industry": "Real Estate Services",
+    "yahoo_symbol": "REAL.TO",
+    "exchange": "TSX"
+  },
+  "CSW.A": {
+    "company_name": "Corby Spirit and Wine Limited",
+    "sector": "Consumer Defensive",
+    "industry": "Beverages - Wineries & Distilleries",
+    "yahoo_symbol": "CSW-A.TO",
+    "exchange": "TSX"
+  },
+  "CSW.B": {
+    "company_name": "Corby Spirit and Wine Limited",
+    "sector": "Consumer Defensive",
+    "industry": "Beverages - Wineries & Distilleries",
+    "yahoo_symbol": "CSW-B.TO",
+    "exchange": "TSX"
+  },
+  "EDT": {
+    "company_name": "Spectral Medical Inc.",
+    "sector": "Healthcare",
+    "industry": "Diagnostics & Research",
+    "yahoo_symbol": "EDT.TO",
+    "exchange": "TSX"
+  },
+  "LCFS": {
+    "company_name": "Tidewater Renewables Ltd.",
+    "sector": "Basic Materials",
+    "industry": "Specialty Chemicals",
+    "yahoo_symbol": "LCFS.TO",
+    "exchange": "TSX"
+  },
+  "VGZ": {
+    "company_name": "Vista Gold Corp.",
+    "sector": "Basic Materials",
+    "industry": "Gold",
+    "yahoo_symbol": "VGZ.TO",
+    "exchange": "TSX"
+  },
+  "PRV.UN": {
+    "company_name": "Pro Real Estate Investment Trust",
+    "sector": "Real Estate",
+    "industry": "REIT - Industrial",
+    "yahoo_symbol": "PRV-UN.TO",
+    "exchange": "TSX"
+  },
+  "GBT": {
+    "company_name": "BMTC Group Inc.",
+    "sector": "Consumer Cyclical",
+    "industry": "Specialty Retail",
+    "yahoo_symbol": "GBT.TO",
+    "exchange": "TSX"
+  },
+  "JOY": {
+    "company_name": "Journey Energy Inc.",
+    "sector": "Energy",
+    "industry": "Oil & Gas E&P",
+    "yahoo_symbol": "JOY.TO",
+    "exchange": "TSX"
+  },
+  "TBL": {
+    "company_name": "Taiga Building Products Ltd.",
+    "sector": "Industrials",
+    "industry": "Industrial Distribution",
+    "yahoo_symbol": "TBL.TO",
+    "exchange": "TSX"
+  },
+  "ERD": {
+    "company_name": "Erdene Resource Development Corporation",
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "yahoo_symbol": "ERD.TO",
+    "exchange": "TSX"
+  },
+  "STCK": {
+    "company_name": "Stack Capital Group Inc.",
+    "sector": "Financial Services",
+    "industry": "Asset Management",
+    "yahoo_symbol": "STCK.TO",
+    "exchange": "TSX"
+  },
+  "HLF": {
+    "company_name": "High Liner Foods Incorporated",
+    "sector": "Consumer Defensive",
+    "industry": "Packaged Foods",
+    "yahoo_symbol": "HLF.TO",
+    "exchange": "TSX"
+  },
+  "GRA": {
+    "company_name": "NanoXplore Inc.",
+    "sector": "Basic Materials",
+    "industry": "Chemicals",
+    "yahoo_symbol": "GRA.TO",
+    "exchange": "TSX"
+  },
+  "GLO": {
+    "company_name": "Global Atomic Corporation",
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "yahoo_symbol": "GLO.TO",
+    "exchange": "TSX"
+  },
+  "DC.A": {
+    "company_name": "Dundee Corporation",
+    "sector": "Basic Materials",
+    "industry": "Other Precious Metals & Mining",
+    "yahoo_symbol": "DC-A.TO",
+    "exchange": "TSX"
+  },
+  "AFN": {
+    "company_name": "Ag Growth International Inc.",
+    "sector": "Industrials",
+    "industry": "Farm & Heavy Construction Machinery",
+    "yahoo_symbol": "AFN.TO",
+    "exchange": "TSX"
+  },
+  "DGX": {
+    "company_name": "Digi Power X Inc.",
+    "sector": NaN,
+    "industry": NaN,
+    "yahoo_symbol": "DGX.TO",
+    "exchange": "TSX"
+  },
+  "TI": {
+    "company_name": "Titan Mining Corporation",
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "yahoo_symbol": "TI.TO",
+    "exchange": "TSX"
+  },
+  "LUC": {
+    "company_name": "Lucara Diamond Corp.",
+    "sector": "Basic Materials",
+    "industry": "Other Precious Metals & Mining",
+    "yahoo_symbol": "LUC.TO",
+    "exchange": "TSX"
+  },
+  "GRID": {
+    "company_name": "Tantalus Systems Holding Inc.",
+    "sector": "Industrials",
+    "industry": "Electrical Equipment & Parts",
+    "yahoo_symbol": "GRID.TO",
+    "exchange": "TSX"
+  },
+  "GOLD": {
+    "company_name": "GoldMining Inc.",
+    "sector": "Basic Materials",
+    "industry": "Gold",
+    "yahoo_symbol": "GOLD.TO",
+    "exchange": "TSX"
+  },
+  "CKI": {
+    "company_name": "Clarke Inc.",
+    "sector": "Consumer Cyclical",
+    "industry": "Lodging",
+    "yahoo_symbol": "CKI.TO",
+    "exchange": "TSX"
+  },
+  "BTB.UN": {
+    "company_name": "BTB Real Estate Investment Trust",
+    "sector": "Real Estate",
+    "industry": "REIT - Office",
+    "yahoo_symbol": "BTB-UN.TO",
+    "exchange": "TSX"
+  },
+  "VLN": {
+    "company_name": "Velan Inc.",
+    "sector": "Industrials",
+    "industry": "Specialty Industrial Machinery",
+    "yahoo_symbol": "VLN.TO",
+    "exchange": "TSX"
+  },
+  "PRN": {
+    "company_name": "Profound Medical Corp.",
+    "sector": "Healthcare",
+    "industry": "Medical Devices",
+    "yahoo_symbol": "PRN.TO",
+    "exchange": "TSX"
+  },
+  "STGO": {
+    "company_name": "Steppe Gold Ltd.",
+    "sector": "Basic Materials",
+    "industry": "Gold",
+    "yahoo_symbol": "STGO.TO",
+    "exchange": "TSX"
+  },
+  "TWM": {
+    "company_name": "Tidewater Midstream and Infrastructure Ltd.",
+    "sector": "Energy",
+    "industry": "Oil & Gas Midstream",
+    "yahoo_symbol": "TWM.TO",
+    "exchange": "TSX"
+  },
+  "VCM": {
+    "company_name": "Vecima Networks Inc.",
+    "sector": "Technology",
+    "industry": "Communication Equipment",
+    "yahoo_symbol": "VCM.TO",
+    "exchange": "TSX"
+  },
+  "ADN": {
+    "company_name": "Acadian Timber Corp.",
+    "sector": "Basic Materials",
+    "industry": "Lumber & Wood Production",
+    "yahoo_symbol": "ADN.TO",
+    "exchange": "TSX"
+  },
+  "CMG": {
+    "company_name": "Computer Modelling Group Ltd.",
+    "sector": "Technology",
+    "industry": "Software - Application",
+    "yahoo_symbol": "CMG.TO",
+    "exchange": "TSX"
+  },
+  "RBY": {
+    "company_name": "Rubellite Energy Corp.",
+    "sector": "Energy",
+    "industry": "Oil & Gas E&P",
+    "yahoo_symbol": "RBY.TO",
+    "exchange": "TSX"
+  },
+  "FRX": {
+    "company_name": "Fennec Pharmaceuticals Inc.",
+    "sector": "Healthcare",
+    "industry": "Biotechnology",
+    "yahoo_symbol": "FRX.TO",
+    "exchange": "TSX"
+  },
+  "RIC": {
+    "company_name": "Richards Group Inc.",
+    "sector": "Consumer Cyclical",
+    "industry": "Packaging & Containers",
+    "yahoo_symbol": "RIC.TO",
+    "exchange": "TSX"
+  },
+  "SPAC.U": {
+    "company_name": "Mercer Park Opportunities Corp.",
+    "sector": "Financial Services",
+    "industry": "Shell Companies",
+    "yahoo_symbol": "SPAC-U.TO",
+    "exchange": "TSX"
+  },
+  "SAU": {
+    "company_name": "St. Augustine Gold and Copper Limited",
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "yahoo_symbol": "SAU.TO",
+    "exchange": "TSX"
+  },
+  "DRX": {
+    "company_name": "ADF Group Inc.",
+    "sector": "Industrials",
+    "industry": "Metal Fabrication",
+    "yahoo_symbol": "DRX.TO",
+    "exchange": "TSX"
+  },
+  "RM": {
+    "company_name": "Roxmore Resources Inc.",
+    "sector": "Financial Services",
+    "industry": "Shell Companies",
+    "yahoo_symbol": "RM.TO",
+    "exchange": "TSX"
+  },
+  "DR": {
+    "company_name": "Medical Facilities Corporation",
+    "sector": "Healthcare",
+    "industry": "Medical Care Facilities",
+    "yahoo_symbol": "DR.TO",
+    "exchange": "TSX"
+  },
+  "WILD": {
+    "company_name": "WildBrain Ltd.",
+    "sector": "Communication Services",
+    "industry": "Entertainment",
+    "yahoo_symbol": "WILD.TO",
+    "exchange": "TSX"
+  },
+  "TSND": {
+    "company_name": "TerrAscend Corp.",
+    "sector": "Healthcare",
+    "industry": "Drug Manufacturers - Specialty & Generic",
+    "yahoo_symbol": "TSND.TO",
+    "exchange": "TSX"
+  },
+  "PTM": {
+    "company_name": "Platinum Group Metals Ltd.",
+    "sector": "Basic Materials",
+    "industry": "Other Precious Metals & Mining",
+    "yahoo_symbol": "PTM.TO",
+    "exchange": "TSX"
+  },
+  "OLY": {
+    "company_name": "Olympia Financial Group Inc.",
+    "sector": "Financial Services",
+    "industry": "Asset Management",
+    "yahoo_symbol": "OLY.TO",
+    "exchange": "TSX"
+  },
+  "PRQ": {
+    "company_name": "Petrus Resources Ltd.",
+    "sector": "Energy",
+    "industry": "Oil & Gas E&P",
+    "yahoo_symbol": "PRQ.TO",
+    "exchange": "TSX"
+  },
+  "FAR": {
+    "company_name": "Foraco International SA",
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "yahoo_symbol": "FAR.TO",
+    "exchange": "TSX"
+  },
+  "XTC": {
+    "company_name": "Exco Technologies Limited",
+    "sector": "Consumer Cyclical",
+    "industry": "Auto Parts",
+    "yahoo_symbol": "XTC.TO",
+    "exchange": "TSX"
+  },
+  "HFPC.U": {
+    "company_name": "Helios Fairfax Partners Corporation",
+    "sector": "Financial Services",
+    "industry": "Asset Management",
+    "yahoo_symbol": "HFPC-U.TO",
+    "exchange": "TSX"
+  },
+  "AIDX": {
+    "company_name": "Healwell AI Inc.",
+    "sector": "Healthcare",
+    "industry": "Medical Care Facilities",
+    "yahoo_symbol": "AIDX.TO",
+    "exchange": "TSX"
+  },
+  "MPC": {
+    "company_name": "Madison Pacific Properties Inc.",
+    "sector": "Real Estate",
+    "industry": "Real Estate Services",
+    "yahoo_symbol": "MPC.TO",
+    "exchange": "TSX"
+  },
+  "MPC.C": {
+    "company_name": "Madison Pacific Properties Inc.",
+    "sector": "Real Estate",
+    "industry": "Real Estate Services",
+    "yahoo_symbol": "MPC-C.TO",
+    "exchange": "TSX"
+  },
+  "MXG": {
+    "company_name": "Maxim Power Corp.",
+    "sector": "Utilities",
+    "industry": "Utilities - Independent Power Producers",
+    "yahoo_symbol": "MXG.TO",
+    "exchange": "TSX"
+  },
+  "GH": {
+    "company_name": "Gamehost Inc.",
+    "sector": "Consumer Cyclical",
+    "industry": "Resorts & Casinos",
+    "yahoo_symbol": "GH.TO",
+    "exchange": "TSX"
+  },
+  "TSK": {
+    "company_name": "Talisker Resources Ltd.",
+    "sector": "Basic Materials",
+    "industry": "Gold",
+    "yahoo_symbol": "TSK.TO",
+    "exchange": "TSX"
+  },
+  "MGA": {
+    "company_name": "Mega Uranium Ltd.",
+    "sector": "Energy",
+    "industry": "Uranium",
+    "yahoo_symbol": "MGA.TO",
+    "exchange": "TSX"
+  },
+  "KEI": {
+    "company_name": "Kolibri Global Energy Inc.",
+    "sector": "Energy",
+    "industry": "Oil & Gas E&P",
+    "yahoo_symbol": "KEI.TO",
+    "exchange": "TSX"
+  },
+  "D.UN": {
+    "company_name": "Dream Office Real Estate Investment Trust",
+    "sector": "Real Estate",
+    "industry": "REIT - Office",
+    "yahoo_symbol": "D-UN.TO",
+    "exchange": "TSX"
+  },
+  "ACB": {
+    "company_name": "Aurora Cannabis Inc.",
+    "sector": "Healthcare",
+    "industry": "Drug Manufacturers - Specialty & Generic",
+    "yahoo_symbol": "ACB.TO",
+    "exchange": "TSX"
+  },
+  "BNKR": {
+    "company_name": "Bunker Hill Mining Corp.",
+    "sector": "Basic Materials",
+    "industry": "Silver",
+    "yahoo_symbol": "BNKR.TO",
+    "exchange": "TSX"
+  },
+  "OGI": {
+    "company_name": "Organigram Global Inc.",
+    "sector": "Healthcare",
+    "industry": "Drug Manufacturers - Specialty & Generic",
+    "yahoo_symbol": "OGI.TO",
+    "exchange": "TSX"
+  },
+  "PIF": {
+    "company_name": "Polaris Renewable Energy Inc.",
+    "sector": "Utilities",
+    "industry": "Utilities - Renewable",
+    "yahoo_symbol": "PIF.TO",
+    "exchange": "TSX"
+  },
+  "BNE": {
+    "company_name": "Bonterra Energy Corp.",
+    "sector": "Energy",
+    "industry": "Oil & Gas E&P",
+    "yahoo_symbol": "BNE.TO",
+    "exchange": "TSX"
+  },
+  "ADW.A": {
+    "company_name": "Andrew Peller Limited",
+    "sector": "Consumer Defensive",
+    "industry": "Beverages - Wineries & Distilleries",
+    "yahoo_symbol": "ADW-A.TO",
+    "exchange": "TSX"
+  },
+  "ADW.B": {
+    "company_name": "Andrew Peller Limited",
+    "sector": "Consumer Defensive",
+    "industry": "Beverages - Wineries & Distilleries",
+    "yahoo_symbol": "ADW-B.TO",
+    "exchange": "TSX"
+  },
+  "BGAU": {
+    "company_name": "Blossom Gold Inc.",
+    "sector": "Basic Materials",
+    "industry": "Other Precious Metals & Mining",
+    "yahoo_symbol": "BGAU.TO",
+    "exchange": "TSX"
+  },
+  "ACX": {
+    "company_name": "ACT Energy Technologies Ltd.",
+    "sector": "Energy",
+    "industry": "Oil & Gas Drilling",
+    "yahoo_symbol": "ACX.TO",
+    "exchange": "TSX"
+  },
+  "STLR": {
+    "company_name": "STLLR Gold Inc.",
+    "sector": "Basic Materials",
+    "industry": "Gold",
+    "yahoo_symbol": "STLR.TO",
+    "exchange": "TSX"
+  },
+  "ELO": {
+    "company_name": "Eloro Resources Ltd.",
+    "sector": "Basic Materials",
+    "industry": "Gold",
+    "yahoo_symbol": "ELO.TO",
+    "exchange": "TSX"
+  },
+  "DNG": {
+    "company_name": "Dynacor Group Inc.",
+    "sector": "Basic Materials",
+    "industry": "Other Precious Metals & Mining",
+    "yahoo_symbol": "DNG.TO",
+    "exchange": "TSX"
+  },
+  "CDR": {
+    "company_name": "Condor Energies Inc.",
+    "sector": "Energy",
+    "industry": "Oil & Gas E&P",
+    "yahoo_symbol": "CDR.TO",
+    "exchange": "TSX"
+  },
+  "AIM": {
+    "company_name": "Aimia Inc.",
+    "sector": "Basic Materials",
+    "industry": "Specialty Chemicals",
+    "yahoo_symbol": "AIM.TO",
+    "exchange": "TSX"
+  },
+  "MSCL": {
+    "company_name": "Satellos Bioscience Inc.",
+    "sector": "Healthcare",
+    "industry": "Biotechnology",
+    "yahoo_symbol": "MSCL.TO",
+    "exchange": "TSX"
+  },
+  "NCF": {
+    "company_name": "Northcliff Resources Ltd.",
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "yahoo_symbol": "NCF.TO",
+    "exchange": "TSX"
+  },
+  "FCD.UN": {
+    "company_name": "Firm Capital Property Trust",
+    "sector": "Real Estate",
+    "industry": "REIT - Retail",
+    "yahoo_symbol": "FCD-UN.TO",
+    "exchange": "TSX"
+  },
+  "SHLE": {
+    "company_name": "Source Energy Services Ltd.",
+    "sector": "Energy",
+    "industry": "Oil & Gas Equipment & Services",
+    "yahoo_symbol": "SHLE.TO",
+    "exchange": "TSX"
+  },
+  "CRRX": {
+    "company_name": "CareRx Corporation",
+    "sector": "Healthcare",
+    "industry": "Medical Care Facilities",
+    "yahoo_symbol": "CRRX.TO",
+    "exchange": "TSX"
+  },
+  "WNDR": {
+    "company_name": "WonderFi Technologies Inc.",
+    "sector": "Technology",
+    "industry": "Software - Application",
+    "yahoo_symbol": "WNDR.TO",
+    "exchange": "TSX"
+  },
+  "PNE": {
+    "company_name": "Pine Cliff Energy Ltd.",
+    "sector": "Energy",
+    "industry": "Oil & Gas E&P",
+    "yahoo_symbol": "PNE.TO",
+    "exchange": "TSX"
+  },
+  "TC": {
+    "company_name": "Tucows Inc.",
+    "sector": "Technology",
+    "industry": "Software - Infrastructure",
+    "yahoo_symbol": "TC.TO",
+    "exchange": "TSX"
+  },
+  "DND": {
+    "company_name": "Dye & Durham Limited",
+    "sector": "Technology",
+    "industry": "Software - Application",
+    "yahoo_symbol": "DND.TO",
+    "exchange": "TSX"
+  },
+  "ORV": {
+    "company_name": "Orvana Minerals Corp.",
+    "sector": "Basic Materials",
+    "industry": "Other Precious Metals & Mining",
+    "yahoo_symbol": "ORV.TO",
+    "exchange": "TSX"
+  },
+  "MOLY": {
+    "company_name": "Greenland Resources Inc.",
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "yahoo_symbol": "MOLY.TO",
+    "exchange": "TSX"
+  },
+  "AGMR": {
+    "company_name": "Silver Mountain Resources Inc.",
+    "sector": "Basic Materials",
+    "industry": "Silver",
+    "yahoo_symbol": "AGMR.TO",
+    "exchange": "TSX"
+  },
+  "BOIL": {
+    "company_name": "Beyond Oil Ltd.",
+    "sector": "Consumer Defensive",
+    "industry": "Packaged Foods",
+    "yahoo_symbol": "BOIL.TO",
+    "exchange": "TSX"
+  },
+  "LAM": {
+    "company_name": "Laramide Resources Ltd.",
+    "sector": "Energy",
+    "industry": "Uranium",
+    "yahoo_symbol": "LAM.TO",
+    "exchange": "TSX"
+  },
+  "CRDL": {
+    "company_name": "Cardiol Therapeutics Inc.",
+    "sector": "Healthcare",
+    "industry": "Drug Manufacturers - Specialty & Generic",
+    "yahoo_symbol": "CRDL.TO",
+    "exchange": "TSX"
+  },
+  "XAU": {
+    "company_name": "Goldmoney Inc.",
+    "sector": "Financial Services",
+    "industry": "Capital Markets",
+    "yahoo_symbol": "XAU.TO",
+    "exchange": "TSX"
+  },
+  "DBO": {
+    "company_name": "D-BOX Technologies Inc.",
+    "sector": "Technology",
+    "industry": "Consumer Electronics",
+    "yahoo_symbol": "DBO.TO",
+    "exchange": "TSX"
+  },
+  "GENM": {
+    "company_name": "Generation Mining Limited",
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "yahoo_symbol": "GENM.TO",
+    "exchange": "TSX"
+  },
+  "XLY": {
+    "company_name": "Auxly Cannabis Group Inc.",
+    "sector": "Healthcare",
+    "industry": "Drug Manufacturers - Specialty & Generic",
+    "yahoo_symbol": "XLY.TO",
+    "exchange": "TSX"
+  },
+  "STC": {
+    "company_name": "Sangoma Technologies Corporation",
+    "sector": "Technology",
+    "industry": "Software - Infrastructure",
+    "yahoo_symbol": "STC.TO",
+    "exchange": "TSX"
+  },
+  "ECO": {
+    "company_name": "EcoSynthetix Inc.",
+    "sector": "Basic Materials",
+    "industry": "Specialty Chemicals",
+    "yahoo_symbol": "ECO.TO",
+    "exchange": "TSX"
+  },
+  "GDC": {
+    "company_name": "Genesis Land Development Corp.",
+    "sector": "Real Estate",
+    "industry": "Real Estate - Development",
+    "yahoo_symbol": "GDC.TO",
+    "exchange": "TSX"
+  },
+  "PSD": {
+    "company_name": "Pulse Seismic Inc.",
+    "sector": "Energy",
+    "industry": "Oil & Gas Equipment & Services",
+    "yahoo_symbol": "PSD.TO",
+    "exchange": "TSX"
+  },
+  "MTEK": {
+    "company_name": "Metatek-Group Ltd.",
+    "sector": "Energy",
+    "industry": "Oil & Gas Equipment & Services",
+    "yahoo_symbol": "MTEK.TO",
+    "exchange": "TSX"
+  },
+  "S": {
+    "company_name": "Sherritt International Corporation",
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "yahoo_symbol": "S.TO",
+    "exchange": "TSX"
+  },
+  "FLNT": {
+    "company_name": "Flint Corp.",
+    "sector": "Energy",
+    "industry": "Oil & Gas Equipment & Services",
+    "yahoo_symbol": "FLNT.TO",
+    "exchange": "TSX"
+  },
+  "QTRH": {
+    "company_name": "Quarterhill Inc.",
+    "sector": "Technology",
+    "industry": "Communication Equipment",
+    "yahoo_symbol": "QTRH.TO",
+    "exchange": "TSX"
+  },
+  "BOS": {
+    "company_name": "AirBoss of America Corp.",
+    "sector": "Basic Materials",
+    "industry": "Specialty Chemicals",
+    "yahoo_symbol": "BOS.TO",
+    "exchange": "TSX"
+  },
+  "Y": {
+    "company_name": "Yellow Pages Limited",
+    "sector": "Communication Services",
+    "industry": "Publishing",
+    "yahoo_symbol": "Y.TO",
+    "exchange": "TSX"
+  },
+  "AKT.A": {
+    "company_name": "AKITA Drilling Ltd.",
+    "sector": "Energy",
+    "industry": "Oil & Gas Drilling",
+    "yahoo_symbol": "AKT-A.TO",
+    "exchange": "TSX"
+  },
+  "AKT.B": {
+    "company_name": "AKITA Drilling Ltd.",
+    "sector": "Energy",
+    "industry": "Oil & Gas Drilling",
+    "yahoo_symbol": "AKT-B.TO",
+    "exchange": "TSX"
+  },
+  "HAI": {
+    "company_name": "Haivision Systems Inc.",
+    "sector": "Technology",
+    "industry": "Software - Infrastructure",
+    "yahoo_symbol": "HAI.TO",
+    "exchange": "TSX"
+  },
+  "GCU": {
+    "company_name": "Gunnison Copper Corp.",
+    "sector": "Basic Materials",
+    "industry": "Copper",
+    "yahoo_symbol": "GCU.TO",
+    "exchange": "TSX"
+  },
+  "LOVE": {
+    "company_name": "Cannara Biotech Inc.",
+    "sector": "Healthcare",
+    "industry": "Drug Manufacturers - Specialty & Generic",
+    "yahoo_symbol": "LOVE.TO",
+    "exchange": "TSX"
+  },
+  "HMM.A": {
+    "company_name": "Hammond Manufacturing Company Limited",
+    "sector": "Industrials",
+    "industry": "Electrical Equipment & Parts",
+    "yahoo_symbol": "HMM-A.TO",
+    "exchange": "TSX"
+  },
+  "BAMI": {
+    "company_name": "Blue Ant Media Corporation",
+    "sector": "Communication Services",
+    "industry": "Entertainment",
+    "yahoo_symbol": "BAMI.TO",
+    "exchange": "TSX"
+  },
+  "QEC": {
+    "company_name": "Questerre Energy Corporation",
+    "sector": "Energy",
+    "industry": "Oil & Gas E&P",
+    "yahoo_symbol": "QEC.TO",
+    "exchange": "TSX"
+  },
+  "HBP": {
+    "company_name": "Helix BioPharma Corp.",
+    "sector": "Healthcare",
+    "industry": "Biotechnology",
+    "yahoo_symbol": "HBP.TO",
+    "exchange": "TSX"
+  },
+  "ROOT": {
+    "company_name": "Roots Corporation",
+    "sector": "Consumer Cyclical",
+    "industry": "Apparel Retail",
+    "yahoo_symbol": "ROOT.TO",
+    "exchange": "TSX"
+  },
+  "TINY": {
+    "company_name": "Tiny Ltd.",
+    "sector": "Financial Services",
+    "industry": "Asset Management",
+    "yahoo_symbol": "TINY.TO",
+    "exchange": "TSX"
+  },
+  "YGR": {
+    "company_name": "Yangarra Resources Ltd.",
+    "sector": "Energy",
+    "industry": "Oil & Gas E&P",
+    "yahoo_symbol": "YGR.TO",
+    "exchange": "TSX"
+  },
+  "DRT": {
+    "company_name": "DIRTT Environmental Solutions Ltd.",
+    "sector": "Industrials",
+    "industry": "Engineering & Construction",
+    "yahoo_symbol": "DRT.TO",
+    "exchange": "TSX"
+  },
+  "RUA": {
+    "company_name": "Rua Gold Inc.",
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "yahoo_symbol": "RUA.TO",
+    "exchange": "TSX"
+  },
+  "FURY": {
+    "company_name": "Fury Gold Mines Limited",
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "yahoo_symbol": "FURY.TO",
+    "exchange": "TSX"
+  },
+  "HLS": {
+    "company_name": "HLS Therapeutics Inc.",
+    "sector": "Healthcare",
+    "industry": "Drug Manufacturers - Specialty & Generic",
+    "yahoo_symbol": "HLS.TO",
+    "exchange": "TSX"
+  },
+  "OCG": {
+    "company_name": "Outcrop Silver & Gold Corporation",
+    "sector": "Basic Materials",
+    "industry": "Other Precious Metals & Mining",
+    "yahoo_symbol": "OCG.TO",
+    "exchange": "TSX"
+  },
+  "CXI": {
+    "company_name": "Currency Exchange International, Corp.",
+    "sector": "Financial Services",
+    "industry": "Capital Markets",
+    "yahoo_symbol": "CXI.TO",
+    "exchange": "TSX"
+  },
+  "G": {
+    "company_name": "Augusta Gold Corp.",
+    "sector": NaN,
+    "industry": NaN,
+    "yahoo_symbol": "G.TO",
+    "exchange": "TSX"
+  },
+  "WEF": {
+    "company_name": "Western Forest Products Inc.",
+    "sector": "Basic Materials",
+    "industry": "Lumber & Wood Production",
+    "yahoo_symbol": "WEF.TO",
+    "exchange": "TSX"
+  },
+  "IMP": {
+    "company_name": "Intermap Technologies Corporation",
+    "sector": "Technology",
+    "industry": "Software - Application",
+    "yahoo_symbol": "IMP.TO",
+    "exchange": "TSX"
+  },
+  "XTG": {
+    "company_name": "Xtra-Gold Resources Corp.",
+    "sector": "Basic Materials",
+    "industry": "Gold",
+    "yahoo_symbol": "XTG.TO",
+    "exchange": "TSX"
+  },
+  "TELY": {
+    "company_name": "TelyRx Holdings Inc.",
+    "sector": "Healthcare",
+    "industry": "Pharmaceutical Retailers",
+    "yahoo_symbol": "TELY.TO",
+    "exchange": "TSX"
+  },
+  "GEO": {
+    "company_name": "Geodrill Limited",
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "yahoo_symbol": "GEO.TO",
+    "exchange": "TSX"
+  },
+  "IVQ": {
+    "company_name": "Invesque Inc.",
+    "sector": "Real Estate",
+    "industry": "Real Estate Services",
+    "yahoo_symbol": "IVQ.TO",
+    "exchange": "TSX"
+  },
+  "IVQ.U": {
+    "company_name": "Invesque Inc.",
+    "sector": "Real Estate",
+    "industry": "Real Estate Services",
+    "yahoo_symbol": "IVQ-U.TO",
+    "exchange": "TSX"
+  },
+  "BRE": {
+    "company_name": "Bridgemarq Real Estate Services Inc.",
+    "sector": "Real Estate",
+    "industry": "Real Estate Services",
+    "yahoo_symbol": "BRE.TO",
+    "exchange": "TSX"
+  },
+  "SRV.UN": {
+    "company_name": "SIR Royalty Income Fund",
+    "sector": "Consumer Cyclical",
+    "industry": "Restaurants",
+    "yahoo_symbol": "SRV-UN.TO",
+    "exchange": "TSX"
+  },
+  "LGO": {
+    "company_name": "Largo Inc.",
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "yahoo_symbol": "LGO.TO",
+    "exchange": "TSX"
+  },
+  "ALYA": {
+    "company_name": "Alithya Group Inc.",
+    "sector": "Technology",
+    "industry": "Information Technology Services",
+    "yahoo_symbol": "ALYA.TO",
+    "exchange": "TSX"
+  },
+  "GMX": {
+    "company_name": "Globex Mining Enterprises Inc.",
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "yahoo_symbol": "GMX.TO",
+    "exchange": "TSX"
+  },
+  "IFA": {
+    "company_name": "iFabric Corp.",
+    "sector": "Consumer Cyclical",
+    "industry": "Apparel Manufacturing",
+    "yahoo_symbol": "IFA.TO",
+    "exchange": "TSX"
+  },
+  "MDP": {
+    "company_name": "Medexus Pharmaceuticals Inc.",
+    "sector": "Healthcare",
+    "industry": "Drug Manufacturers - Specialty & Generic",
+    "yahoo_symbol": "MDP.TO",
+    "exchange": "TSX"
+  },
+  "E": {
+    "company_name": "Enterprise Group, Inc.",
+    "sector": "Energy",
+    "industry": "Oil & Gas Equipment & Services",
+    "yahoo_symbol": "E.TO",
+    "exchange": "TSX"
+  },
+  "GURU": {
+    "company_name": "GURU Organic Energy Corp.",
+    "sector": "Consumer Defensive",
+    "industry": "Beverages - Non-Alcoholic",
+    "yahoo_symbol": "GURU.TO",
+    "exchange": "TSX"
+  },
+  "CWEB": {
+    "company_name": "Charlotte's Web Holdings, Inc.",
+    "sector": "Healthcare",
+    "industry": "Drug Manufacturers - Specialty & Generic",
+    "yahoo_symbol": "CWEB.TO",
+    "exchange": "TSX"
+  },
+  "TNT.UN": {
+    "company_name": "True North Commercial Real Estate Investment Trust",
+    "sector": "Real Estate",
+    "industry": "REIT - Office",
+    "yahoo_symbol": "TNT-UN.TO",
+    "exchange": "TSX"
+  },
+  "XTRA": {
+    "company_name": "Xtract One Technologies Inc.",
+    "sector": "Technology",
+    "industry": "Software - Application",
+    "yahoo_symbol": "XTRA.TO",
+    "exchange": "TSX"
+  },
+  "KPT": {
+    "company_name": "KP Tissue Inc.",
+    "sector": "Consumer Defensive",
+    "industry": "Household & Personal Products",
+    "yahoo_symbol": "KPT.TO",
+    "exchange": "TSX"
+  },
+  "NANO": {
+    "company_name": "Nano One Materials Corp.",
+    "sector": "Basic Materials",
+    "industry": "Specialty Chemicals",
+    "yahoo_symbol": "NANO.TO",
+    "exchange": "TSX"
+  },
+  "CCM": {
+    "company_name": "Canagold Resources Ltd.",
+    "sector": "Basic Materials",
+    "industry": "Gold",
+    "yahoo_symbol": "CCM.TO",
+    "exchange": "TSX"
+  },
+  "ERE.UN": {
+    "company_name": "European Residential Real Estate Investment Trust",
+    "sector": "Real Estate",
+    "industry": "REIT - Residential",
+    "yahoo_symbol": "ERE-UN.TO",
+    "exchange": "TSX"
+  },
+  "THNC": {
+    "company_name": "Thinkific Labs Inc.",
+    "sector": "Technology",
+    "industry": "Software - Application",
+    "yahoo_symbol": "THNC.TO",
+    "exchange": "TSX"
+  },
+  "TRZ": {
+    "company_name": "Transat A.T. Inc.",
+    "sector": "Consumer Cyclical",
+    "industry": "Travel Services",
+    "yahoo_symbol": "TRZ.TO",
+    "exchange": "TSX"
+  },
+  "WRG": {
+    "company_name": "Western Energy Services Corp.",
+    "sector": "Energy",
+    "industry": "Oil & Gas Drilling",
+    "yahoo_symbol": "WRG.TO",
+    "exchange": "TSX"
+  },
+  "SLR": {
+    "company_name": "Solitario Resources Corp.",
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "yahoo_symbol": "SLR.TO",
+    "exchange": "TSX"
+  },
+  "ELR": {
+    "company_name": "Eastern Platinum Limited",
+    "sector": "Basic Materials",
+    "industry": "Other Precious Metals & Mining",
+    "yahoo_symbol": "ELR.TO",
+    "exchange": "TSX"
+  },
+  "PNC.A": {
+    "company_name": "Postmedia Network Canada Corp.",
+    "sector": "Communication Services",
+    "industry": "Publishing",
+    "yahoo_symbol": "PNC-A.TO",
+    "exchange": "TSX"
+  },
+  "PNC.B": {
+    "company_name": "Postmedia Network Canada Corp.",
+    "sector": "Communication Services",
+    "industry": "Publishing",
+    "yahoo_symbol": "PNC-B.TO",
+    "exchange": "TSX"
+  },
+  "WM": {
+    "company_name": "Wallbridge Mining Company Limited",
+    "sector": "Basic Materials",
+    "industry": "Gold",
+    "yahoo_symbol": "WM.TO",
+    "exchange": "TSX"
+  },
+  "DCM": {
+    "company_name": "DATA Communications Management Corp.",
+    "sector": "Industrials",
+    "industry": "Specialty Business Services",
+    "yahoo_symbol": "DCM.TO",
+    "exchange": "TSX"
+  },
+  "GDL": {
+    "company_name": "Goodfellow Inc.",
+    "sector": "Basic Materials",
+    "industry": "Lumber & Wood Production",
+    "yahoo_symbol": "GDL.TO",
+    "exchange": "TSX"
+  },
+  "SYZ": {
+    "company_name": "Sylogist Ltd.",
+    "sector": "Technology",
+    "industry": "Software - Application",
+    "yahoo_symbol": "SYZ.TO",
+    "exchange": "TSX"
+  },
+  "IS": {
+    "company_name": "Infrastructure Dividend Split Corp.",
+    "sector": "Financial Services",
+    "industry": "Asset Management",
+    "yahoo_symbol": "IS.TO",
+    "exchange": "TSX"
+  },
+  "FSY": {
+    "company_name": "Forsys Metals Corp.",
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "yahoo_symbol": "FSY.TO",
+    "exchange": "TSX"
+  },
+  "FT": {
+    "company_name": "Fortune Minerals Limited",
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "yahoo_symbol": "FT.TO",
+    "exchange": "TSX"
+  },
+  "SXP": {
+    "company_name": "Supremex Inc.",
+    "sector": "Consumer Cyclical",
+    "industry": "Packaging & Containers",
+    "yahoo_symbol": "SXP.TO",
+    "exchange": "TSX"
+  },
+  "RTG": {
+    "company_name": "RTG Mining Inc.",
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "yahoo_symbol": "RTG.TO",
+    "exchange": "TSX"
+  },
+  "PNP": {
+    "company_name": "Pinetree Capital Ltd.",
+    "sector": "Financial Services",
+    "industry": "Capital Markets",
+    "yahoo_symbol": "PNP.TO",
+    "exchange": "TSX"
+  },
+  "PYR": {
+    "company_name": "PyroGenesis Inc.",
+    "sector": "Industrials",
+    "industry": "Specialty Industrial Machinery",
+    "yahoo_symbol": "PYR.TO",
+    "exchange": "TSX"
+  },
+  "CEMX": {
+    "company_name": "CEMATRIX Corporation",
+    "sector": "Basic Materials",
+    "industry": "Building Materials",
+    "yahoo_symbol": "CEMX.TO",
+    "exchange": "TSX"
+  },
+  "NEXT": {
+    "company_name": "NextSource Materials Inc.",
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "yahoo_symbol": "NEXT.TO",
+    "exchange": "TSX"
+  },
+  "AIAI": {
+    "company_name": "NetraMark Holdings Inc.",
+    "sector": "Healthcare",
+    "industry": "Health Information Services",
+    "yahoo_symbol": "AIAI.TO",
+    "exchange": "TSX"
+  },
+  "ESM": {
+    "company_name": "Euro Sun Mining Inc.",
+    "sector": "Basic Materials",
+    "industry": "Gold",
+    "yahoo_symbol": "ESM.TO",
+    "exchange": "TSX"
+  },
+  "COPR": {
+    "company_name": "Coppernico Metals Inc.",
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "yahoo_symbol": "COPR.TO",
+    "exchange": "TSX"
+  },
+  "DYA": {
+    "company_name": "dynaCERT Inc.",
+    "sector": "Industrials",
+    "industry": "Specialty Industrial Machinery",
+    "yahoo_symbol": "DYA.TO",
+    "exchange": "TSX"
+  },
+  "BRAG": {
+    "company_name": "Bragg Gaming Group Inc.",
+    "sector": "Consumer Cyclical",
+    "industry": "Gambling",
+    "yahoo_symbol": "BRAG.TO",
+    "exchange": "TSX"
+  },
+  "MCB": {
+    "company_name": "McCoy Global Inc.",
+    "sector": "Energy",
+    "industry": "Oil & Gas Equipment & Services",
+    "yahoo_symbol": "MCB.TO",
+    "exchange": "TSX"
+  },
+  "OGD": {
+    "company_name": "Orbit Garant Drilling Inc.",
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "yahoo_symbol": "OGD.TO",
+    "exchange": "TSX"
+  },
+  "SAM": {
+    "company_name": "Starcore International Mines Ltd.",
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "yahoo_symbol": "SAM.TO",
+    "exchange": "TSX"
+  },
+  "TSL": {
+    "company_name": "Tree Island Steel Ltd.",
+    "sector": "Basic Materials",
+    "industry": "Steel",
+    "yahoo_symbol": "TSL.TO",
+    "exchange": "TSX"
+  },
+  "SVA": {
+    "company_name": "Sernova Biotherapeutics Inc",
+    "sector": "Healthcare",
+    "industry": "Biotechnology",
+    "yahoo_symbol": "SVA.TO",
+    "exchange": "TSX"
+  },
+  "FORA": {
+    "company_name": "VerticalScope Holdings Inc.",
+    "sector": "Communication Services",
+    "industry": "Internet Content & Information",
+    "yahoo_symbol": "FORA.TO",
+    "exchange": "TSX"
+  },
+  "TXP": {
+    "company_name": "Touchstone Exploration Inc.",
+    "sector": "Energy",
+    "industry": "Oil & Gas E&P",
+    "yahoo_symbol": "TXP.TO",
+    "exchange": "TSX"
+  },
+  "BCHT": {
+    "company_name": "Birchtech Corp.",
+    "sector": "Industrials",
+    "industry": "Pollution & Treatment Controls",
+    "yahoo_symbol": "BCHT.TO",
+    "exchange": "TSX"
+  },
+  "DII.A": {
+    "company_name": "Dorel Industries Inc.",
+    "sector": "Consumer Cyclical",
+    "industry": "Furnishings, Fixtures & Appliances",
+    "yahoo_symbol": "DII-A.TO",
+    "exchange": "TSX"
+  },
+  "DII.B": {
+    "company_name": "Dorel Industries Inc.",
+    "sector": "Consumer Cyclical",
+    "industry": "Furnishings, Fixtures & Appliances",
+    "yahoo_symbol": "DII-B.TO",
+    "exchange": "TSX"
+  },
+  "NPK": {
+    "company_name": "Verde AgriTech Limited",
+    "sector": "Basic Materials",
+    "industry": "Agricultural Inputs",
+    "yahoo_symbol": "NPK.TO",
+    "exchange": "TSX"
+  },
+  "ICE": {
+    "company_name": "Canlan Ice Sports Corp.",
+    "sector": "Consumer Cyclical",
+    "industry": "Leisure",
+    "yahoo_symbol": "ICE.TO",
+    "exchange": "TSX"
+  },
+  "AVL": {
+    "company_name": "Avalon Advanced Materials Inc.",
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "yahoo_symbol": "AVL.TO",
+    "exchange": "TSX"
+  },
+  "MDNA": {
+    "company_name": "Medicenna Therapeutics Corp.",
+    "sector": "Healthcare",
+    "industry": "Biotechnology",
+    "yahoo_symbol": "MDNA.TO",
+    "exchange": "TSX"
+  },
+  "GFP": {
+    "company_name": "GreenFirst Forest Products Inc.",
+    "sector": "Basic Materials",
+    "industry": "Lumber & Wood Production",
+    "yahoo_symbol": "GFP.TO",
+    "exchange": "TSX"
+  },
+  "SWP": {
+    "company_name": "Swiss Water Decaffeinated Coffee Inc.",
+    "sector": "Consumer Defensive",
+    "industry": "Packaged Foods",
+    "yahoo_symbol": "SWP.TO",
+    "exchange": "TSX"
+  },
+  "TVA.B": {
+    "company_name": "TVA Group Inc.",
+    "sector": "Communication Services",
+    "industry": "Broadcasting",
+    "yahoo_symbol": "TVA-B.TO",
+    "exchange": "TSX"
+  },
+  "WPRT": {
+    "company_name": "Westport Fuel Systems Inc.",
+    "sector": "Consumer Cyclical",
+    "industry": "Auto Parts",
+    "yahoo_symbol": "WPRT.TO",
+    "exchange": "TSX"
+  },
+  "SLT": {
+    "company_name": "Saltire Capital Ltd.",
+    "sector": NaN,
+    "industry": NaN,
+    "yahoo_symbol": "SLT.TO",
+    "exchange": "TSX"
+  },
+  "SLT.U": {
+    "company_name": "Saltire Capital Ltd.",
+    "sector": "Technology",
+    "industry": "Computer Hardware",
+    "yahoo_symbol": "SLT-U.TO",
+    "exchange": "TSX"
+  },
+  "SFD": {
+    "company_name": "NXT Energy Solutions Inc.",
+    "sector": "Energy",
+    "industry": "Oil & Gas Equipment & Services",
+    "yahoo_symbol": "SFD.TO",
+    "exchange": "TSX"
+  },
+  "GVC": {
+    "company_name": "Glacier Media Inc.",
+    "sector": "Communication Services",
+    "industry": "Publishing",
+    "yahoo_symbol": "GVC.TO",
+    "exchange": "TSX"
+  },
+  "ILLM": {
+    "company_name": "illumin Holdings Inc.",
+    "sector": "Communication Services",
+    "industry": "Advertising Agencies",
+    "yahoo_symbol": "ILLM.TO",
+    "exchange": "TSX"
+  },
+  "UNI": {
+    "company_name": "Unisync Corp.",
+    "sector": "Consumer Cyclical",
+    "industry": "Apparel Manufacturing",
+    "yahoo_symbol": "UNI.TO",
+    "exchange": "TSX"
+  },
+  "BCT": {
+    "company_name": "BriaCell Therapeutics Corp.",
+    "sector": "Healthcare",
+    "industry": "Biotechnology",
+    "yahoo_symbol": "BCT.TO",
+    "exchange": "TSX"
+  },
+  "BYL": {
+    "company_name": "Baylin Technologies Inc.",
+    "sector": "Technology",
+    "industry": "Communication Equipment",
+    "yahoo_symbol": "BYL.TO",
+    "exchange": "TSX"
+  },
+  "GRN": {
+    "company_name": "Greenlane Renewables Inc.",
+    "sector": "Industrials",
+    "industry": "Specialty Industrial Machinery",
+    "yahoo_symbol": "GRN.TO",
+    "exchange": "TSX"
+  },
+  "HOT.UN": {
+    "company_name": "American Hotel Income Properties REIT LP",
+    "sector": "Real Estate",
+    "industry": "REIT - Hotel & Motel",
+    "yahoo_symbol": "HOT-UN.TO",
+    "exchange": "TSX"
+  },
+  "LABS": {
+    "company_name": "MediPharm Labs Corp.",
+    "sector": "Healthcare",
+    "industry": "Drug Manufacturers - Specialty & Generic",
+    "yahoo_symbol": "LABS.TO",
+    "exchange": "TSX"
+  },
+  "MBX": {
+    "company_name": "Microbix Biosystems Inc.",
+    "sector": "Healthcare",
+    "industry": "Biotechnology",
+    "yahoo_symbol": "MBX.TO",
+    "exchange": "TSX"
+  },
+  "ORIO": {
+    "company_name": "Orion Digital Corp.",
+    "sector": "Technology",
+    "industry": "Software - Infrastructure",
+    "yahoo_symbol": "ORIO.TO",
+    "exchange": "TSX"
+  },
+  "BKI": {
+    "company_name": "Black Iron Inc.",
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "yahoo_symbol": "BKI.TO",
+    "exchange": "TSX"
+  },
+  "NPS": {
+    "company_name": "Canadian Large Cap Leaders Split Corp.",
+    "sector": "Financial Services",
+    "industry": "Asset Management",
+    "yahoo_symbol": "NPS.TO",
+    "exchange": "TSX"
+  },
+  "TGO": {
+    "company_name": "TeraGo Inc.",
+    "sector": "Communication Services",
+    "industry": "Telecom Services",
+    "yahoo_symbol": "TGO.TO",
+    "exchange": "TSX"
+  },
+  "RVX": {
+    "company_name": "Resverlogix Corp.",
+    "sector": "Healthcare",
+    "industry": "Biotechnology",
+    "yahoo_symbol": "RVX.TO",
+    "exchange": "TSX"
+  },
+  "NVO": {
+    "company_name": "Novo Resources Corp.",
+    "sector": "Basic Materials",
+    "industry": "Gold",
+    "yahoo_symbol": "NVO.TO",
+    "exchange": "TSX"
+  },
+  "AMC": {
+    "company_name": "Arizona Metals Corp.",
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "yahoo_symbol": "AMC.TO",
+    "exchange": "TSX"
+  },
+  "WCM.A": {
+    "company_name": "Wilmington Capital Management Inc.",
+    "sector": "Financial Services",
+    "industry": "Asset Management",
+    "yahoo_symbol": "WCM-A.TO",
+    "exchange": "TSX"
+  },
+  "WCM.B": {
+    "company_name": "Wilmington Capital Management Inc.",
+    "sector": "Financial Services",
+    "industry": "Asset Management",
+    "yahoo_symbol": "WCM-B.TO",
+    "exchange": "TSX"
+  },
+  "SVB": {
+    "company_name": "Silver Bull Resources, Inc.",
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "yahoo_symbol": "SVB.TO",
+    "exchange": "TSX"
+  },
+  "YRB": {
+    "company_name": "Yorbeau Resources Inc.",
+    "sector": "Basic Materials",
+    "industry": "Gold",
+    "yahoo_symbol": "YRB.TO",
+    "exchange": "TSX"
+  },
+  "INO.UN": {
+    "company_name": "Inovalis Real Estate Investment Trust",
+    "sector": "Real Estate",
+    "industry": "REIT - Office",
+    "yahoo_symbol": "INO-UN.TO",
+    "exchange": "TSX"
+  },
+  "MSV": {
+    "company_name": "Minco Silver Corporation",
+    "sector": "Basic Materials",
+    "industry": "Silver",
+    "yahoo_symbol": "MSV.TO",
+    "exchange": "TSX"
+  },
+  "BU": {
+    "company_name": "Burcon NutraScience Corporation",
+    "sector": "Consumer Defensive",
+    "industry": "Packaged Foods",
+    "yahoo_symbol": "BU.TO",
+    "exchange": "TSX"
+  },
+  "CWL": {
+    "company_name": "The Caldwell Partners International Inc.",
+    "sector": "Industrials",
+    "industry": "Staffing & Employment Services",
+    "yahoo_symbol": "CWL.TO",
+    "exchange": "TSX"
+  },
+  "SFI": {
+    "company_name": "Solution Financial Inc.",
+    "sector": "Consumer Cyclical",
+    "industry": "Auto & Truck Dealerships",
+    "yahoo_symbol": "SFI.TO",
+    "exchange": "TSX"
+  },
+  "AEG": {
+    "company_name": "Aegis Brands Inc.",
+    "sector": "Consumer Cyclical",
+    "industry": "Restaurants",
+    "yahoo_symbol": "AEG.TO",
+    "exchange": "TSX"
+  },
+  "BEK.B": {
+    "company_name": "The Becker Milk Company Limited",
+    "sector": "Real Estate",
+    "industry": "Real Estate Services",
+    "yahoo_symbol": "BEK-B.TO",
+    "exchange": "TSX"
+  },
+  "GRC": {
+    "company_name": "Gold Springs Resource Corp.",
+    "sector": "Basic Materials",
+    "industry": "Gold",
+    "yahoo_symbol": "GRC.TO",
+    "exchange": "TSX"
+  },
+  "GEC": {
+    "company_name": "Global Education Communities Corp.",
+    "sector": "Consumer Defensive",
+    "industry": "Education & Training Services",
+    "yahoo_symbol": "GEC.TO",
+    "exchange": "TSX"
+  },
+  "PPR": {
+    "company_name": "Prairie Provident Resources Inc.",
+    "sector": "Energy",
+    "industry": "Oil & Gas E&P",
+    "yahoo_symbol": "PPR.TO",
+    "exchange": "TSX"
+  },
+  "FOOD": {
+    "company_name": "Goodfood Market Corp.",
+    "sector": "Consumer Cyclical",
+    "industry": "Personal Services",
+    "yahoo_symbol": "FOOD.TO",
+    "exchange": "TSX"
+  },
+  "BR": {
+    "company_name": "Big Rock Brewery Inc.",
+    "sector": "Consumer Defensive",
+    "industry": "Beverages - Brewers",
+    "yahoo_symbol": "BR.TO",
+    "exchange": "TSX"
+  },
+  "BNG": {
+    "company_name": "Bengal Energy Ltd.",
+    "sector": "Energy",
+    "industry": "Oil & Gas E&P",
+    "yahoo_symbol": "BNG.TO",
+    "exchange": "TSX"
+  },
+  "DIAM": {
+    "company_name": "Star Diamond Corporation",
+    "sector": "Basic Materials",
+    "industry": "Other Precious Metals & Mining",
+    "yahoo_symbol": "DIAM.TO",
+    "exchange": "TSX"
+  },
+  "KRN": {
+    "company_name": "Karnalyte Resources Inc.",
+    "sector": "Basic Materials",
+    "industry": "Agricultural Inputs",
+    "yahoo_symbol": "KRN.TO",
+    "exchange": "TSX"
+  },
+  "AVCN": {
+    "company_name": "Avicanna Inc.",
+    "sector": "Healthcare",
+    "industry": "Drug Manufacturers - Specialty & Generic",
+    "yahoo_symbol": "AVCN.TO",
+    "exchange": "TSX"
+  },
+  "WRX": {
+    "company_name": "Western Resources Corp.",
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "yahoo_symbol": "WRX.TO",
+    "exchange": "TSX"
+  },
+  "ADCO": {
+    "company_name": "Adcore Inc.",
+    "sector": "Technology",
+    "industry": "Software - Application",
+    "yahoo_symbol": "ADCO.TO",
+    "exchange": "TSX"
+  },
+  "CTX": {
+    "company_name": "Crescita Therapeutics Inc.",
+    "sector": "Healthcare",
+    "industry": "Drug Manufacturers - Specialty & Generic",
+    "yahoo_symbol": "CTX.TO",
+    "exchange": "TSX"
+  },
+  "ACD": {
+    "company_name": "Accord Financial Corp.",
+    "sector": "Financial Services",
+    "industry": "Credit Services",
+    "yahoo_symbol": "ACD.TO",
+    "exchange": "TSX"
+  },
+  "HWO": {
+    "company_name": "High Arctic Energy Services Inc",
+    "sector": "Energy",
+    "industry": "Oil & Gas Equipment & Services",
+    "yahoo_symbol": "HWO.TO",
+    "exchange": "TSX"
+  },
+  "MPVD": {
+    "company_name": "Mountain Province Diamonds Inc.",
+    "sector": "Basic Materials",
+    "industry": "Other Precious Metals & Mining",
+    "yahoo_symbol": "MPVD.TO",
+    "exchange": "TSX"
+  },
+  "ELEF": {
+    "company_name": "Silver Elephant Mining Corp.",
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "yahoo_symbol": "ELEF.TO",
+    "exchange": "TSX"
+  },
+  "BRY": {
+    "company_name": "Bri-Chem Corp.",
+    "sector": "Energy",
+    "industry": "Oil & Gas Equipment & Services",
+    "yahoo_symbol": "BRY.TO",
+    "exchange": "TSX"
+  },
+  "AVNT": {
+    "company_name": "Avant Brands Inc.",
+    "sector": "Healthcare",
+    "industry": "Drug Manufacturers - Specialty & Generic",
+    "yahoo_symbol": "AVNT.TO",
+    "exchange": "TSX"
+  },
+  "VRTS": {
+    "company_name": "Vertiqal Studios Corp.",
+    "sector": "Communication Services",
+    "industry": "Electronic Gaming & Multimedia",
+    "yahoo_symbol": "VRTS.TO",
+    "exchange": "TSX"
+  },
+  "EAGR": {
+    "company_name": "East Side Games Group Inc.",
+    "sector": "Communication Services",
+    "industry": "Electronic Gaming & Multimedia",
+    "yahoo_symbol": "EAGR.TO",
+    "exchange": "TSX"
+  },
+  "CSCI": {
+    "company_name": "COSCIENS Biopharma Inc.",
+    "sector": "Healthcare",
+    "industry": "Biotechnology",
+    "yahoo_symbol": "CSCI.TO",
+    "exchange": "TSX"
+  },
+  "KLS": {
+    "company_name": "Kelso Technologies Inc.",
+    "sector": "Industrials",
+    "industry": "Railroads",
+    "yahoo_symbol": "KLS.TO",
+    "exchange": "TSX"
+  },
+  "EGLX": {
+    "company_name": "Enthusiast Gaming Holdings Inc.",
+    "sector": "Communication Services",
+    "industry": "Internet Content & Information",
+    "yahoo_symbol": "EGLX.TO",
+    "exchange": "TSX"
+  },
+  "CJR.B": {
+    "company_name": "Corus Entertainment Inc.",
+    "sector": "Communication Services",
+    "industry": "Entertainment",
+    "yahoo_symbol": "CJR-B.TO",
+    "exchange": "TSX"
+  },
+  "APS": {
+    "company_name": "Aptose Biosciences Inc.",
+    "sector": "Healthcare",
+    "industry": "Biotechnology",
+    "yahoo_symbol": "APS.TO",
+    "exchange": "TSX"
+  },
+  "FMR": {
+    "company_name": "Future Mineral Resources Inc.",
+    "sector": "Basic Materials",
+    "industry": "Other Industrial Metals & Mining",
+    "yahoo_symbol": "FMR.TO",
+    "exchange": "TSX"
+  },
+  "AAB": {
+    "company_name": "Aberdeen International Inc.",
+    "sector": "Financial Services",
+    "industry": "Asset Management",
+    "yahoo_symbol": "AAB.TO",
+    "exchange": "TSX"
+  },
+  "CFF": {
+    "company_name": "Conifex Timber Inc.",
+    "sector": "Basic Materials",
+    "industry": "Lumber & Wood Production",
+    "yahoo_symbol": "CFF.TO",
+    "exchange": "TSX"
+  },
+  "CNT": {
+    "company_name": "Century Global Commodities Corporation",
+    "sector": "Consumer Defensive",
+    "industry": "Food Distribution",
+    "yahoo_symbol": "CNT.TO",
+    "exchange": "TSX"
+  },
+  "AUMN": {
+    "company_name": "Golden Minerals Company",
+    "sector": "Basic Materials",
+    "industry": "Other Precious Metals & Mining",
+    "yahoo_symbol": "AUMN.TO",
+    "exchange": "TSX"
+  },
+  "CRWN": {
+    "company_name": "Crown Capital Partners Inc.",
+    "sector": "Financial Services",
+    "industry": "Credit Services",
+    "yahoo_symbol": "CRWN.TO",
+    "exchange": "TSX"
+  },
+  "MKZ.UN": {
+    "company_name": "Mackenzie Master Limited Partnership",
+    "sector": "Financial Services",
+    "industry": "Asset Management",
+    "yahoo_symbol": "MKZ-UN.TO",
+    "exchange": "TSX"
+  },
+  "APLI": {
+    "company_name": "Appili Therapeutics Inc.",
+    "sector": "Healthcare",
+    "industry": "Biotechnology",
+    "yahoo_symbol": "APLI.TO",
+    "exchange": "TSX"
+  },
+  "RPR.UN": {
+    "company_name": "Ravelin Properties REIT",
+    "sector": "Real Estate",
+    "industry": "REIT - Office",
+    "yahoo_symbol": "RPR-UN.TO",
+    "exchange": "TSX"
+  },
+  "BABY": {
+    "company_name": "Else Nutrition Holdings Inc.",
+    "sector": "Consumer Defensive",
+    "industry": "Packaged Foods",
+    "yahoo_symbol": "BABY.TO",
+    "exchange": "TSX"
+  },
+  "IOM": {
+    "company_name": "Assure Holdings Corp.",
+    "sector": NaN,
+    "industry": NaN,
+    "yahoo_symbol": "IOM.TO",
+    "exchange": "TSX"
+  }
+}

@@ -1,0 +1,800 @@
+rank,symbol,company_name,market_cap,stock_price_cad,percent_change,revenue,exchange,source_url,yahoo_symbol,sector,industry,long_name,quote_type,lookup_status
+1,NVDA,NVIDIA Corporation,6.56T,44.69,-0.09%,296.55B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,NVDA.TO,Technology,Semiconductors,NVIDIA Corporation,EQUITY,success
+2,GOOG,Alphabet Inc.,6.29T,61.72,1.36%,589.75B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,GOOG.TO,Communication Services,Internet Content & Information,Alphabet Inc.,EQUITY,success
+3,AAPL,Apple Inc.,5.53T,39.93,1.71%,626.25B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,AAPL.TO,Technology,Consumer Electronics,Apple Inc.,EQUITY,success
+4,MSFT,Microsoft Corporation,4.18T,28.91,-0.86%,444.26B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,MSFT.TO,Technology,Software - Infrastructure,Microsoft Corporation,EQUITY,success
+5,AMZN,"Amazon.com, Inc.",3.98T,31.75,1.44%,1.04T,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,AMZN.TO,Consumer Cyclical,Internet Retail,"Amazon.com, Inc.",EQUITY,success
+6,AVGO,Broadcom Inc.,2.68T,16.16,2.08%,92.62B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,AVGO.TO,,,Broadcom Inc.,ETF,success
+7,META,"Meta Platforms, Inc.",2.11T,32.72,0.40%,300.06B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,META.TO,Communication Services,Internet Content & Information,"Meta Platforms, Inc.",EQUITY,success
+8,TSLA,"Tesla, Inc.",2.01T,34.35,0.32%,136.63B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,TSLA.TO,Consumer Cyclical,Auto Manufacturers,"Tesla, Inc.",EQUITY,success
+9,WMT,Walmart Inc.,1.41T,54.74,-1.00%,967.34B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,WMT.TO,,,Walmart Inc.,ETF,success
+10,BRK,Berkshire Hathaway Inc.,1.37T,34.04,-0.41%,524.00B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,BRK.TO,Financial Services,Insurance - Diversified,Berkshire Hathaway Inc.,EQUITY,success
+11,LLY,Eli Lilly and Company,1.17T,35.28,1.18%,100.85B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,LLY.TO,,,Eli Lilly and Company,ETF,success
+12,JPM,JPMorgan Chase & Co.,1.12T,39.52,-,242.26B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,JPM.TO,,,JPMorgan Chase & Co.,ETF,success
+13,MU,"Micron Technology, Inc.",884.42B,28.24,10.66%,79.51B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,MU.TO,,,"Micron Technology, Inc.",ETF,success
+14,XOM,Exxon Mobil Corporation,866.67B,27.74,-0.39%,455.06B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,XOM.TO,,,Exxon Mobil Corporation,ETF,success
+15,VISA,Visa Inc.,837.81B,29.5,-1.67%,60.06B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,VISA.TO,,,Visa Inc.,ETF,success
+16,AMD,"Advanced Micro Devices, Inc.",757.54B,64.04,2.02%,47.35B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,AMD.TO,Technology,Semiconductors,"Advanced Micro Devices, Inc.",EQUITY,success
+17,JNJ,Johnson & Johnson,734.24B,28.97,-1.06%,133.68B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,JNJ.TO,,,Johnson & Johnson,ETF,success
+18,ASML,ASML Holding N.V.,727.21B,38.52,-2.51%,53.85B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,ASML.TO,,,ASML Holding N.V.,ETF,success
+19,ORAC,Oracle Corporation,705.43B,9.11,1.22%,87.38B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,ORAC.TO,,,Oracle Corporation,ETF,success
+20,INTC,Intel Corporation,654.92B,62.14,15.03%,74.58B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,INTC.TO,,,Intel Corporation,ETF,success
+21,COST,Costco Wholesale Corporation,611.30B,45.55,0.46%,389.89B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,COST.TO,Consumer Defensive,Discount Stores,Costco Wholesale Corporation,EQUITY,success
+22,MA,Mastercard Incorporated,606.74B,30.43,-0.98%,47.37B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,MA.TO,,,Mastercard Incorporated,ETF,success
+23,CATR,Caterpillar Inc.,548.16B,62.48,-2.05%,98.76B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,CATR.TO,,,Caterpillar Inc.,ETF,success
+24,NFLX,"Netflix, Inc.",521.42B,33.6,-2.27%,65.45B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,NFLX.TO,,,"Netflix, Inc.",ETF,success
+25,CHEV,Chevron Corporation,517.17B,24.9,0.69%,259.25B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,CHEV.TO,,,Chevron Corporation,ETF,success
+26,BOFA,Bank of America Corporation,503.88B,26.41,-1.46%,152.97B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,BOFA.TO,,,Bank of America Corporation,ETF,success
+27,ABBV,AbbVie Inc.,500.91B,29.01,0.28%,87.69B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,ABBV.TO,,,AbbVie Inc.,ETF,success
+28,CSCO,"Cisco Systems, Inc.",497.77B,45.12,1.30%,81.10B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,CSCO.TO,,,"Cisco Systems, Inc.",ETF,success
+29,PLTR,Palantir Technologies Inc.,476.24B,10.45,-6.28%,7.29B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,PLTR.TO,,,Palantir Technologies Inc.,ETF,success
+30,UNH,UnitedHealth Group Incorporated,458.10B,17.04,0.35%,627.74B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,UNH.TO,,,UnitedHealth Group Incorporated,ETF,success
+31,COLA,The Coca-Cola Company,457.68B,27.39,-0.76%,68.71B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,COLA.TO,,,The Coca-Cola Company,ETF,success
+32,PG,The Procter & Gamble Company,454.35B,23.8,-2.74%,121.04B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,PG.TO,,,The Procter & Gamble Company,ETF,success
+33,ROG,Roche Holding AG,439.06B,25.1,-,109.55B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,ROG.TO,,,Roche Holding AG,ETF,success
+34,HD,"The Home Depot, Inc.",423.35B,19.48,-0.05%,223.38B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,HD.TO,,,"The Home Depot, Inc.",ETF,success
+35,AMAT,"Applied Materials, Inc.",422.57B,43.63,0.30%,38.75B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,AMAT.TO,,,"Applied Materials, Inc.",ETF,success
+36,MS,Morgan Stanley,404.14B,38.6,-0.31%,102.14B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,MS.TO,,,Morgan Stanley,ETF,success
+37,GE,General Electric Company,398.18B,37.02,1.04%,67.44B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,GE.TO,,,General Electric Company,ETF,success
+38,GEV,GE Vernova Inc.,392.62B,74.16,1.58%,54.96B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,GEV.TO,,,GE Vernova Inc.,ETF,success
+39,MRK,"Merck & Co., Inc.",380.07B,25.41,1.03%,91.80B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,MRK.TO,,,"Merck & Co., Inc.",ETF,success
+40,NVS,Novartis AG,377.41B,27.13,-1.24%,78.97B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,NVS.TO,,,,ETF,success
+41,GS,"The Goldman Sachs Group, Inc.",376.77B,43.3,-2.28%,85.89B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,GS.TO,,,"The Goldman Sachs Group, Inc.",ETF,success
+42,ZYNS,Philip Morris International Inc.,358.75B,23.35,2.77%,57.92B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,ZYNS.TO,,,Philip Morris International Inc.,ETF,success
+43,LVMH,"LVMH MoÃ«t Hennessy - Louis Vuitton, SociÃ©tÃ© EuropÃ©enne",351.53B,18.23,0.11%,130.09B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,LVMH.TO,,,"LVMH Moët Hennessy - Louis Vuitton, Société Européenne",ETF,success
+44,NSTL,NestlÃ© S.A.,349.36B,23.93,-0.29%,155.42B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,NSTL.TO,,,Nestlé S.A.,ETF,success
+45,TXN,Texas Instruments Incorporated,347.79B,29.36,0.24%,25.74B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,TXN.TO,,,Texas Instruments Incorporated,ETF,success
+46,RY,Royal Bank of Canada,338.50B,244.18,0.75%,63.42B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,RY.TO,Financial Services,Banks - Diversified,Royal Bank of Canada,EQUITY,success
+47,WFCS,Wells Fargo & Company,329.65B,22.17,-2.25%,113.25B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,WFCS.TO,,,Wells Fargo & Company,ETF,success
+48,RTX,RTX Corporation,316.77B,39.91,-0.47%,126.15B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,RTX.TO,,,RTX Corporation,ETF,success
+49,SMNS,Siemens Aktiengesellschaft,306.31B,30.55,-1.23%,128.31B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,SMNS.TO,,,Siemens Aktiengesellschaft,ETF,success
+50,LORL,L'OrÃ©al S.A.,305.58B,23.3,-,70.92B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,LORL.TO,,,L'Oréal S.A.,ETF,success
+51,AXP,American Express Company,296.32B,27.28,0.04%,96.05B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,AXP.TO,,,American Express Company,ETF,success
+52,ANET,"Arista Networks, Inc.",295.71B,31.23,-0.22%,12.35B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,ANET.TO,,,"Arista Networks, Inc.",ETF,success
+53,IBM,International Business Machines Corporation,293.43B,33.99,-1.39%,96.19B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,IBM.TO,,,International Business Machines Corporation,ETF,success
+54,CITI,Citigroup Inc.,291.51B,51.91,0.72%,109.90B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,CITI.TO,,,Citigroup Inc.,ETF,success
+55,PEP,"PepsiCo, Inc.",287.45B,22.96,-2.46%,130.94B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,PEP.TO,,,"PepsiCo, Inc.",ETF,success
+56,SAPS,SAP SE,275.13B,13.22,1.69%,60.10B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,SAPS.TO,,,SAP SE,ETF,success
+57,MCDS,McDonald's Corporation,274.74B,24.1,-0.95%,36.86B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,MCDS.TO,,,McDonald's Corporation,ETF,success
+58,NEE,"NextEra Energy, Inc.",270.97B,30.96,-2.18%,38.90B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,NEE.TO,,,"NextEra Energy, Inc.",ETF,success
+59,VZ,Verizon Communications Inc.,270.23B,20.11,-1.47%,194.23B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,VZ.TO,,,Verizon Communications Inc.,ETF,success
+60,NOVO,Novo Nordisk A/S,267.31B,18.7,0.70%,66.62B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,NOVO.TO,,,,ETF,success
+61,TTES,TotalEnergies SE,266.77B,32.93,1.76%,256.78B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,TTES.TO,,,TotalEnergies SE,ETF,success
+62,HRMS,HermÃ¨s International SociÃ©tÃ© en commandite par actions,265.05B,17.91,-4.02%,25.76B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,HRMS.TO,,,,ETF,success
+63,DIS,The Walt Disney Company,244.17B,11.41,-1.81%,130.84B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,DIS.TO,,,The Walt Disney Company,ETF,success
+64,QCOM,QUALCOMM Incorporated,241.45B,21.96,-4.94%,61.71B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,QCOM.TO,,,QUALCOMM Incorporated,ETF,success
+65,TD,The Toronto-Dominion Bank,241.21B,144.98,0.30%,65.98B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,TD.TO,Financial Services,Banks - Diversified,The Toronto-Dominion Bank,EQUITY,success
+66,AMGN,Amgen Inc.,237.79B,24.41,-5.57%,51.95B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,AMGN.TO,,,Amgen Inc.,ETF,success
+67,BA,The Boeing Company,237.34B,36.86,-2.87%,128.68B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,BA.TO,,,The Boeing Company,ETF,success
+68,TMO,Thermo Fisher Scientific Inc.,233.88B,16.65,-1.19%,62.70B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,TMO.TO,,,Thermo Fisher Scientific Inc.,ETF,success
+69,SCHN,Schneider Electric S.E.,233.06B,26,-2.22%,64.64B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,SCHN.TO,,,Schneider Electric S.E.,ETF,success
+70,TJX,"The TJX Companies, Inc.",232.64B,27.25,-1.70%,81.89B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,TJX.TO,,,"The TJX Companies, Inc.",ETF,success
+71,ALZ,Allianz SE,227.30B,30,-,182.19B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,ALZ.TO,,,Allianz SE,ETF,success
+72,SHOP,Shopify Inc.,226.30B,158.48,-8.59%,15.84B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,SHOP.TO,Technology,Software - Application,Shopify Inc.,EQUITY,success
+73,GILD,"Gilead Sciences, Inc.",224.07B,26.8,-0.37%,40.37B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,GILD.TO,,,"Gilead Sciences, Inc.",ETF,success
+74,BLK,"BlackRock, Inc.",222.41B,27,-1.06%,35.79B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,BLK.TO,,,"BlackRock, Inc.",ETF,success
+75,ISRG,"Intuitive Surgical, Inc.",217.95B,23.61,-1.46%,14.77B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,ISRG.TO,,,"Intuitive Surgical, Inc.",ETF,success
+76,APPS,AppLovin Corporation,217.30B,14.97,2.89%,7.51B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,APPS.TO,,,AppLovin Corporation,ETF,success
+77,SCHW,The Charles Schwab Corporation,216.32B,27.18,-1.09%,34.62B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,SCHW.TO,,,,ETF,success
+78,UNP,Union Pacific Corporation,212.76B,26.86,-0.74%,34.48B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,UNP.TO,,,Union Pacific Corporation,ETF,success
+79,DEER,Deere & Company,212.54B,29.73,-0.03%,63.39B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,DEER.TO,,,Deere & Company,ETF,success
+80,ABT,Abbott Laboratories,207.44B,15.46,-2.34%,63.00B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,ABT.TO,,,Abbott Laboratories,ETF,success
+81,CRM,"Salesforce, Inc.",206.43B,14.09,-1.54%,56.32B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,CRM.TO,,,"Salesforce, Inc.",ETF,success
+82,UBER,"Uber Technologies, Inc.",204.86B,10.97,-0.36%,71.32B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,UBER.TO,,,"Uber Technologies, Inc.",ETF,success
+83,PANW,"Palo Alto Networks, Inc.",203.63B,21.64,-0.73%,13.42B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,PANW.TO,,,"Palo Alto Networks, Inc.",ETF,success
+84,PFE,Pfizer Inc.,203.53B,11.72,-0.85%,87.83B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,PFE.TO,,,Pfizer Inc.,ETF,success
+85,UBSS,UBS Group AG,184.52B,28.36,4.88%,71.62B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,UBSS.TO,,,,ETF,success
+86,HON,Honeywell International Inc.,180.68B,23.87,-1.12%,52.57B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,HON.TO,,,Honeywell International Inc.,ETF,success
+87,BKNG,Booking Holdings Inc.,174.55B,27.07,-2.20%,38.65B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,BKNG.TO,,,Booking Holdings Inc.,ETF,success
+88,SPGI,S&P Global Inc.,171.03B,20.2,-0.20%,21.96B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,SPGI.TO,,,S&P Global Inc.,ETF,success
+89,SBUX,Starbucks Corporation,162.76B,28.92,-0.82%,53.37B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,SBUX.TO,,,Starbucks Corporation,ETF,success
+90,ENB,Enbridge Inc.,162.58B,74.86,0.48%,65.19B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,ENB.TO,Energy,Oil & Gas Midstream,Enbridge Inc.,EQUITY,success
+91,LMT,Lockheed Martin Corporation,162.53B,29.65,0.95%,104.19B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,LMT.TO,,,Lockheed Martin Corporation,ETF,success
+92,CRWD,"CrowdStrike Holdings, Inc.",162.52B,37.15,1.39%,6.53B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,CRWD.TO,,,"CrowdStrike Holdings, Inc.",ETF,success
+93,CEGS,Constellation Energy Corporation,158.24B,22.08,0.09%,35.01B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,CEGS.TO,,,Constellation Energy Corporation,ETF,success
+94,SNY,Sanofi,148.63B,20.63,0.68%,76.21B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,SNY.TO,,,Sanofi,ETF,success
+95,BMO,Bank of Montreal,143.90B,205.66,0.74%,33.48B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,BMO.TO,Financial Services,Banks - Diversified,Bank of Montreal,EQUITY,success
+96,CVS,CVS Health Corporation,142.99B,19.83,-,548.22B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,CVS.TO,,,CVS Health Corporation,ETF,success
+97,ADBE,Adobe Inc.,139.65B,9.63,-1.23%,33.35B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,ADBE.TO,,,Adobe Inc.,ETF,success
+98,CM,Canadian Imperial Bank of Commerce,137.75B,150.88,0.81%,27.91B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,CM.TO,Financial Services,Banks - Diversified,Canadian Imperial Bank of Commerce,EQUITY,success
+99,BN,Brookfield Corporation,137.01B,62.11,1.42%,106.48B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,BN.TO,Financial Services,Asset Management,Brookfield Corporation,EQUITY,success
+100,CNQ,Canadian Natural Resources Limited,135.12B,64.77,0.03%,38.76B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,CNQ.TO,Energy,Oil & Gas E&P,Canadian Natural Resources Limited,EQUITY,success
+101,BX,Blackstone Inc.,131.54B,15.56,-3.35%,20.10B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,BX.TO,,,Blackstone Inc.,ETF,success
+102,NOWS,"ServiceNow, Inc.",129.04B,11.8,0.68%,19.49B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,NOWS.TO,,,"ServiceNow, Inc.",ETF,success
+103,BNS,The Bank of Nova Scotia,128.42B,104.63,0.33%,33.25B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,BNS.TO,Financial Services,Banks - Diversified,The Bank of Nova Scotia,EQUITY,success
+104,KKR,KKR & Co. Inc.,125.33B,22.53,-,35.17B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,KKR.TO,,,,ETF,success
+105,WAST,"Waste Management, Inc.",124.48B,21.62,-2.17%,35.47B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,WAST.TO,,,"Waste Management, Inc.",ETF,success
+106,AEM,Agnico Eagle Mines Limited,122.40B,245.85,0.45%,18.90B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,AEM.TO,Basic Materials,Gold,Agnico Eagle Mines Limited,EQUITY,success
+107,ABNB,"Airbnb, Inc.",112.31B,23.7,-0.46%,16.78B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,ABNB.TO,,,"Airbnb, Inc.",ETF,success
+108,UPS,"United Parcel Service, Inc.",111.33B,12.4,1.89%,123.28B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,UPS.TO,,,"United Parcel Service, Inc.",ETF,success
+109,SU,Suncor Energy Inc.,110.74B,94.22,0.99%,48.91B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,SU.TO,Energy,Oil & Gas Integrated,Suncor Energy Inc.,EQUITY,success
+110,INGS,ING Groep N.V.,109.59B,33.82,-2.82%,39.61B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,INGS.TO,,,ING Groep N.V.,ETF,success
+111,BAM,Brookfield Asset Management Ltd.,104.29B,65.39,0.86%,6.60B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,BAM.TO,Financial Services,Asset Management,Brookfield Asset Management Ltd.,EQUITY,success
+112,MMMM,3M Company,100.45B,22.5,-,34.93B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,MMMM.TO,,,3M Company,ETF,success
+113,CP,Canadian Pacific Kansas City Limited,100.38B,113.88,0.72%,14.98B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,CP.TO,Industrials,Railroads,Canadian Pacific Kansas City Limited,EQUITY,success
+114,HOOD,"Robinhood Markets, Inc.",93.78B,12.63,3.78%,6.44B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,HOOD.TO,,,"Robinhood Markets, Inc.",ETF,success
+115,TRP,TC Energy Corporation,93.72B,89.89,-0.06%,15.48B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,TRP.TO,Energy,Oil & Gas Midstream,TC Energy Corporation,EQUITY,success
+116,CNR,Canadian National Railway Company,90.48B,150.13,0.81%,17.28B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,CNR.TO,Industrials,Railroads,Canadian National Railway Company,EQUITY,success
+117,MFC,Manulife Financial Corporation,87.71B,52.98,1.01%,30.98B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,MFC.TO,Financial Services,Insurance - Life,Manulife Financial Corporation,EQUITY,success
+118,ABX,Barrick Mining Corporation,87.41B,52.96,1.51%,23.25B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,ABX.TO,Basic Materials,Gold,Barrick Mining Corporation,EQUITY,success
+119,MSTR,Strategy Inc,87.21B,12.7,4.18%,654.34M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,MSTR.TO,,,Strategy Inc,ETF,success
+120,NKE,"NIKE, Inc.",86.81B,7.79,-2.99%,63.44B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,NKE.TO,,,"NIKE, Inc.",ETF,success
+121,IMO,Imperial Oil Limited,85.91B,180.2,1.44%,46.85B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,IMO.TO,Energy,Oil & Gas Integrated,Imperial Oil Limited,EQUITY,success
+122,OXY,Occidental Petroleum Corporation,81.31B,25.26,2.02%,29.61B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,OXY.TO,,,Occidental Petroleum Corporation,ETF,success
+123,,National Bank of Canada,78.21B,204.51,0.82%,13.45B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,NAN.TO,,,,,success
+124,AZO,"AutoZone, Inc.",78.06B,21.35,-5.41%,26.71B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,AZO.TO,,,"AutoZone, Inc.",ETF,success
+125,WPM,Wheaton Precious Metals Corp.,76.77B,171.42,1.41%,3.17B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,WPM.TO,Basic Materials,Gold,Wheaton Precious Metals Corp.,EQUITY,success
+126,CVE,Cenovus Energy Inc.,76.67B,40.82,0.07%,49.70B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,CVE.TO,Energy,Oil & Gas Integrated,Cenovus Energy Inc.,EQUITY,success
+127,BMW,Bayerische Motoren Werke Aktiengesellschaft,73.45B,22.8,-3.72%,214.84B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,BMW.TO,,,,ETF,success
+128,ATD,Alimentation Couche-Tard Inc.,73.14B,79.7,0.06%,99.41B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,ATD.TO,Consumer Cyclical,Specialty Retail,Alimentation Couche-Tard Inc.,EQUITY,success
+129,COIN,"Coinbase Global, Inc.",72.76B,12.4,6.16%,9.44B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,COIN.TO,,,"Coinbase Global, Inc.",ETF,success
+130,L,Loblaw Companies Limited,72.14B,62.6,1.00%,63.90B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,L.TO,Consumer Defensive,Grocery Stores,Loblaw Companies Limited,EQUITY,success
+131,BENZ,Mercedes-Benz Group AG,71.98B,21.1,1.01%,210.18B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,BENZ.TO,,,Mercedes-Benz Group AG,ETF,success
+132,CCO,Cameco Corporation,70.22B,160.92,-0.19%,3.54B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,CCO.TO,Energy,Uranium,Cameco Corporation,EQUITY,success
+133,CLS,Celestica Inc.,65.90B,575.4,0.39%,19.25B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,CLS.TO,Technology,Electronic Components,Celestica Inc.,EQUITY,success
+134,GWO,Great-West Lifeco Inc.,65.65B,73.31,0.52%,35.45B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,GWO.TO,Financial Services,Insurance - Life,Great-West Lifeco Inc.,EQUITY,success
+135,F,Ford Motor Company,62.34B,9.78,-3.17%,265.02B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,F.TO,,,Ford Motor Company,ETF,success
+136,PYPL,"PayPal Holdings, Inc.",61.68B,3.27,-9.67%,45.48B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,PYPL.TO,,,"PayPal Holdings, Inc.",ETF,success
+137,FNV,Franco-Nevada Corporation,58.77B,306.47,0.53%,2.47B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,FNV.TO,Basic Materials,Gold,Franco-Nevada Corporation,EQUITY,success
+138,TRI,Thomson Reuters Corporation,57.81B,133.53,2.32%,10.25B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,TRI.TO,Industrials,Specialty Business Services,Thomson Reuters Corporation,EQUITY,success
+139,CMGS,"Chipotle Mexican Grill, Inc.",55.81B,12.72,-1.78%,16.94B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,CMGS.TO,,,"Chipotle Mexican Grill, Inc.",ETF,success
+140,WCN,"Waste Connections, Inc.",55.52B,214.9,-1.68%,13.41B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,WCN.TO,Industrials,Waste Management,"Waste Connections, Inc.",EQUITY,success
+141,SLF,Sun Life Financial Inc.,54.39B,99.33,1.17%,34.88B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,SLF.TO,Financial Services,Insurance - Diversified,Sun Life Financial Inc.,EQUITY,success
+142,CSU,Constellation Software Inc.,52.36B,"2,452.00",-0.77%,15.94B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,CSU.TO,Technology,Software - Application,Constellation Software Inc.,EQUITY,success
+143,FFH,Fairfax Financial Holdings Limited,50.95B,"2,242.83",1.48%,53.85B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,FFH.TO,Financial Services,Insurance - Property & Casualty,Fairfax Financial Holdings Limited,EQUITY,success
+144,NTR,Nutrien Ltd.,49.62B,103.59,0.38%,35.58B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,NTR.TO,Basic Materials,Agricultural Inputs,Nutrien Ltd.,EQUITY,success
+145,POW,Power Corporation of Canada,47.59B,76.41,0.90%,38.77B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,POW.TO,Financial Services,Insurance - Life,Power Corporation of Canada,EQUITY,success
+146,K,Kinross Gold Corporation,46.93B,39.59,0.74%,11.11B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,K.TO,Basic Materials,Gold,Kinross Gold Corporation,EQUITY,success
+147,DOL,Dollarama Inc.,46.32B,172.91,1.42%,7.26B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,DOL.TO,Consumer Defensive,Discount Stores,Dollarama Inc.,EQUITY,success
+148,IFC,Intact Financial Corporation,45.69B,259.91,0.71%,26.07B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,IFC.TO,Financial Services,Insurance - Property & Casualty,Intact Financial Corporation,EQUITY,success
+149,FISV,"Fiserv, Inc.",45.55B,6.41,0.63%,29.06B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,FISV.TO,,,"Fiserv, Inc.",ETF,success
+150,RDDT,"Reddit, Inc.",44.28B,16.32,0.68%,3.45B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,RDDT.TO,,,"Reddit, Inc.",ETF,success
+151,FTS,Fortis Inc.,39.46B,78.28,0.99%,12.17B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,FTS.TO,Utilities,Utilities - Regulated Electric,Fortis Inc.,EQUITY,success
+152,TECK.A,Teck Resources Limited,37.85B,79.28,3.04%,12.41B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,TECK-A.TO,Basic Materials,Other Industrial Metals & Mining,Teck Resources Limited,EQUITY,success
+153,TECK.B,Teck Resources Limited,37.85B,78.66,1.75%,12.41B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,TECK-B.TO,Basic Materials,Other Industrial Metals & Mining,Teck Resources Limited,EQUITY,success
+154,QSR,Restaurant Brands International Inc.,37.82B,110.4,1.37%,12.94B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,QSR.TO,Consumer Cyclical,Restaurants,Restaurant Brands International Inc.,EQUITY,success
+155,PPL,Pembina Pipeline Corporation,36.85B,63.21,-0.30%,7.78B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,PPL.TO,Energy,Oil & Gas Midstream,Pembina Pipeline Corporation,EQUITY,success
+156,WN,George Weston Limited,36.43B,97.17,0.93%,64.51B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,WN.TO,Consumer Defensive,Grocery Stores,George Weston Limited,EQUITY,success
+157,QSP.UN,Restaurant Brands International Limited Partnership,36.11B,107.6,-,12.94B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,QSP-UN.TO,Consumer Cyclical,Restaurants,Restaurant Brands International Limited Partnership,EQUITY,success
+158,H,Hydro One Limited,35.12B,59.36,1.38%,9.04B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,H.TO,Utilities,Utilities - Regulated Electric,Hydro One Limited,EQUITY,success
+159,STZ,"Constellation Brands, Inc.",34.70B,11.76,-5.85%,12.46B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,STZ.TO,,,"Constellation Brands, Inc.",ETF,success
+160,WSP,WSP Global Inc.,30.88B,229.84,0.35%,18.29B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,WSP.TO,Industrials,Engineering & Construction,WSP Global Inc.,EQUITY,success
+161,BEP.UN,Brookfield Renewable Partners L.P.,30.48B,45.27,1.59%,8.85B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,BEP-UN.TO,Utilities,Utilities - Renewable,Brookfield Renewable Partners L.P.,EQUITY,success
+162,BCE,BCE Inc.,30.42B,32.76,0.43%,24.47B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,BCE.TO,Communication Services,Telecom Services,BCE Inc.,EQUITY,success
+163,PAAS,Pan American Silver Corp.,29.38B,69.62,-0.04%,4.96B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,PAAS.TO,Basic Materials,Gold,Pan American Silver Corp.,EQUITY,success
+164,LUN,Lundin Mining Corporation,28.74B,33.97,1.13%,5.56B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,LUN.TO,Basic Materials,Copper,Lundin Mining Corporation,EQUITY,success
+165,BBD.A,Bombardier Inc.,27.56B,278.77,-3.54%,13.44B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,BBD-A.TO,Industrials,Aerospace & Defense,Bombardier Inc.,EQUITY,success
+166,BBD.B,Bombardier Inc.,27.56B,280.97,0.57%,13.44B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,BBD-B.TO,Industrials,Aerospace & Defense,Bombardier Inc.,EQUITY,success
+167,T,TELUS Corporation,26.79B,17.11,-0.29%,20.35B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,T.TO,Communication Services,Telecom Services,TELUS Corporation,EQUITY,success
+168,RBA,"RB Global, Inc.",26.56B,145.8,1.89%,6.58B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,RBA.TO,Industrials,Specialty Business Services,"RB Global, Inc.",EQUITY,success
+169,RCI.A,Rogers Communications Inc.,26.51B,49.92,-,22.22B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,RCI-A.TO,Communication Services,Telecom Services,Rogers Communications Inc.,EQUITY,success
+170,RCI.B,Rogers Communications Inc.,26.51B,48.92,0.12%,22.22B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,RCI-B.TO,Communication Services,Telecom Services,Rogers Communications Inc.,EQUITY,success
+171,TOU,Tourmaline Oil Corp.,25.97B,66.89,1.43%,4.59B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,TOU.TO,Energy,Oil & Gas E&P,Tourmaline Oil Corp.,EQUITY,success
+172,FM,First Quantum Minerals Ltd.,25.71B,31.41,1.19%,7.61B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,FM.TO,Basic Materials,Copper,First Quantum Minerals Ltd.,EQUITY,success
+173,CDE,"Coeur Mining, Inc.",24.72B,23.82,-0.58%,2.84B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,CDE.TO,Basic Materials,Gold,"Coeur Mining, Inc.",EQUITY,success
+174,OVV,Ovintiv Inc.,24.26B,85.06,-0.72%,11.88B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,OVV.TO,Energy,Oil & Gas E&P,Ovintiv Inc.,EQUITY,success
+175,SMCI,"Super Micro Computer, Inc.",22.81B,9.01,-0.88%,38.47B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,SMCI.TO,,,"Super Micro Computer, Inc.",ETF,success
+176,BIP.UN,Brookfield Infrastructure Partners L.P.,22.38B,49.06,0.86%,33.51B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,BIP-UN.TO,Utilities,Utilities - Diversified,Brookfield Infrastructure Partners L.P.,EQUITY,success
+177,AGI,Alamos Gold Inc.,22.34B,53.26,0.11%,2.89B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,AGI.TO,Basic Materials,Gold,Alamos Gold Inc.,EQUITY,success
+178,MG,Magna International Inc.,22.06B,82.14,1.38%,59.08B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,MG.TO,Consumer Cyclical,Auto Parts,Magna International Inc.,EQUITY,success
+179,EMA,Emera Incorporated,21.88B,71.64,0.14%,8.78B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,EMA.TO,Utilities,Utilities - Regulated Electric,Emera Incorporated,EQUITY,success
+180,LUG,Lundin Gold Inc.,21.22B,87.9,0.15%,2.44B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,LUG.TO,Basic Materials,Gold,Lundin Gold Inc.,EQUITY,success
+181,BNT,Brookfield Wealth Solutions Ltd.,20.37B,62.07,1.22%,15.95B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,BNT.TO,Financial Services,Insurance - Diversified,Brookfield Wealth Solutions Ltd.,EQUITY,success
+182,LULU,lululemon athletica inc.,20.19B,5.59,-1.24%,15.06B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,LULU.TO,,,lululemon athletica inc.,ETF,success
+183,WCP,Whitecap Resources Inc.,19.52B,16.18,0.62%,6.15B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,WCP.TO,Energy,Oil & Gas E&P,Whitecap Resources Inc.,EQUITY,success
+184,MRU,Metro Inc.,18.99B,89.64,-0.50%,22.18B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,MRU.TO,Consumer Defensive,Grocery Stores,Metro Inc.,EQUITY,success
+185,GIB.A,CGI Inc.,18.95B,90.16,-0.35%,16.34B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,GIB-A.TO,Technology,Information Technology Services,CGI Inc.,EQUITY,success
+186,EDV,Endeavour Mining plc,18.83B,79.28,1.89%,6.34B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,EDV.TO,Basic Materials,Gold,Endeavour Mining plc,EQUITY,success
+187,GFL,GFL Environmental Inc.,18.58B,50.38,-2.02%,6.70B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,GFL.TO,Industrials,Waste Management,GFL Environmental Inc.,EQUITY,success
+188,ARX,ARC Resources Ltd.,18.01B,31.94,0.44%,6.40B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,ARX.TO,Energy,Oil & Gas E&P,ARC Resources Ltd.,EQUITY,success
+189,TIH,Toromont Industries Ltd.,17.76B,219.99,1.01%,5.34B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,TIH.TO,Industrials,Industrial Distribution,Toromont Industries Ltd.,EQUITY,success
+190,IGM,IGM Financial Inc.,17.64B,77.1,1.98%,4.31B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,IGM.TO,Financial Services,Asset Management,IGM Financial Inc.,EQUITY,success
+191,SAP,Saputo Inc.,16.54B,41.32,0.73%,18.99B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,SAP.TO,Consumer Defensive,Packaged Foods,Saputo Inc.,EQUITY,success
+192,BEPC,Brookfield Renewable Corporation,16.53B,50.04,3.43%,5.17B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,BEPC.TO,Utilities,Utilities - Renewable,Brookfield Renewable Corporation,EQUITY,success
+193,ALA,AltaGas Ltd.,16.34B,52.91,0.90%,12.71B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,ALA.TO,Energy,Oil & Gas Midstream,AltaGas Ltd.,EQUITY,success
+194,ATZ,Aritzia Inc.,16.17B,141.25,1.25%,3.41B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,ATZ.TO,Consumer Cyclical,Apparel Retail,Aritzia Inc.,EQUITY,success
+195,IAG,iA Financial Corporation Inc.,15.77B,177.25,0.94%,9.11B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,IAG.TO,Financial Services,Insurance - Diversified,iA Financial Corporation Inc.,EQUITY,success
+196,ATRL,AtkinsRÃ©alis Group Inc.,15.55B,95.07,-0.25%,11.00B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,ATRL.TO,Industrials,Engineering & Construction,AtkinsRéalis Group Inc.,EQUITY,success
+197,X,TMX Group Limited,15.51B,56.68,1.25%,1.72B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,X.TO,Financial Services,Financial Data & Stock Exchanges,TMX Group Limited,EQUITY,success
+198,IVN,Ivanhoe Mines Ltd.,15.16B,10.69,0.56%,605.51M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,IVN.TO,Basic Materials,Other Industrial Metals & Mining,Ivanhoe Mines Ltd.,EQUITY,success
+199,TFII,TFI International Inc.,15.04B,182.89,-0.07%,10.98B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,TFII.TO,Industrials,Trucking,TFI International Inc.,EQUITY,success
+200,EQX,Equinox Gold Corp.,14.91B,18.86,-0.21%,2.49B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,EQX.TO,Basic Materials,Gold,Equinox Gold Corp.,EQUITY,success
+201,GIL,Gildan Activewear Inc.,14.63B,80.46,1.85%,5.65B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,GIL.TO,Consumer Cyclical,Apparel Manufacturing,Gildan Activewear Inc.,EQUITY,success
+202,CCL.A,CCL Industries Inc.,14.37B,84.49,-0.59%,7.66B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,CCL-A.TO,Consumer Cyclical,Packaging & Containers,CCL Industries Inc.,EQUITY,success
+203,CCL.B,CCL Industries Inc.,14.37B,83.72,0.71%,7.66B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,CCL-B.TO,Consumer Cyclical,Packaging & Containers,CCL Industries Inc.,EQUITY,success
+204,STN,Stantec Inc.,14.14B,123.25,-0.60%,6.49B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,STN.TO,Industrials,Engineering & Construction,Stantec Inc.,EQUITY,success
+205,CU,Canadian Utilities Limited,13.26B,48.58,-0.27%,3.69B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,CU.TO,Utilities,Utilities - Diversified,Canadian Utilities Limited,EQUITY,success
+206,AG,First Majestic Silver Corp.,13.05B,26.34,-0.34%,1.72B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,AG.TO,Basic Materials,Silver,First Majestic Silver Corp.,EQUITY,success
+207,IMG,IAMGOLD Corporation,12.94B,22.28,0.27%,3.91B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,IMG.TO,Basic Materials,Gold,IAMGOLD Corporation,EQUITY,success
+208,FTT,Finning International Inc.,12.92B,99.12,0.24%,10.59B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,FTT.TO,Industrials,Industrial Distribution,Finning International Inc.,EQUITY,success
+209,QBR.A,Quebecor Inc.,12.81B,57,-,5.68B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,QBR-A.TO,Communication Services,Telecom Services,Quebecor Inc.,EQUITY,success
+210,QBR.B,Quebecor Inc.,12.81B,56.61,-0.07%,5.68B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,QBR-B.TO,Communication Services,Telecom Services,Quebecor Inc.,EQUITY,success
+211,EFN,Element Fleet Management Corp.,12.23B,31.41,1.98%,3.18B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,EFN.TO,Industrials,Rental & Leasing Services,Element Fleet Management Corp.,EQUITY,success
+212,KEY,Keyera Corp.,12.15B,51.24,-3.27%,6.85B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,KEY.TO,Energy,Oil & Gas Midstream,Keyera Corp.,EQUITY,success
+213,HUT,Hut 8 Corp.,11.78B,106.69,0.40%,322.37M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,HUT.TO,Financial Services,Capital Markets,Hut 8 Corp.,EQUITY,success
+214,HBM,Hudbay Minerals Inc.,11.77B,30.38,2.50%,3.31B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,HBM.TO,Basic Materials,Copper,Hudbay Minerals Inc.,EQUITY,success
+215,CAE,CAE Inc.,11.33B,35.73,1.48%,4.86B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,CAE.TO,Industrials,Aerospace & Defense,CAE Inc.,EQUITY,success
+216,NXE,NexGen Energy Ltd.,11.20B,16.76,-1.09%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,NXE.TO,Energy,Uranium,NexGen Energy Ltd.,EQUITY,success
+217,CGG,China Gold International Resources Corp. Ltd.,11.19B,28.69,1.67%,1.80B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,CGG.TO,Basic Materials,Other Precious Metals & Mining,China Gold International Resources Corp. Ltd.,EQUITY,success
+218,GMIN,G Mining Ventures Corp.,11.17B,48,2.13%,796.16M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,GMIN.TO,Basic Materials,Gold,G Mining Ventures Corp.,EQUITY,success
+219,DPM,DPM Metals Inc.,10.52B,44.21,-0.07%,1.30B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,DPM.TO,Basic Materials,Gold,DPM Metals Inc.,EQUITY,success
+220,EMP.A,Empire Company Limited,10.37B,46.04,-1.37%,31.86B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,EMP-A.TO,Consumer Defensive,Grocery Stores,Empire Company Limited,EQUITY,success
+221,CPX,Capital Power Corporation,10.22B,65.03,-0.45%,3.84B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,CPX.TO,Utilities,Utilities - Independent Power Producers,Capital Power Corporation,EQUITY,success
+222,ELD,Eldorado Gold Corporation,10.20B,40.19,2.66%,2.79B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,ELD.TO,Basic Materials,Gold,Eldorado Gold Corporation,EQUITY,success
+223,SOBO,South Bow Corporation,9.99B,47.91,-,2.72B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,SOBO.TO,Energy,Oil & Gas Midstream,South Bow Corporation,EQUITY,success
+224,CTC,"Canadian Tire Corporation, Limited",9.91B,238,5.78%,16.32B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,CTC.TO,Consumer Cyclical,Specialty Retail,"Canadian Tire Corporation, Limited",EQUITY,success
+225,CTC.A,"Canadian Tire Corporation, Limited",9.91B,187.5,0.94%,16.32B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,CTC-A.TO,Consumer Cyclical,Specialty Retail,"Canadian Tire Corporation, Limited",EQUITY,success
+226,SCR,Strathcona Resources Ltd.,9.67B,44.42,-1.55%,3.77B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,SCR.TO,Energy,Oil & Gas E&P,Strathcona Resources Ltd.,EQUITY,success
+227,BBUC,Brookfield Business Corporation,9.55B,46.43,0.61%,37.65B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,BBUC.TO,Industrials,Conglomerates,Brookfield Business Corporation,EQUITY,success
+228,GRGD,Groupe Dynamite Inc.,9.55B,87.65,0.68%,1.31B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,GRGD.TO,Consumer Cyclical,Apparel Retail,Groupe Dynamite Inc.,EQUITY,success
+229,OR,OR Royalties Inc.,9.21B,49.33,0.37%,380.31M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,OR.TO,Basic Materials,Gold,OR Royalties Inc.,EQUITY,success
+230,OGC,OceanaGold Corporation,9.11B,40.42,-0.47%,2.60B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,OGC.TO,Basic Materials,Gold,OceanaGold Corporation,EQUITY,success
+231,TFPM,Triple Flag Precious Metals Corp.,8.82B,42.72,0.05%,532.96M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,TFPM.TO,Basic Materials,Other Precious Metals & Mining,Triple Flag Precious Metals Corp.,EQUITY,success
+232,ONEX,Onex Corporation,8.69B,115.03,0.89%,1.19B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,ONEX.TO,Financial Services,Asset Management,Onex Corporation,EQUITY,success
+233,DSG,The Descartes Systems Group Inc.,8.63B,99.24,-1.09%,988.81M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,DSG.TO,Technology,Software - Application,The Descartes Systems Group Inc.,EQUITY,success
+234,SSRM,SSR Mining Inc.,8.35B,38.63,0.16%,2.23B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,SSRM.TO,Basic Materials,Gold,SSR Mining Inc.,EQUITY,success
+235,CS,Capstone Copper Corp.,8.28B,11.01,1.57%,3.46B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,CS.TO,Basic Materials,Copper,Capstone Copper Corp.,EQUITY,success
+236,DFY,Definity Financial Corporation,8.04B,66.73,-0.51%,4.71B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,DFY.TO,Financial Services,Insurance - Property & Casualty,Definity Financial Corporation,EQUITY,success
+237,FSV,FirstService Corporation,8.01B,172.3,-1.11%,7.77B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,FSV.TO,Real Estate,Real Estate Services,FirstService Corporation,EQUITY,success
+238,PSK,PrairieSky Royalty Ltd.,7.98B,34.16,-0.44%,446.70M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,PSK.TO,Energy,Oil & Gas E&P,PrairieSky Royalty Ltd.,EQUITY,success
+239,BLCO,Bausch + Lomb Corporation,7.90B,21.82,-1.62%,7.27B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,BLCO.TO,Healthcare,Medical Instruments & Supplies,Bausch + Lomb Corporation,EQUITY,success
+240,OTEX,Open Text Corporation,7.85B,31.75,0.86%,7.10B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,OTEX.TO,Technology,Software - Application,Open Text Corporation,EQUITY,success
+241,BTO,B2Gold Corp.,7.80B,5.82,-0.17%,4.20B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,BTO.TO,Basic Materials,Gold,B2Gold Corp.,EQUITY,success
+242,ACO.X,ATCO Ltd.,7.66B,68.37,0.43%,5.14B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,ACO-X.TO,Utilities,Utilities - Diversified,ATCO Ltd.,EQUITY,success
+243,AII,Almonty Industries Inc.,7.55B,27.42,3.12%,32.51M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,AII.TO,Basic Materials,Other Industrial Metals & Mining,Almonty Industries Inc.,EQUITY,success
+244,EFR,Energy Fuels Inc.,7.30B,29.75,1.12%,90.39M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,EFR.TO,Energy,Uranium,Energy Fuels Inc.,EQUITY,success
+245,CIGI,Colliers International Group Inc.,7.15B,133.38,-4.72%,7.62B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,CIGI.TO,Real Estate,Real Estate Services,Colliers International Group Inc.,EQUITY,success
+246,CSH.UN,Chartwell Retirement Residences,7.10B,22.3,1.83%,1.11B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,CSH-UN.TO,Real Estate,REIT - Healthcare Facilities,Chartwell Retirement Residences,EQUITY,success
+247,PRU,Perseus Mining Limited,7.05B,5.29,2.32%,1.75B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,PRU.TO,Basic Materials,Gold,Perseus Mining Limited,EQUITY,success
+248,MX,Methanex Corporation,6.84B,89.4,1.17%,5.12B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,MX.TO,Basic Materials,Chemicals,Methanex Corporation,EQUITY,success
+249,DSV,Discovery Silver Corp.,6.67B,8.3,0.85%,895.63M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,DSV.TO,Basic Materials,Silver,Discovery Silver Corp.,EQUITY,success
+250,AQN,Algonquin Power & Utilities Corp.,6.55B,8.55,0.29%,3.34B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,AQN.TO,Utilities,Utilities - Diversified,Algonquin Power & Utilities Corp.,EQUITY,success
+251,WFG,West Fraser Timber Co. Ltd.,6.34B,82.33,1.63%,7.44B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,WFG.TO,Basic Materials,Lumber & Wood Production,West Fraser Timber Co. Ltd.,EQUITY,success
+252,REI.UN,RioCan Real Estate Investment Trust,6.31B,21.67,-0.05%,1.36B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,REI-UN.TO,Real Estate,REIT - Retail,RioCan Real Estate Investment Trust,EQUITY,success
+253,TVE,Tamarack Valley Energy Ltd.,6.19B,12.77,-0.47%,1.35B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,TVE.TO,Energy,Oil & Gas E&P,Tamarack Valley Energy Ltd.,EQUITY,success
+254,BIPC,Brookfield Infrastructure Corporation,6.18B,51.63,2.28%,5.06B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,BIPC.TO,Utilities,Utilities - Regulated Gas,Brookfield Infrastructure Corporation,EQUITY,success
+255,OLA,Orla Mining Ltd.,6.11B,18.08,2.26%,1.45B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,OLA.TO,Basic Materials,Gold,Orla Mining Ltd.,EQUITY,success
+256,NPI,Northland Power Inc.,6.04B,23.31,0.91%,2.44B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,NPI.TO,Utilities,Utilities - Renewable,Northland Power Inc.,EQUITY,success
+257,KNT,K92 Mining Inc.,5.87B,24.02,0.29%,816.16M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,KNT.TO,Basic Materials,Gold,K92 Mining Inc.,EQUITY,success
+258,ELF,E-L Financial Corporation Limited,5.87B,17.1,0.88%,3.39B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,ELF.TO,Financial Services,Insurance - Life,E-L Financial Corporation Limited,EQUITY,success
+259,ATH,Athabasca Oil Corporation,5.86B,12.07,-0.33%,1.31B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,ATH.TO,Energy,Oil & Gas E&P,Athabasca Oil Corporation,EQUITY,success
+260,MDA,MDA Space Ltd.,5.84B,41.19,-2.14%,1.63B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,MDA.TO,Industrials,Aerospace & Defense,MDA Space Ltd.,EQUITY,success
+261,XNDU,Xanadu Quantum Technologies Limited,5.69B,19.06,-61.02%,6.33M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,XNDU.TO,Technology,Software - Infrastructure,Xanadu Quantum Technologies Limited,EQUITY,success
+262,GRT.UN,Granite Real Estate Investment Trust,5.68B,93.41,-0.28%,617.89M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,GRT-UN.TO,Real Estate,REIT - Industrial,Granite Real Estate Investment Trust,EQUITY,success
+263,EIF,Exchange Income Corporation,5.62B,101.01,1.27%,3.28B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,EIF.TO,Industrials,Airlines,Exchange Income Corporation,EQUITY,success
+264,CAR.UN,Canadian Apartment Properties Real Estate Investment Trust,5.62B,36.3,0.08%,1.00B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,CAR-UN.TO,Real Estate,REIT - Residential,Canadian Apartment Properties Real Estate Investment Trust,EQUITY,success
+265,LNR,Linamar Corporation,5.41B,90.05,-1.23%,10.23B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,LNR.TO,Consumer Cyclical,Auto Parts,Linamar Corporation,EQUITY,success
+266,PDN,Paladin Energy Ltd,5.41B,11.89,2.32%,327.38M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,PDN.TO,Energy,Uranium,Paladin Energy Ltd,EQUITY,success
+267,MAU,Montage Gold Corp.,5.39B,13.37,-0.04%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,MAU.TO,Basic Materials,Gold,Montage Gold Corp.,EQUITY,success
+268,DOO,BRP Inc.,5.38B,73.12,0.21%,8.44B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,DOO.TO,Consumer Cyclical,Recreational Vehicles,BRP Inc.,EQUITY,success
+269,AC,Air Canada,5.36B,18.46,0.87%,22.96B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,AC.TO,Industrials,Airlines,Air Canada,EQUITY,success
+270,NGEX,NGEx Minerals Ltd.,5.30B,25.17,3.07%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,NGEX.TO,Basic Materials,Other Industrial Metals & Mining,NGEx Minerals Ltd.,EQUITY,success
+271,PEY,Peyto Exploration & Development Corp.,5.24B,25.58,0.08%,1.07B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,PEY.TO,Energy,Oil & Gas E&P,Peyto Exploration & Development Corp.,EQUITY,success
+272,GEI,Gibson Energy Inc.,5.21B,28.5,-5.57%,10.70B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,GEI.TO,Energy,Oil & Gas Midstream,Gibson Energy Inc.,EQUITY,success
+273,TXG,Torex Gold Resources Inc.,5.18B,56.18,1.37%,1.79B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,TXG.TO,Basic Materials,Gold,Torex Gold Resources Inc.,EQUITY,success
+274,TA,TransAlta Corporation,5.10B,17.07,-0.47%,2.41B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,TA.TO,Utilities,Utilities - Independent Power Producers,TransAlta Corporation,EQUITY,success
+275,BTE,Baytex Energy Corp.,5.10B,7.01,0.79%,1.48B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,BTE.TO,Energy,Oil & Gas E&P,Baytex Energy Corp.,EQUITY,success
+276,CHP.UN,Choice Properties Real Estate Investment Trust,5.06B,15.44,0.13%,1.52B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,CHP-UN.TO,Real Estate,REIT - Retail,Choice Properties Real Estate Investment Trust,EQUITY,success
+277,WGX,Westgold Resources Limited,5.02B,5.27,1.74%,1.81B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,WGX.TO,Basic Materials,Gold,,EQUITY,success
+278,FCR.UN,First Capital Real Estate Investment Trust,4.97B,23.42,0.26%,714.05M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,FCR-UN.TO,Real Estate,REIT - Retail,First Capital Real Estate Investment Trust,EQUITY,success
+279,ARIS,Aris Mining Corporation,4.91B,23.88,0.25%,1.27B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,ARIS.TO,Basic Materials,Gold,Aris Mining Corporation,EQUITY,success
+280,TPZ,Topaz Energy Corp.,4.88B,31.9,1.14%,336.50M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,TPZ.TO,Energy,Oil & Gas Midstream,Topaz Energy Corp.,EQUITY,success
+281,SKE,Skeena Resources Limited,4.87B,40.01,0.02%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,SKE.TO,Basic Materials,Other Industrial Metals & Mining,Skeena Resources Limited,EQUITY,success
+282,AAUC,Allied Gold Corporation,4.85B,39.39,2.31%,1.83B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,AAUC.TO,Basic Materials,Gold,Allied Gold Corporation,EQUITY,success
+283,SES,SECURE Waste Infrastructure Corp.,4.81B,21.64,-1.95%,1.48B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,SES.TO,Industrials,Waste Management,SECURE Waste Infrastructure Corp.,EQUITY,success
+284,NG,NovaGold Resources Inc.,4.76B,10.86,0.18%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,NG.TO,Basic Materials,Gold,NovaGold Resources Inc.,EQUITY,success
+285,DML,Denison Mines Corp.,4.62B,5.03,-1.57%,4.92M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,DML.TO,Energy,Uranium,Denison Mines Corp.,EQUITY,success
+286,SII,Sprott Inc.,4.59B,177.75,-0.14%,390.88M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,SII.TO,Financial Services,Asset Management,Sprott Inc.,EQUITY,success
+287,BYD,Boyd Group Services Inc.,4.59B,165.85,0.61%,4.31B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,BYD.TO,Consumer Cyclical,Auto & Truck Dealerships,Boyd Group Services Inc.,EQUITY,success
+288,PPTA,Perpetua Resources Corp.,4.59B,37.37,1.91%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,PPTA.TO,Basic Materials,Other Precious Metals & Mining,Perpetua Resources Corp.,EQUITY,success
+289,EFX,Enerflex Ltd.,4.56B,37.51,0.40%,3.53B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,EFX.TO,Energy,Oil & Gas Equipment & Services,Enerflex Ltd.,EQUITY,success
+290,CG,Centerra Gold Inc.,4.51B,22.93,0.88%,2.19B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,CG.TO,Basic Materials,Gold,Centerra Gold Inc.,EQUITY,success
+291,POU,Paramount Resources Ltd.,4.51B,30.98,-0.35%,965.70M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,POU.TO,Energy,Oil & Gas E&P,Paramount Resources Ltd.,EQUITY,success
+292,BB,BlackBerry Limited,4.48B,7.75,1.71%,748.79M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,BB.TO,Technology,Software - Infrastructure,BlackBerry Limited,EQUITY,success
+293,SJ,Stella-Jones Inc.,4.44B,81.58,0.16%,3.49B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,SJ.TO,Basic Materials,Lumber & Wood Production,Stella-Jones Inc.,EQUITY,success
+294,PBH,Premium Brands Holdings Corporation,4.33B,82.55,-0.82%,7.48B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,PBH.TO,Consumer Defensive,Packaged Foods,Premium Brands Holdings Corporation,EQUITY,success
+295,EQB,EQB Inc.,4.31B,122.24,0.81%,1.09B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,EQB.TO,Financial Services,Banks - Regional,EQB Inc.,EQUITY,success
+296,ATS,ATS Corporation,4.29B,45.68,4.44%,2.80B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,ATS.TO,Industrials,Specialty Industrial Machinery,ATS Corporation,EQUITY,success
+297,PDI,Predictive Discovery Limited,4.27B,0.86,-7.53%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,PDI.TO,Basic Materials,Gold,Predictive Discovery Limited,EQUITY,success
+298,IPCO,International Petroleum Corporation,4.25B,37.43,-0.64%,934.42M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,IPCO.TO,Energy,Oil & Gas E&P,International Petroleum Corporation,EQUITY,success
+299,CRT.UN,CT Real Estate Investment Trust,4.16B,17.51,0.17%,604.25M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,CRT-UN.TO,Real Estate,REIT - Retail,CT Real Estate Investment Trust,EQUITY,success
+300,SEA,Seabridge Gold Inc.,4.12B,38.47,0.26%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,SEA.TO,Basic Materials,Gold,Seabridge Gold Inc.,EQUITY,success
+301,SRU.UN,SmartCentres Real Estate Investment Trust,4.10B,28.4,0.21%,935.00M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,SRU-UN.TO,Real Estate,REIT - Retail,SmartCentres Real Estate Investment Trust,EQUITY,success
+302,KXS,Kinaxis Inc.,4.00B,141.98,-1.88%,751.41M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,KXS.TO,Technology,Software - Application,Kinaxis Inc.,EQUITY,success
+303,CEU,CES Energy Solutions Corp.,3.99B,19,0.42%,2.49B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,CEU.TO,Energy,Oil & Gas Equipment & Services,CES Energy Solutions Corp.,EQUITY,success
+304,FVI,Fortuna Mining Corp.,3.82B,12.64,0.88%,1.30B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,FVI.TO,Basic Materials,Gold,Fortuna Mining Corp.,EQUITY,success
+305,BLX,Boralex Inc.,3.78B,36.84,0.27%,849.00M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,BLX.TO,Utilities,Utilities - Renewable,Boralex Inc.,EQUITY,success
+306,ARE,Aecon Group Inc.,3.73B,55.17,1.29%,5.63B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,ARE.TO,Industrials,Engineering & Construction,Aecon Group Inc.,EQUITY,success
+307,EDR,Endeavour Silver Corp.,3.66B,11.93,-3.56%,641.00M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,EDR.TO,Basic Materials,Silver,Endeavour Silver Corp.,EQUITY,success
+308,SVM,Silvercorp Metals Inc.,3.66B,16.62,0.24%,501.68M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,SVM.TO,Basic Materials,Silver,Silvercorp Metals Inc.,EQUITY,success
+309,HPS.A,Hammond Power Solutions Inc.,3.50B,296,0.68%,898.26M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,HPS-A.TO,Industrials,Electrical Equipment & Parts,Hammond Power Solutions Inc.,EQUITY,success
+310,CURA,"Curaleaf Holdings, Inc.",3.48B,4.55,2.25%,1.74B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,CURA.TO,Healthcare,Drug Manufacturers - Specialty & Generic,"Curaleaf Holdings, Inc.",EQUITY,success
+311,MFI,Maple Leaf Foods Inc.,3.48B,27.98,0.11%,3.91B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,MFI.TO,Consumer Defensive,Packaged Foods,Maple Leaf Foods Inc.,EQUITY,success
+312,ERO,Ero Copper Corp.,3.48B,35.05,5.10%,1.08B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,ERO.TO,Basic Materials,Copper,Ero Copper Corp.,EQUITY,success
+313,AYA,Aya Gold & Silver Inc.,3.47B,24.08,-0.78%,277.11M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,AYA.TO,Basic Materials,Silver,Aya Gold & Silver Inc.,EQUITY,success
+314,WDO,Wesdome Gold Mines Ltd.,3.44B,23.75,2.46%,914.33M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,WDO.TO,Basic Materials,Gold,Wesdome Gold Mines Ltd.,EQUITY,success
+315,TKO,Taseko Mines Limited,3.42B,9.39,0.43%,672.90M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,TKO.TO,Basic Materials,Copper,Taseko Mines Limited,EQUITY,success
+316,FIH.U,Fairfax India Holdings Corporation,3.26B,17.51,-1.90%,873.15M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,FIH-U.TO,Financial Services,Asset Management,Fairfax India Holdings Corporation,EQUITY,success
+317,BEI.UN,Boardwalk Real Estate Investment Trust,3.19B,67.02,0.65%,635.95M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,BEI-UN.TO,Real Estate,REIT - Residential,Boardwalk Real Estate Investment Trust,EQUITY,success
+318,VNP,5N Plus Inc.,3.19B,35.12,-0.90%,536.19M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,VNP.TO,Basic Materials,Specialty Chemicals,5N Plus Inc.,EQUITY,success
+319,CRR.UN,Crombie Real Estate Investment Trust,3.18B,17.12,0.94%,498.18M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,CRR-UN.TO,Real Estate,REIT - Diversified,Crombie Real Estate Investment Trust,EQUITY,success
+320,HWX,Headwater Exploration Inc.,3.15B,13.16,-0.75%,522.68M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,HWX.TO,Energy,Oil & Gas E&P,Headwater Exploration Inc.,EQUITY,success
+321,BDT,Bird Construction Inc.,3.02B,55.14,1.11%,3.40B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,BDT.TO,Industrials,Engineering & Construction,Bird Construction Inc.,EQUITY,success
+322,FRU,Freehold Royalties Ltd.,2.92B,17.81,0.17%,313.46M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,FRU.TO,Energy,Oil & Gas E&P,Freehold Royalties Ltd.,EQUITY,success
+323,RUS,Russel Metals Inc.,2.91B,53.18,0.26%,4.64B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,RUS.TO,Industrials,Industrial Distribution,Russel Metals Inc.,EQUITY,success
+324,TVK,TerraVest Industries Inc.,2.86B,130.47,-1.17%,1.54B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,TVK.TO,Energy,Oil & Gas Equipment & Services,TerraVest Industries Inc.,EQUITY,success
+325,EXE,Extendicare Inc.,2.86B,30.48,0.59%,1.66B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,EXE.TO,Healthcare,Medical Care Facilities,Extendicare Inc.,EQUITY,success
+326,ALS,Altius Minerals Corporation,2.84B,51.24,0.45%,53.75M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,ALS.TO,Basic Materials,Other Industrial Metals & Mining,Altius Minerals Corporation,EQUITY,success
+327,BHC,Bausch Health Companies Inc.,2.81B,7.79,3.66%,14.70B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,BHC.TO,Healthcare,Drug Manufacturers - Specialty & Generic,Bausch Health Companies Inc.,EQUITY,success
+328,VET,Vermilion Energy Inc.,2.81B,18.23,-0.92%,1.70B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,VET.TO,Energy,Oil & Gas E&P,Vermilion Energy Inc.,EQUITY,success
+329,HR.UN,H&R Real Estate Investment Trust,2.79B,10.61,0.76%,879.51M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,HR-UN.TO,Real Estate,REIT - Diversified,H&R Real Estate Investment Trust,EQUITY,success
+330,SDE,Spartan Delta Corp.,2.77B,13.67,-0.07%,369.97M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,SDE.TO,Energy,Oil & Gas E&P,Spartan Delta Corp.,EQUITY,success
+331,PXT,Parex Resources Inc.,2.72B,29.7,4.95%,1.22B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,PXT.TO,Energy,Oil & Gas E&P,Parex Resources Inc.,EQUITY,success
+332,BDGI,Badger Infrastructure Solutions Ltd.,2.70B,81.83,2.01%,1.20B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,BDGI.TO,Industrials,Engineering & Construction,Badger Infrastructure Solutions Ltd.,EQUITY,success
+333,CIA,Champion Iron Limited,2.68B,4.775,1.17%,1.78B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,CIA.TO,Basic Materials,Steel,Champion Iron Limited,EQUITY,success
+334,KEEL,Keel Infrastructure Corp.,2.67B,4.545,3.06%,314.36M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,KEEL.TO,Technology,Information Technology Services,Keel Infrastructure Corp.,EQUITY,success
+335,GTWO,G2 Goldfields Inc.,2.66B,10.6,2.81%,1.34M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,GTWO.TO,Basic Materials,Gold,G2 Goldfields Inc.,EQUITY,success
+336,IE,Ivanhoe Electric Inc.,2.66B,17.23,0.76%,4.45M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,IE.TO,Basic Materials,Copper,Ivanhoe Electric Inc.,EQUITY,success
+337,CCA,Cogeco Communications Inc.,2.65B,62.85,-0.19%,2.84B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,CCA.TO,Communication Services,Telecom Services,Cogeco Communications Inc.,EQUITY,success
+338,LAC,Lithium Americas Corp.,2.62B,7.61,1.06%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,LAC.TO,Basic Materials,Other Industrial Metals & Mining,Lithium Americas Corp.,EQUITY,success
+339,ABRA,AbraSilver Resource Corp.,2.61B,16.34,0.86%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,ABRA.TO,Basic Materials,Other Precious Metals & Mining,AbraSilver Resource Corp.,EQUITY,success
+340,SGD,Snowline Gold Corp.,2.60B,14.82,0.07%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,SGD.TO,Basic Materials,Gold,Snowline Gold Corp.,EQUITY,success
+341,USA,Americas Gold and Silver Corporation,2.60B,7.78,-2.57%,161.70M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,USA.TO,Basic Materials,Other Industrial Metals & Mining,Americas Gold and Silver Corporation,EQUITY,success
+342,SIA,Sienna Senior Living Inc.,2.51B,23.91,0.93%,1.00B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,SIA.TO,Healthcare,Medical Care Facilities,Sienna Senior Living Inc.,EQUITY,success
+343,NFI,NFI Group Inc.,2.51B,21.15,0.43%,4.94B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,NFI.TO,Consumer Cyclical,Auto Manufacturers,NFI Group Inc.,EQUITY,success
+344,SXGC,Southern Cross Gold Consolidated Ltd.,2.49B,9.34,0.86%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,SXGC.TO,Basic Materials,Gold,Southern Cross Gold Consolidated Ltd.,EQUITY,success
+345,RUP,Rupert Resources Ltd.,2.41B,10.19,-0.29%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,RUP.TO,Basic Materials,Gold,Rupert Resources Ltd.,EQUITY,success
+346,NWC,The North West Company Inc.,2.38B,49.72,-0.88%,2.60B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,NWC.TO,Consumer Defensive,Grocery Stores,The North West Company Inc.,EQUITY,success
+347,WPK,Winpak Ltd.,2.33B,39.98,0.45%,1.55B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,WPK.TO,Consumer Cyclical,Packaging & Containers,Winpak Ltd.,EQUITY,success
+348,LAR,Lithium Argentina AG,2.30B,14.35,2.21%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,LAR.TO,Basic Materials,Other Industrial Metals & Mining,Lithium Argentina AG,EQUITY,success
+349,WTE,Westshore Terminals Investment Corporation,2.21B,35.41,-1.17%,323.00M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,WTE.TO,Industrials,Marine Shipping,Westshore Terminals Investment Corporation,EQUITY,success
+350,PMZ.UN,Primaris Real Estate Investment Trust,2.21B,18.94,0.66%,675.29M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,PMZ-UN.TO,Real Estate,REIT - Retail,Primaris Real Estate Investment Trust,EQUITY,success
+351,SLS,Solaris Resources Inc.,2.21B,13.19,-0.23%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,SLS.TO,Basic Materials,Other Precious Metals & Mining,Solaris Resources Inc.,EQUITY,success
+352,CJ,Cardinal Energy Ltd.,2.19B,12.43,-0.48%,439.43M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,CJ.TO,Energy,Oil & Gas E&P,Cardinal Energy Ltd.,EQUITY,success
+353,CNL,Collective Mining Ltd.,2.18B,23.31,-1.02%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,CNL.TO,Basic Materials,Gold,Collective Mining Ltd.,EQUITY,success
+354,TNZ,Tenaz Energy Corp.,2.14B,65.79,-0.84%,284.13M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,TNZ.TO,Energy,Oil & Gas E&P,Tenaz Energy Corp.,EQUITY,success
+355,RCH,Richelieu Hardware Ltd.,2.12B,38.67,0.35%,1.99B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,RCH.TO,Industrials,Tools & Accessories,Richelieu Hardware Ltd.,EQUITY,success
+356,SIS,Savaria Corporation,2.10B,29.43,1.00%,913.53M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,SIS.TO,Industrials,Specialty Industrial Machinery,Savaria Corporation,EQUITY,success
+357,TSU,Trisura Group Ltd.,2.09B,44.22,0.50%,3.20B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,TSU.TO,Financial Services,Insurance - Specialty,Trisura Group Ltd.,EQUITY,success
+358,KMP.UN,Killam Apartment REIT,2.09B,17.15,0.41%,385.63M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,KMP-UN.TO,Real Estate,REIT - Residential,Killam Apartment REIT,EQUITY,success
+359,TOY,Spin Master Corp.,2.07B,20.63,0.49%,2.91B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,TOY.TO,Consumer Cyclical,Leisure,Spin Master Corp.,EQUITY,success
+360,KEL,Kelt Exploration Ltd.,2.06B,10,-2.06%,466.99M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,KEL.TO,Energy,Oil & Gas E&P,Kelt Exploration Ltd.,EQUITY,success
+361,MTL,Mullen Group Ltd.,1.97B,20.62,0.34%,2.18B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,MTL.TO,Industrials,Trucking,Mullen Group Ltd.,EQUITY,success
+362,ALK,Alkane Resources Ltd,1.97B,1.44,1.41%,498.27M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,ALK.TO,Basic Materials,Gold,,EQUITY,success
+363,CHE.UN,Chemtrade Logistics Income Fund,1.92B,17.2,0.23%,2.00B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,CHE-UN.TO,Basic Materials,Chemicals,Chemtrade Logistics Income Fund,EQUITY,success
+364,AP.UN,Allied Properties Real Estate Investment Trust,1.85B,9.42,-0.53%,585.67M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,AP-UN.TO,Real Estate,REIT - Office,Allied Properties Real Estate Investment Trust,EQUITY,success
+365,IIP.UN,InterRent Real Estate Investment Trust,1.84B,13.13,-0.38%,247.48M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,IIP-UN.TO,Real Estate,REIT - Residential,InterRent Real Estate Investment Trust,EQUITY,success
+366,LB,Laurentian Bank of Canada,1.81B,40.36,-0.06%,923.23M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,LB.TO,Financial Services,Banks - Regional,Laurentian Bank of Canada,EQUITY,success
+367,BIR,Birchcliff Energy Ltd.,1.79B,6.49,-0.31%,695.67M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,BIR.TO,Energy,Oil & Gas E&P,Birchcliff Energy Ltd.,EQUITY,success
+368,LIF,Labrador Iron Ore Royalty Corporation,1.79B,27.52,-1.71%,165.59M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,LIF.TO,Basic Materials,Steel,Labrador Iron Ore Royalty Corporation,EQUITY,success
+369,LSPD,Lightspeed Commerce Inc.,1.78B,12.84,-1.23%,1.63B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,LSPD.TO,Technology,Software - Application,Lightspeed Commerce Inc.,EQUITY,success
+370,LNF,Leon's Furniture Limited,1.78B,26.1,1.08%,2.57B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,LNF.TO,Consumer Cyclical,Specialty Retail,Leon's Furniture Limited,EQUITY,success
+371,AAV,Advantage Energy Ltd.,1.73B,10.33,0.29%,637.01M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,AAV.TO,Energy,Oil & Gas E&P,Advantage Energy Ltd.,EQUITY,success
+372,IAU,i-80 Gold Corp.,1.71B,2.03,-,130.52M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,IAU.TO,Basic Materials,Gold,i-80 Gold Corp.,EQUITY,success
+373,MER,Meren Energy Inc.,1.70B,2.455,-2.19%,770.71M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,MER.TO,Energy,Oil & Gas E&P,Meren Energy Inc.,EQUITY,success
+374,PD,Precision Drilling Corporation,1.69B,127.96,-1.72%,1.84B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,PD.TO,Energy,Oil & Gas Drilling,Precision Drilling Corporation,EQUITY,success
+375,MUX,McEwen Inc.,1.65B,27.96,0.47%,270.87M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,MUX.TO,Basic Materials,Other Precious Metals & Mining,McEwen Inc.,EQUITY,success
+376,VMET,Versamet Royalties Corporation,1.65B,15.21,-0.33%,47.66M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,VMET.TO,Basic Materials,Other Precious Metals & Mining,Versamet Royalties Corporation,EQUITY,success
+377,MEQ,Mainstreet Equity Corp.,1.64B,179.29,1.59%,279.56M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,MEQ.TO,Real Estate,Real Estate Services,Mainstreet Equity Corp.,EQUITY,success
+378,AIF,Altus Group Limited,1.64B,44.92,-1.30%,502.89M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,AIF.TO,Real Estate,Real Estate Services,Altus Group Limited,EQUITY,success
+379,SPB,Superior Plus Corp.,1.60B,7.48,0.27%,3.37B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,SPB.TO,Utilities,Utilities - Regulated Gas,Superior Plus Corp.,EQUITY,success
+380,VZLA,Vizsla Silver Corp.,1.60B,4.48,-1.97%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,VZLA.TO,Basic Materials,Other Industrial Metals & Mining,Vizsla Silver Corp.,EQUITY,success
+381,NDM,Northern Dynasty Minerals Ltd.,1.58B,2.81,-0.35%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,NDM.TO,Basic Materials,Other Industrial Metals & Mining,Northern Dynasty Minerals Ltd.,EQUITY,success
+382,RGSI,Rockpoint Gas Storage Inc.,1.56B,29.39,0.03%,541.46M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,RGSI.TO,Utilities,Utilities - Regulated Gas,,EQUITY,success
+383,SVI,StorageVault Canada Inc.,1.56B,4.28,0.23%,344.00M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,SVI.TO,Real Estate,Real Estate Services,StorageVault Canada Inc.,EQUITY,success
+384,HSLV,Highlander Silver Corp.,1.53B,7.64,1.60%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,HSLV.TO,Basic Materials,Silver,Highlander Silver Corp.,EQUITY,success
+385,LAS.A,Lassonde Industries Inc.,1.52B,223.52,-,2.93B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,LAS-A.TO,Consumer Defensive,Beverages - Non-Alcoholic,Lassonde Industries Inc.,EQUITY,success
+386,ELE,Elemental Royalty Corporation,1.50B,23.38,1.96%,59.84M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,ELE.TO,Basic Materials,Other Precious Metals & Mining,Elemental Royalty Corporation,EQUITY,success
+387,TCW,Trican Well Service Ltd.,1.50B,7.14,0.14%,1.10B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,TCW.TO,Energy,Oil & Gas Equipment & Services,Trican Well Service Ltd.,EQUITY,success
+388,ASCU,Arizona Sonoran Copper Company Inc.,1.50B,7.33,2.37%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,ASCU.TO,Basic Materials,Copper,Arizona Sonoran Copper Company Inc.,EQUITY,success
+389,GOOS,Canada Goose Holdings Inc.,1.47B,15.55,2.50%,1.46B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,GOOS.TO,Consumer Cyclical,Apparel Manufacturing,Canada Goose Holdings Inc.,EQUITY,success
+390,MSA,Mineros S.A.,1.47B,5.03,1.62%,1.10B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,MSA.TO,Basic Materials,Gold,Mineros S.A.,EQUITY,success
+391,ASM,Avino Silver & Gold Mines Ltd.,1.45B,8.58,-0.46%,126.45M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,ASM.TO,Basic Materials,Other Precious Metals & Mining,Avino Silver & Gold Mines Ltd.,EQUITY,success
+392,NUAG,New Pacific Metals Corp.,1.44B,7.9,1.02%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,NUAG.TO,Basic Materials,Silver,New Pacific Metals Corp.,EQUITY,success
+393,MAL,Magellan Aerospace Corporation,1.44B,25.1,-0.28%,1.04B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,MAL.TO,Industrials,Aerospace & Defense,Magellan Aerospace Corporation,EQUITY,success
+394,VLE,Valeura Energy Inc.,1.44B,13.41,-0.89%,817.90M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,VLE.TO,Energy,Oil & Gas E&P,Valeura Energy Inc.,EQUITY,success
+395,RIO,Rio2 Limited,1.40B,2.57,-,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,RIO.TO,Basic Materials,Gold,Rio2 Limited,EQUITY,success
+396,PET,Pet Valu Holdings Ltd.,1.40B,20.61,0.73%,1.18B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,PET.TO,Consumer Cyclical,Specialty Retail,Pet Valu Holdings Ltd.,EQUITY,success
+397,JWEL,Jamieson Wellness Inc.,1.39B,33.87,0.74%,822.06M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,JWEL.TO,Consumer Defensive,Packaged Foods,Jamieson Wellness Inc.,EQUITY,success
+398,CFP,Canfor Corporation,1.38B,11.87,0.81%,5.34B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,CFP.TO,Basic Materials,Lumber & Wood Production,Canfor Corporation,EQUITY,success
+399,VITL.UN,Vital Infrastructure Property Trust,1.37B,5.47,-1.26%,458.16M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,VITL-UN.TO,Real Estate,REIT - Healthcare Facilities,Vital Infrastructure Property Trust,EQUITY,success
+400,CRON,Cronos Group Inc.,1.37B,3.65,0.55%,200.99M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,CRON.TO,Healthcare,Drug Manufacturers - Specialty & Generic,Cronos Group Inc.,EQUITY,success
+401,BLDP,Ballard Power Systems Inc.,1.35B,5.47,21.83%,136.25M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,BLDP.TO,Industrials,Electrical Equipment & Parts,Ballard Power Systems Inc.,EQUITY,success
+402,OBE,Obsidian Energy Ltd.,1.33B,19.02,-3.21%,540.80M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,OBE.TO,Energy,Oil & Gas E&P,Obsidian Energy Ltd.,EQUITY,success
+403,FDY,Faraday Copper Corp.,1.31B,4.57,1.33%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,FDY.TO,Basic Materials,Copper,Faraday Copper Corp.,EQUITY,success
+404,FFM,FireFly Metals Ltd,1.31B,1.8,-,9.25M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,FFM.TO,Basic Materials,Other Industrial Metals & Mining,,EQUITY,success
+405,SOIL,Saturn Oil & Gas Inc.,1.30B,7.04,-1.95%,881.65M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,SOIL.TO,Energy,Oil & Gas E&P,Saturn Oil & Gas Inc.,EQUITY,success
+406,ORE,Orezone Gold Corporation,1.30B,1.99,2.05%,516.40M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,ORE.TO,Basic Materials,Gold,Orezone Gold Corporation,EQUITY,success
+407,SFC,Sagicor Financial Company Ltd.,1.29B,9.49,-0.11%,1.97B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,SFC.TO,Financial Services,Insurance - Life,Sagicor Financial Company Ltd.,EQUITY,success
+408,MRC,Morguard Corporation,1.28B,120.15,-0.29%,1.12B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,MRC.TO,Real Estate,Real Estate - Diversified,Morguard Corporation,EQUITY,success
+409,MDI,Major Drilling Group International Inc.,1.26B,15.53,1.11%,842.94M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,MDI.TO,Basic Materials,Other Industrial Metals & Mining,Major Drilling Group International Inc.,EQUITY,success
+410,LMCU,Lumina Metals Corp.,1.23B,11.38,-8.23%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,LMCU.TO,Basic Materials,Other Industrial Metals & Mining,,EQUITY,success
+411,ET,Evertz Technologies Limited,1.21B,16.11,0.19%,512.02M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,ET.TO,Technology,Communication Equipment,Evertz Technologies Limited,EQUITY,success
+412,CF,Canaccord Genuity Group Inc.,1.21B,12.2,1.50%,1.95B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,CF.TO,Financial Services,Capital Markets,Canaccord Genuity Group Inc.,EQUITY,success
+413,CJT,Cargojet Inc.,1.20B,77.81,3.13%,997.50M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,CJT.TO,Industrials,Integrated Freight & Logistics,Cargojet Inc.,EQUITY,success
+414,AGTF,AGT Food and Ingredients Inc.,1.16B,17.1,-1.33%,2.96B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,AGTF.TO,Consumer Defensive,Farm Products,AGT Food and Ingredients Inc.,EQUITY,success
+415,NEO,Neo Performance Materials Inc.,1.15B,28.2,2.77%,656.48M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,NEO.TO,Basic Materials,Specialty Chemicals,Neo Performance Materials Inc.,EQUITY,success
+416,III,Imperial Metals Corporation,1.14B,6.52,1.56%,691.78M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,III.TO,Basic Materials,Copper,Imperial Metals Corporation,EQUITY,success
+417,ARA,Aclara Resources Inc.,1.14B,4.64,-1.49%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,ARA.TO,Basic Materials,Other Industrial Metals & Mining,Aclara Resources Inc.,EQUITY,success
+418,BDI,Black Diamond Group Limited,1.13B,16.42,0.37%,484.67M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,BDI.TO,Industrials,Rental & Leasing Services,Black Diamond Group Limited,EQUITY,success
+419,PMET,PMET Resources Inc.,1.12B,6.47,5.72%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,PMET.TO,Basic Materials,Other Industrial Metals & Mining,PMET Resources Inc.,EQUITY,success
+420,GGD,GoGold Resources Inc.,1.12B,2.625,1.35%,115.87M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,GGD.TO,Basic Materials,Other Precious Metals & Mining,GoGold Resources Inc.,EQUITY,success
+421,OM,Osisko Metals Incorporated,1.12B,1.525,0.33%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,OM.TO,Basic Materials,Other Industrial Metals & Mining,Osisko Metals Incorporated,EQUITY,success
+422,GFR,Greenfire Resources Ltd.,1.11B,8.74,-1.02%,584.40M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,GFR.TO,Energy,Oil & Gas E&P,Greenfire Resources Ltd.,EQUITY,success
+423,KEC,Kiwetinohk Energy Corp.,1.11B,24.73,0.12%,586.66M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,KEC.TO,,,Kiwetinohk Energy Corp.,EQUITY,success
+424,WELL,WELL Health Technologies Corp.,1.10B,4.31,-,1.40B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,WELL.TO,Healthcare,Medical Care Facilities,WELL Health Technologies Corp.,EQUITY,success
+425,RFA,RFA Financial Inc.,1.10B,23.58,-0.92%,199.77M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,RFA.TO,Real Estate,REIT - Diversified,RFA Financial Inc.,EQUITY,success
+426,ATX,ATEX Resources Inc.,1.09B,2.9,-4.29%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,ATX.TO,Basic Materials,Gold,ATEX Resources Inc.,EQUITY,success
+427,CAS,Cascades Inc.,1.08B,10.81,1.12%,4.78B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,CAS.TO,Consumer Cyclical,Packaging & Containers,Cascades Inc.,EQUITY,success
+428,TLO,Talon Metals Corp.,1.08B,6.73,-2.18%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,TLO.TO,Basic Materials,Other Industrial Metals & Mining,Talon Metals Corp.,EQUITY,success
+429,PSI,Pason Systems Inc.,1.06B,14.99,9.42%,419.27M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,PSI.TO,Energy,Oil & Gas Equipment & Services,Pason Systems Inc.,EQUITY,success
+430,SOY,SunOpta Inc.,1.04B,8.91,1.37%,1.12B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,SOY.TO,Consumer Defensive,Beverages - Non-Alcoholic,SunOpta Inc.,EQUITY,success
+431,MARI,Marimaca Copper Corp.,1.03B,7.82,1.82%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,MARI.TO,Basic Materials,Copper,Marimaca Copper Corp.,EQUITY,success
+432,TMQ,Trilogy Metals Inc.,1.03B,5.85,-0.51%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,TMQ.TO,Basic Materials,Other Industrial Metals & Mining,Trilogy Metals Inc.,EQUITY,success
+433,AGF.B,AGF Management Limited,1.03B,15.95,0.06%,573.67M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,AGF-B.TO,Financial Services,Asset Management,AGF Management Limited,EQUITY,success
+434,CVG,Clairvest Group Inc.,1.02B,75.03,-,129.17M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,CVG.TO,Financial Services,Asset Management,Clairvest Group Inc.,EQUITY,success
+435,MKP,MCAN Mortgage Corporation,1.01B,25.16,1.04%,142.77M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,MKP.TO,Financial Services,Mortgage Finance,MCAN Mortgage Corporation,EQUITY,success
+436,FEC,Frontera Energy Corporation,1.01B,14.63,-0.20%,1.37B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,FEC.TO,Energy,Oil & Gas E&P,Frontera Energy Corporation,EQUITY,success
+437,AD.UN,Alaris Equity Partners Income Trust,1.01B,22.47,0.99%,176.70M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,AD-UN.TO,Financial Services,Asset Management,Alaris Equity Partners Income Trust,EQUITY,success
+438,RAY,Stingray Group Inc.,1.01B,14.93,1.01%,429.75M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,RAY.TO,Communication Services,Broadcasting,Stingray Group Inc.,EQUITY,success
+439,SGY,Surge Energy Inc.,994.34M,9.93,-1.29%,480.72M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,SGY.TO,Energy,Oil & Gas E&P,Surge Energy Inc.,EQUITY,success
+440,TSAT,Telesat Corporation,981.85M,64.59,-2.62%,417.96M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,TSAT.TO,Technology,Communication Equipment,Telesat Corporation,EQUITY,success
+441,CTGO,Contango Silver & Gold Inc.,978.00M,31.04,-1.62%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,CTGO.TO,Basic Materials,Gold,Contango Silver & Gold Inc.,EQUITY,success
+442,ARG,Amerigo Resources Ltd.,974.02M,6.06,0.66%,347.99M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,ARG.TO,Basic Materials,Copper,Amerigo Resources Ltd.,EQUITY,success
+443,ISO,IsoEnergy Ltd.,962.39M,15.88,2.25%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,ISO.TO,Energy,Uranium,IsoEnergy Ltd.,EQUITY,success
+444,ENGH,Enghouse Systems Limited,961.56M,17.82,0.79%,494.98M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,ENGH.TO,Technology,Software - Application,Enghouse Systems Limited,EQUITY,success
+445,TLRY,"Tilray Brands, Inc.",957.46M,7.8,-3.47%,1.17B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,TLRY.TO,Healthcare,Drug Manufacturers - Specialty & Generic,"Tilray Brands, Inc.",EQUITY,success
+446,SGR.U,Slate Grocery REIT,957.08M,11.78,-0.59%,307.24M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,SGR-U.TO,Real Estate,REIT - Retail,Slate Grocery REIT,EQUITY,success
+447,SGR.UN,Slate Grocery REIT,957.08M,16.23,0.50%,307.24M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,SGR-UN.TO,Real Estate,REIT - Retail,Slate Grocery REIT,EQUITY,success
+448,URE,Ur-Energy Inc.,949.62M,2.385,-0.21%,37.30M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,URE.TO,Energy,Uranium,Ur-Energy Inc.,EQUITY,success
+449,APM,Andean Precious Metals Corp.,918.74M,6.07,-0.49%,493.37M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,APM.TO,Basic Materials,Silver,Andean Precious Metals Corp.,EQUITY,success
+450,MTY,MTY Food Group Inc.,918.45M,40.18,0.85%,1.17B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,MTY.TO,Consumer Cyclical,Restaurants,MTY Food Group Inc.,EQUITY,success
+451,DHT.UN,DRI Healthcare Trust,897.33M,16.31,-0.25%,263.00M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,DHT-UN.TO,Healthcare,Drug Manufacturers - Specialty & Generic,DRI Healthcare Trust,EQUITY,success
+452,SEC,Senvest Capital Inc.,896.19M,370,-,585.44M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,SEC.TO,Financial Services,Asset Management,Senvest Capital Inc.,EQUITY,success
+453,ALC,Algoma Central Corporation,892.49M,22,-,761.06M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,ALC.TO,Industrials,Marine Shipping,Algoma Central Corporation,EQUITY,success
+454,TOT,Total Energy Services Inc.,891.73M,24.19,-0.41%,1.06B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,TOT.TO,Energy,Oil & Gas Equipment & Services,Total Energy Services Inc.,EQUITY,success
+455,DBM,Doman Building Materials Group Ltd.,879.39M,10.09,0.70%,3.12B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,DBM.TO,Industrials,Industrial Distribution,Doman Building Materials Group Ltd.,EQUITY,success
+456,TLG,Troilus Mining Corp.,873.99M,1.64,3.14%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,TLG.TO,Basic Materials,Other Industrial Metals & Mining,Troilus Mining Corp.,EQUITY,success
+457,AW,A & W Food Services of Canada Inc.,873.66M,36.66,0.71%,294.10M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,AW.TO,Consumer Cyclical,Restaurants,A & W Food Services of Canada Inc.,EQUITY,success
+458,PRL,Propel Holdings Inc.,862.02M,24.23,10.64%,861.17M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,PRL.TO,Financial Services,Credit Services,Propel Holdings Inc.,EQUITY,success
+459,WRN,Western Copper and Gold Corporation,852.88M,3.845,1.72%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,WRN.TO,Basic Materials,Other Industrial Metals & Mining,Western Copper and Gold Corporation,EQUITY,success
+460,ISC,Information Services Corporation,847.13M,45.3,1.15%,257.77M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,ISC.TO,Industrials,Specialty Business Services,Information Services Corporation,EQUITY,success
+461,CUP.U,"Caribbean Utilities Company, Ltd.",838.35M,14.5,-,389.39M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,CUP-U.TO,Utilities,Utilities - Regulated Electric,"Caribbean Utilities Company, Ltd.",EQUITY,success
+462,RSI,Rogers Sugar Inc.,831.17M,6.53,0.77%,1.28B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,RSI.TO,Consumer Defensive,Confectioners,Rogers Sugar Inc.,EQUITY,success
+463,DCBO,Docebo Inc.,829.85M,28.5,-1.21%,332.75M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,DCBO.TO,Technology,Software - Application,Docebo Inc.,EQUITY,success
+464,ITH,International Tower Hill Mines Ltd.,816.31M,3.13,0.32%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,ITH.TO,Basic Materials,Gold,International Tower Hill Mines Ltd.,EQUITY,success
+465,ADEN,ADENTRA Inc.,805.82M,33.72,1.47%,3.08B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,ADEN.TO,Industrials,Industrial Distribution,ADENTRA Inc.,EQUITY,success
+466,GAU,Galiano Gold Inc.,805.35M,3.13,0.97%,450.33M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,GAU.TO,Basic Materials,Gold,Galiano Gold Inc.,EQUITY,success
+467,CGY,Calian Group Ltd.,804.93M,70.72,0.28%,797.06M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,CGY.TO,Industrials,Specialty Business Services,Calian Group Ltd.,EQUITY,success
+468,QRC,Queen's Road Capital Investment Ltd.,790.88M,15.5,-,458.78M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,QRC.TO,Financial Services,Asset Management,Queen's Road Capital Investment Ltd.,EQUITY,success
+469,VBNK,VersaBank,783.78M,25.36,3.76%,129.24M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,VBNK.TO,Financial Services,Banks - Regional,VersaBank,EQUITY,success
+470,BLN,Blackline Safety Corp.,782.15M,8.96,0.11%,151.64M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,BLN.TO,Technology,Software - Application,Blackline Safety Corp.,EQUITY,success
+471,MNO,Meridian Mining Plc,770.01M,1.695,0.89%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,MNO.TO,Basic Materials,Other Industrial Metals & Mining,Meridian Mining Plc,EQUITY,success
+472,DRM,Dream Unlimited Corp.,768.67M,18.65,2.08%,462.95M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,DRM.TO,Real Estate,Real Estate - Development,Dream Unlimited Corp.,EQUITY,success
+473,URC,Uranium Royalty Corp.,760.22M,5.22,0.58%,54.60M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,URC.TO,Energy,Uranium,Uranium Royalty Corp.,EQUITY,success
+474,DXT,Dexterra Group Inc.,742.09M,11.95,0.50%,1.04B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,DXT.TO,Industrials,Specialty Business Services,Dexterra Group Inc.,EQUITY,success
+475,GUD,Knight Therapeutics Inc.,741.80M,7.54,-0.13%,450.09M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,GUD.TO,Healthcare,Drug Manufacturers - Specialty & Generic,Knight Therapeutics Inc.,EQUITY,success
+476,WJX,Wajax Corporation,740.01M,28.99,-14.58%,2.15B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,WJX.TO,Industrials,Industrial Distribution,Wajax Corporation,EQUITY,success
+477,MRE,Martinrea International Inc.,733.04M,10.4,0.58%,4.82B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,MRE.TO,Consumer Cyclical,Auto Parts,Martinrea International Inc.,EQUITY,success
+478,DLCG,Dominion Lending Centres Inc.,732.61M,9.57,0.63%,96.27M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,DLCG.TO,Financial Services,Mortgage Finance,Dominion Lending Centres Inc.,EQUITY,success
+479,ESI,Ensign Energy Services Inc.,727.07M,3.93,-0.76%,1.64B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,ESI.TO,Energy,Oil & Gas Drilling,Ensign Energy Services Inc.,EQUITY,success
+480,LGD,Liberty Gold Corp.,725.21M,1.39,0.72%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,LGD.TO,Basic Materials,Gold,Liberty Gold Corp.,EQUITY,success
+481,DIV,Diversified Royalty Corp.,723.95M,4.34,2.60%,70.79M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,DIV.TO,Industrials,Specialty Business Services,Diversified Royalty Corp.,EQUITY,success
+482,BK,Canadian Banc Corp.,717.47M,14.75,0.75%,244.80M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,BK.TO,Financial Services,Asset Management,Canadian Banc Corp.,EQUITY,success
+483,CGX,Cineplex Inc.,705.63M,11.25,0.45%,1.28B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,CGX.TO,Communication Services,Entertainment,Cineplex Inc.,EQUITY,success
+484,BSX,Belo Sun Mining Corp,688.97M,1.23,-0.81%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,BSX.TO,Basic Materials,Gold,Belo Sun Mining Corp,EQUITY,success
+485,ASTL,Algoma Steel Group Inc.,673.82M,6.61,2.96%,2.09B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,ASTL.TO,Basic Materials,Steel,Algoma Steel Group Inc.,EQUITY,success
+486,MI.UN,Minto Apartment Real Estate Investment Trust,639.98M,17.49,0.11%,153.23M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,MI-UN.TO,Real Estate,REIT - Residential,Minto Apartment Real Estate Investment Trust,EQUITY,success
+487,ELVA,Electrovaya Inc.,636.54M,13.52,4.97%,93.53M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,ELVA.TO,Industrials,Electrical Equipment & Parts,Electrovaya Inc.,EQUITY,success
+488,FVL,Freegold Ventures Limited,635.47M,1.095,-0.45%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,FVL.TO,Basic Materials,Other Industrial Metals & Mining,Freegold Ventures Limited,EQUITY,success
+489,APR.UN,Automotive Properties Real Estate Investment Trust,625.67M,11.53,0.09%,101.84M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,APR-UN.TO,Real Estate,REIT - Specialty,Automotive Properties Real Estate Investment Trust,EQUITY,success
+490,ECOR,Ecora Royalties PLC,621.26M,2.53,2.85%,76.65M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,ECOR.TO,Basic Materials,Other Industrial Metals & Mining,Ecora Royalties PLC,EQUITY,success
+491,EPRX,Eupraxia Pharmaceuticals Inc.,619.95M,9.97,-1.09%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,EPRX.TO,Healthcare,Biotechnology,Eupraxia Pharmaceuticals Inc.,EQUITY,success
+492,IFP,Interfor Corporation,609.66M,9.41,1.51%,2.81B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,IFP.TO,Basic Materials,Lumber & Wood Production,Interfor Corporation,EQUITY,success
+493,FF,First Mining Gold Corp.,608.94M,0.448,1.70%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,FF.TO,Basic Materials,Gold,First Mining Gold Corp.,EQUITY,success
+494,TPX.A,Molson Coors Canada Inc.,605.14M,66,3.94%,2.89B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,TPX-A.TO,Consumer Defensive,Beverages - Brewers,Molson Coors Canada Inc.,EQUITY,success
+495,TPX.B,Molson Coors Canada Inc.,605.14M,60.38,-0.20%,2.89B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,TPX-B.TO,Consumer Defensive,Beverages - Brewers,Molson Coors Canada Inc.,EQUITY,success
+496,CGO,Cogeco Inc.,599.47M,63.14,-0.25%,2.94B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,CGO.TO,Communication Services,Telecom Services,Cogeco Inc.,EQUITY,success
+497,TWC,TWC Enterprises Limited,598.46M,24.78,1.06%,227.60M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,TWC.TO,Consumer Cyclical,Leisure,TWC Enterprises Limited,EQUITY,success
+498,FSZ,Fiera Capital Corporation,591.84M,5.67,1.61%,673.00M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,FSZ.TO,Financial Services,Asset Management,Fiera Capital Corporation,EQUITY,success
+499,MATR,Mattr Corp.,589.20M,9.62,0.21%,1.27B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,MATR.TO,Energy,Oil & Gas Equipment & Services,Mattr Corp.,EQUITY,success
+500,AI,Atrium Mortgage Investment Corporation,580.53M,12.17,0.91%,60.62M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/,AI.TO,Financial Services,Mortgage Finance,Atrium Mortgage Investment Corporation,EQUITY,success
+501,WEED,Canopy Growth Corporation,578.84M,1.51,-0.66%,278.39M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,WEED.TO,Healthcare,Drug Manufacturers - Specialty & Generic,Canopy Growth Corporation,EQUITY,success
+502,CHR,Chorus Aviation Inc.,578.25M,23.62,0.34%,1.32B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,CHR.TO,Industrials,Airports & Air Services,Chorus Aviation Inc.,EQUITY,success
+503,MRG.UN,Morguard North American Residential Real Estate Investment Trust,573.03M,16.4,-2.32%,356.61M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,MRG-UN.TO,Real Estate,REIT - Residential,Morguard North American Residential Real Estate Investment Trust,EQUITY,success
+504,PHX,PHX Energy Services Corp.,572.61M,12.45,-0.72%,709.60M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,PHX.TO,Energy,Oil & Gas Drilling,PHX Energy Services Corp.,EQUITY,success
+505,NXR.UN,Nexus Industrial REIT,572.39M,7.94,-0.38%,172.63M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,NXR-UN.TO,Real Estate,REIT - Industrial,Nexus Industrial REIT,EQUITY,success
+506,MRD,Melcor Developments Ltd.,555.69M,18.5,-,410.55M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,MRD.TO,Real Estate,Real Estate - Development,Melcor Developments Ltd.,EQUITY,success
+507,HOM.U,BSR Real Estate Investment Trust,553.87M,11.76,-0.76%,197.75M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,HOM-U.TO,Real Estate,REIT - Residential,BSR Real Estate Investment Trust,EQUITY,success
+508,HOM.UN,BSR Real Estate Investment Trust,553.87M,16.28,-0.25%,197.75M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,HOM-UN.TO,Real Estate,REIT - Residential,BSR Real Estate Investment Trust,EQUITY,success
+509,JAG,Jaguar Mining Inc.,550.38M,6.6,2.33%,185.33M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,JAG.TO,Basic Materials,Gold,Jaguar Mining Inc.,EQUITY,success
+510,CFW,Calfrac Well Services Ltd.,548.28M,5.6,2.56%,1.39B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,CFW.TO,Energy,Oil & Gas Equipment & Services,Calfrac Well Services Ltd.,EQUITY,success
+511,TF,Timbercreek Financial Corp.,547.00M,6.68,1.06%,54.82M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,TF.TO,Financial Services,Mortgage Finance,Timbercreek Financial Corp.,EQUITY,success
+512,NOA,North American Construction Group Ltd.,546.65M,20.1,1.26%,1.28B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,NOA.TO,Energy,Oil & Gas Equipment & Services,North American Construction Group Ltd.,EQUITY,success
+513,CPKR,Canada Packers Inc.,540.58M,18.39,1.07%,1.81B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,CPKR.TO,Consumer Defensive,Farm Products,,EQUITY,success
+514,TCS,Tecsys Inc.,538.29M,36.88,-0.86%,189.65M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,TCS.TO,Technology,Software - Application,Tecsys Inc.,EQUITY,success
+515,DTOL,D2L Inc.,530.79M,9.8,3.27%,294.98M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,DTOL.TO,Technology,Software - Application,D2L Inc.,EQUITY,success
+516,GO.U,GO Residential Real Estate Investment Trust,528.38M,10.38,2.27%,161.80M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,GO-U.TO,Real Estate,REIT - Residential,GO Residential Real Estate Investment Trust,EQUITY,success
+517,ACQ,AutoCanada Inc.,522.02M,22.78,0.44%,4.90B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,ACQ.TO,Consumer Cyclical,Auto & Truck Dealerships,AutoCanada Inc.,EQUITY,success
+518,ANRG,Anaergia Inc.,519.78M,3.16,4.29%,180.19M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,ANRG.TO,Industrials,Waste Management,Anaergia Inc.,EQUITY,success
+519,FTG,Firan Technology Group Corporation,518.07M,20.98,1.94%,195.43M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,FTG.TO,Industrials,Aerospace & Defense,Firan Technology Group Corporation,EQUITY,success
+520,BPF.UN,Boston Pizza Royalties Income Fund,513.88M,24.41,1.08%,51.89M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,BPF-UN.TO,Consumer Cyclical,Restaurants,Boston Pizza Royalties Income Fund,EQUITY,success
+521,GSY,goeasy Ltd.,513.56M,32.16,0.41%,506.32M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,GSY.TO,Financial Services,Credit Services,goeasy Ltd.,EQUITY,success
+522,WFC,Wall Financial Corporation,510.54M,16,-,179.24M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,WFC.TO,Consumer Cyclical,Lodging,Wall Financial Corporation,EQUITY,success
+523,CLCH,Clinch Resources Ltd.,508.10M,1.43,2.88%,2.37M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,CLCH.TO,Basic Materials,Steel,,EQUITY,success
+524,VHI,Vitalhub Corp.,507.97M,8.01,-0.25%,108.97M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,VHI.TO,Healthcare,Health Information Services,Vitalhub Corp.,EQUITY,success
+525,IPO,InPlay Oil Corp.,505.77M,17.77,-1.61%,251.82M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,IPO.TO,Energy,Oil & Gas E&P,InPlay Oil Corp.,EQUITY,success
+526,MHC.U,Flagship Communities Real Estate Investment Trust,503.87M,19.37,1.41%,141.75M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,MHC-U.TO,Real Estate,REIT - Residential,Flagship Communities Real Estate Investment Trust,EQUITY,success
+527,MHC.UN,Flagship Communities Real Estate Investment Trust,503.87M,26.49,2.00%,141.75M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,MHC-UN.TO,Real Estate,REIT - Residential,Flagship Communities Real Estate Investment Trust,EQUITY,success
+528,KBL,K-Bro Linen Inc.,503.16M,39.02,0.05%,506.78M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,KBL.TO,Industrials,Specialty Business Services,K-Bro Linen Inc.,EQUITY,success
+529,VOXR,Vox Royalty Corp.,501.60M,7.33,0.69%,22.79M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,VOXR.TO,Basic Materials,Other Precious Metals & Mining,Vox Royalty Corp.,EQUITY,success
+530,TRX,TRX Gold Corporation,501.42M,1.55,0.65%,129.78M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,TRX.TO,Basic Materials,Gold,TRX Gold Corporation,EQUITY,success
+531,TAL,PetroTal Corp.,496.97M,0.54,-,382.07M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,TAL.TO,Energy,Oil & Gas E&P,PetroTal Corp.,EQUITY,success
+532,PBL,Pollard Banknote Limited,490.47M,17.8,-1.77%,596.02M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,PBL.TO,Consumer Cyclical,Gambling,Pollard Banknote Limited,EQUITY,success
+533,PLZ.UN,Plaza Retail REIT,489.36M,4.43,-1.12%,130.86M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,PLZ-UN.TO,Real Estate,REIT - Retail,Plaza Retail REIT,EQUITY,success
+534,ETG,EntrÃ©e Resources Ltd.,488.06M,2.35,0.43%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,ETG.TO,Basic Materials,Other Industrial Metals & Mining,Entrée Resources Ltd.,EQUITY,success
+535,SBI,Serabi Gold plc,476.16M,6.27,-2.49%,213.69M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,SBI.TO,Basic Materials,Gold,Serabi Gold plc,EQUITY,success
+536,KITS,Kits Eyecare Ltd.,473.83M,14.19,1.79%,202.46M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,KITS.TO,Consumer Cyclical,Specialty Retail,Kits Eyecare Ltd.,EQUITY,success
+537,PZA,Pizza Pizza Royalty Corp.,468.19M,14.05,1.44%,40.79M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,PZA.TO,Consumer Cyclical,Restaurants,Pizza Pizza Royalty Corp.,EQUITY,success
+538,TCL.A,Transcontinental Inc.,466.73M,5.57,2.96%,2.75B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,TCL-A.TO,Consumer Cyclical,Packaging & Containers,Transcontinental Inc.,EQUITY,success
+539,TCL.B,Transcontinental Inc.,466.73M,6.92,-,2.75B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,TCL-B.TO,Consumer Cyclical,Packaging & Containers,Transcontinental Inc.,EQUITY,success
+540,FLT,Volatus Aerospace Inc.,460.42M,0.67,-1.47%,34.20M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,FLT.TO,Industrials,Aerospace & Defense,Volatus Aerospace Inc.,EQUITY,success
+541,NOU,Nouveau Monde Graphite Inc.,459.96M,2.82,-0.70%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,NOU.TO,Basic Materials,Other Industrial Metals & Mining,Nouveau Monde Graphite Inc.,EQUITY,success
+542,GTE,Gran Tierra Energy Inc.,456.70M,12.66,-2.47%,818.17M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,GTE.TO,Energy,Oil & Gas E&P,Gran Tierra Energy Inc.,EQUITY,success
+543,CPH,Cipher Pharmaceuticals Inc.,456.28M,17.85,-0.67%,69.17M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,CPH.TO,Healthcare,Drug Manufacturers - Specialty & Generic,Cipher Pharmaceuticals Inc.,EQUITY,success
+544,FC,Firm Capital Mortgage Investment Corporation,446.38M,12.27,0.99%,42.56M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,FC.TO,Financial Services,Mortgage Finance,Firm Capital Mortgage Investment Corporation,EQUITY,success
+545,CVVY,Cavvy Energy Ltd.,441.99M,1.41,-1.40%,217.92M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,CVVY.TO,Energy,Oil & Gas E&P,Cavvy Energy Ltd.,EQUITY,success
+546,CVO,Coveo Solutions Inc.,441.98M,4.69,-1.05%,199.16M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,CVO.TO,Technology,Software - Infrastructure,Coveo Solutions Inc.,EQUITY,success
+547,MRT.UN,Morguard Real Estate Investment Trust,434.04M,6.5,-0.61%,241.17M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,MRT-UN.TO,Real Estate,REIT - Diversified,Morguard Real Estate Investment Trust,EQUITY,success
+548,GASX,NG Energy International Corp.,433.71M,1.6,-5.33%,45.02M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,GASX.TO,Energy,Oil & Gas E&P,NG Energy International Corp.,EQUITY,success
+549,KSI,"kneat.com, inc.",429.71M,4.51,0.89%,63.26M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,KSI.TO,Healthcare,Health Information Services,"kneat.com, inc.",EQUITY,success
+550,REAL,Real Matters Inc.,428.65M,5.74,-0.52%,258.54M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,REAL.TO,Real Estate,Real Estate Services,Real Matters Inc.,EQUITY,success
+551,CSW.A,Corby Spirit and Wine Limited,418.74M,14.8,0.20%,262.33M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,CSW-A.TO,Consumer Defensive,Beverages - Wineries & Distilleries,Corby Spirit and Wine Limited,EQUITY,success
+552,CSW.B,Corby Spirit and Wine Limited,418.74M,14.18,0.07%,262.33M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,CSW-B.TO,Consumer Defensive,Beverages - Wineries & Distilleries,Corby Spirit and Wine Limited,EQUITY,success
+553,EDT,Spectral Medical Inc.,416.65M,1.4,-1.41%,2.44M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,EDT.TO,Healthcare,Diagnostics & Research,Spectral Medical Inc.,EQUITY,success
+554,LCFS,Tidewater Renewables Ltd.,416.13M,10.55,-7.54%,248.00M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,LCFS.TO,Basic Materials,Specialty Chemicals,Tidewater Renewables Ltd.,EQUITY,success
+555,VGZ,Vista Gold Corp.,414.11M,2.88,0.70%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,VGZ.TO,Basic Materials,Gold,Vista Gold Corp.,EQUITY,success
+556,PRV.UN,Pro Real Estate Investment Trust,411.86M,6.54,0.93%,104.10M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,PRV-UN.TO,Real Estate,REIT - Industrial,Pro Real Estate Investment Trust,EQUITY,success
+557,GBT,BMTC Group Inc.,409.08M,12.99,1.09%,627.11M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,GBT.TO,Consumer Cyclical,Specialty Retail,BMTC Group Inc.,EQUITY,success
+558,JOY,Journey Energy Inc.,402.86M,6.49,8.63%,171.65M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,JOY.TO,Energy,Oil & Gas E&P,Journey Energy Inc.,EQUITY,success
+559,TBL,Taiga Building Products Ltd.,400.47M,3.74,0.81%,1.63B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,TBL.TO,Industrials,Industrial Distribution,Taiga Building Products Ltd.,EQUITY,success
+560,ERD,Erdene Resource Development Corporation,398.95M,6.1,-0.16%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,ERD.TO,Basic Materials,Other Industrial Metals & Mining,Erdene Resource Development Corporation,EQUITY,success
+561,STCK,Stack Capital Group Inc.,392.89M,26.55,3.51%,56.71M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,STCK.TO,Financial Services,Asset Management,Stack Capital Group Inc.,EQUITY,success
+562,HLF,High Liner Foods Incorporated,388.63M,13.86,0.51%,1.41B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,HLF.TO,Consumer Defensive,Packaged Foods,High Liner Foods Incorporated,EQUITY,success
+563,GRA,NanoXplore Inc.,382.94M,2.13,0.95%,113.16M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,GRA.TO,Basic Materials,Chemicals,NanoXplore Inc.,EQUITY,success
+564,GLO,Global Atomic Corporation,382.42M,0.76,-2.56%,1.09M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,GLO.TO,Basic Materials,Other Industrial Metals & Mining,Global Atomic Corporation,EQUITY,success
+565,DC.A,Dundee Corporation,377.30M,4.22,0.48%,5.36M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,DC-A.TO,Basic Materials,Other Precious Metals & Mining,Dundee Corporation,EQUITY,success
+566,AFN,Ag Growth International Inc.,374.19M,19.96,0.60%,1.42B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,AFN.TO,Industrials,Farm & Heavy Construction Machinery,Ag Growth International Inc.,EQUITY,success
+567,DGX,Digi Power X Inc.,369.99M,5.42,7.33%,46.88M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,DGX.TO,,,,NONE,success
+568,TI,Titan Mining Corporation,359.73M,3.6,-1.64%,101.79M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,TI.TO,Basic Materials,Other Industrial Metals & Mining,Titan Mining Corporation,EQUITY,success
+569,LUC,Lucara Diamond Corp.,357.25M,0.235,-2.08%,218.92M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,LUC.TO,Basic Materials,Other Precious Metals & Mining,Lucara Diamond Corp.,EQUITY,success
+570,GRID,Tantalus Systems Holding Inc.,356.77M,6.29,-0.94%,74.20M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,GRID.TO,Industrials,Electrical Equipment & Parts,Tantalus Systems Holding Inc.,EQUITY,success
+571,GOLD,GoldMining Inc.,342.40M,1.6,0.31%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,GOLD.TO,Basic Materials,Gold,GoldMining Inc.,EQUITY,success
+572,CKI,Clarke Inc.,341.72M,26.35,6.90%,81.60M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,CKI.TO,Consumer Cyclical,Lodging,Clarke Inc.,EQUITY,success
+573,BTB.UN,BTB Real Estate Investment Trust,340.56M,3.91,1.56%,130.14M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,BTB-UN.TO,Real Estate,REIT - Office,BTB Real Estate Investment Trust,EQUITY,success
+574,VLN,Velan Inc.,334.58M,15.5,-,411.71M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,VLN.TO,Industrials,Specialty Industrial Machinery,Velan Inc.,EQUITY,success
+575,PRN,Profound Medical Corp.,331.40M,9.46,3.73%,22.07M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,PRN.TO,Healthcare,Medical Devices,Profound Medical Corp.,EQUITY,success
+576,STGO,Steppe Gold Ltd.,328.68M,1.3,-,348.44M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,STGO.TO,Basic Materials,Gold,Steppe Gold Ltd.,EQUITY,success
+577,TWM,Tidewater Midstream and Infrastructure Ltd.,323.27M,14.44,-2.43%,1.32B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,TWM.TO,Energy,Oil & Gas Midstream,Tidewater Midstream and Infrastructure Ltd.,EQUITY,success
+578,VCM,Vecima Networks Inc.,322.17M,13.25,0.15%,277.53M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,VCM.TO,Technology,Communication Equipment,Vecima Networks Inc.,EQUITY,success
+579,ADN,Acadian Timber Corp.,320.76M,17.44,0.35%,86.96M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,ADN.TO,Basic Materials,Lumber & Wood Production,Acadian Timber Corp.,EQUITY,success
+580,CMG,Computer Modelling Group Ltd.,316.45M,3.99,0.25%,126.20M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,CMG.TO,Technology,Software - Application,Computer Modelling Group Ltd.,EQUITY,success
+581,RBY,Rubellite Energy Corp.,316.05M,3.37,-,210.07M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,RBY.TO,Energy,Oil & Gas E&P,Rubellite Energy Corp.,EQUITY,success
+582,FRX,Fennec Pharmaceuticals Inc.,311.90M,8.87,-,61.21M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,FRX.TO,Healthcare,Biotechnology,Fennec Pharmaceuticals Inc.,EQUITY,success
+583,RIC,Richards Group Inc.,311.49M,29.75,8.18%,435.20M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,RIC.TO,Consumer Cyclical,Packaging & Containers,Richards Group Inc.,EQUITY,success
+584,SPAC.U,Mercer Park Opportunities Corp.,311.10M,10.75,-,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,SPAC-U.TO,Financial Services,Shell Companies,,EQUITY,success
+585,SAU,St. Augustine Gold and Copper Limited,308.01M,0.185,-5.13%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,SAU.TO,Basic Materials,Other Industrial Metals & Mining,St. Augustine Gold and Copper Limited,EQUITY,success
+586,DRX,ADF Group Inc.,307.80M,10.95,1.58%,258.74M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,DRX.TO,Industrials,Metal Fabrication,ADF Group Inc.,EQUITY,success
+587,RM,Roxmore Resources Inc.,304.32M,4.32,-,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,RM.TO,Financial Services,Shell Companies,Roxmore Resources Inc.,EQUITY,success
+588,DR,Medical Facilities Corporation,300.11M,17.22,0.70%,348.49M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,DR.TO,Healthcare,Medical Care Facilities,Medical Facilities Corporation,EQUITY,success
+589,WILD,WildBrain Ltd.,299.34M,1.41,0.71%,529.86M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,WILD.TO,Communication Services,Entertainment,WildBrain Ltd.,EQUITY,success
+590,TSND,TerrAscend Corp.,297.18M,0.96,-,357.26M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,TSND.TO,Healthcare,Drug Manufacturers - Specialty & Generic,TerrAscend Corp.,EQUITY,success
+591,PTM,Platinum Group Metals Ltd.,296.77M,2.38,1.71%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,PTM.TO,Basic Materials,Other Precious Metals & Mining,Platinum Group Metals Ltd.,EQUITY,success
+592,OLY,Olympia Financial Group Inc.,296.56M,123.24,-,98.86M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,OLY.TO,Financial Services,Asset Management,Olympia Financial Group Inc.,EQUITY,success
+593,PRQ,Petrus Resources Ltd.,296.17M,2.01,-,79.36M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,PRQ.TO,Energy,Oil & Gas E&P,Petrus Resources Ltd.,EQUITY,success
+594,FAR,Foraco International SA,291.17M,3.02,1.68%,376.09M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,FAR.TO,Basic Materials,Other Industrial Metals & Mining,Foraco International SA,EQUITY,success
+595,XTC,Exco Technologies Limited,288.34M,7.66,-0.13%,612.66M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,XTC.TO,Consumer Cyclical,Auto Parts,Exco Technologies Limited,EQUITY,success
+596,HFPC.U,Helios Fairfax Partners Corporation,285.82M,1.86,-2.11%,87.99M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,HFPC-U.TO,Financial Services,Asset Management,Helios Fairfax Partners Corporation,EQUITY,success
+597,AIDX,Healwell AI Inc.,284.11M,0.98,2.08%,103.80M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,AIDX.TO,Healthcare,Medical Care Facilities,Healwell AI Inc.,EQUITY,success
+598,MPC,Madison Pacific Properties Inc.,281.28M,5.3,-,43.36M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,MPC.TO,Real Estate,Real Estate Services,Madison Pacific Properties Inc.,EQUITY,success
+599,MPC.C,Madison Pacific Properties Inc.,281.28M,4.55,-2.15%,43.36M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,MPC-C.TO,Real Estate,Real Estate Services,Madison Pacific Properties Inc.,EQUITY,success
+600,MXG,Maxim Power Corp.,279.70M,4.4,-1.57%,86.87M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,MXG.TO,Utilities,Utilities - Independent Power Producers,Maxim Power Corp.,EQUITY,success
+601,GH,Gamehost Inc.,277.32M,13.4,-0.07%,84.26M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,GH.TO,Consumer Cyclical,Resorts & Casinos,Gamehost Inc.,EQUITY,success
+602,TSK,Talisker Resources Ltd.,276.57M,1.33,-,5.45M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,TSK.TO,Basic Materials,Gold,Talisker Resources Ltd.,EQUITY,success
+603,MGA,Mega Uranium Ltd.,276.41M,0.71,-1.39%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,MGA.TO,Energy,Uranium,Mega Uranium Ltd.,EQUITY,success
+604,KEI,Kolibri Global Energy Inc.,276.34M,7.74,-0.64%,78.73M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,KEI.TO,Energy,Oil & Gas E&P,Kolibri Global Energy Inc.,EQUITY,success
+605,D.UN,Dream Office Real Estate Investment Trust,276.09M,16.98,0.83%,154.41M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,D-UN.TO,Real Estate,REIT - Office,Dream Office Real Estate Investment Trust,EQUITY,success
+606,ACB,Aurora Cannabis Inc.,274.94M,4.7,1.08%,373.12M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,ACB.TO,Healthcare,Drug Manufacturers - Specialty & Generic,Aurora Cannabis Inc.,EQUITY,success
+607,BNKR,Bunker Hill Mining Corp.,268.44M,5.75,-3.36%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,BNKR.TO,Basic Materials,Silver,Bunker Hill Mining Corp.,EQUITY,success
+608,OGI,Organigram Global Inc.,265.80M,1.92,1.59%,279.99M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,OGI.TO,Healthcare,Drug Manufacturers - Specialty & Generic,Organigram Global Inc.,EQUITY,success
+609,PIF,Polaris Renewable Energy Inc.,265.71M,12.79,0.63%,110.35M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,PIF.TO,Utilities,Utilities - Renewable,Polaris Renewable Energy Inc.,EQUITY,success
+610,BNE,Bonterra Energy Corp.,264.44M,7.19,-0.55%,216.61M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,BNE.TO,Energy,Oil & Gas E&P,Bonterra Energy Corp.,EQUITY,success
+611,ADW.A,Andrew Peller Limited,258.45M,5.69,1.43%,389.04M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,ADW-A.TO,Consumer Defensive,Beverages - Wineries & Distilleries,Andrew Peller Limited,EQUITY,success
+612,ADW.B,Andrew Peller Limited,258.45M,7.18,6.21%,389.04M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,ADW-B.TO,Consumer Defensive,Beverages - Wineries & Distilleries,Andrew Peller Limited,EQUITY,success
+613,BGAU,Blossom Gold Inc.,256.66M,1.95,1.56%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,BGAU.TO,Basic Materials,Other Precious Metals & Mining,Blossom Gold Inc.,EQUITY,success
+614,ACX,ACT Energy Technologies Ltd.,254.84M,6.55,-0.91%,474.93M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,ACX.TO,Energy,Oil & Gas Drilling,ACT Energy Technologies Ltd.,EQUITY,success
+615,STLR,STLLR Gold Inc.,254.08M,1.44,1.41%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,STLR.TO,Basic Materials,Gold,STLLR Gold Inc.,EQUITY,success
+616,ELO,Eloro Resources Ltd.,251.28M,2.09,-0.48%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,ELO.TO,Basic Materials,Gold,Eloro Resources Ltd.,EQUITY,success
+617,DNG,Dynacor Group Inc.,250.40M,6.24,4.52%,545.15M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,DNG.TO,Basic Materials,Other Precious Metals & Mining,Dynacor Group Inc.,EQUITY,success
+618,CDR,Condor Energies Inc.,248.00M,3.1,-,69.54M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,CDR.TO,Energy,Oil & Gas E&P,Condor Energies Inc.,EQUITY,success
+619,AIM,Aimia Inc.,247.47M,2.74,-1.44%,511.60M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,AIM.TO,Basic Materials,Specialty Chemicals,Aimia Inc.,EQUITY,success
+620,MSCL,Satellos Bioscience Inc.,241.02M,11.58,0.09%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,MSCL.TO,Healthcare,Biotechnology,Satellos Bioscience Inc.,EQUITY,success
+621,NCF,Northcliff Resources Ltd.,238.55M,0.37,-2.63%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,NCF.TO,Basic Materials,Other Industrial Metals & Mining,Northcliff Resources Ltd.,EQUITY,success
+622,FCD.UN,Firm Capital Property Trust,236.69M,6.53,1.87%,61.86M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,FCD-UN.TO,Real Estate,REIT - Retail,Firm Capital Property Trust,EQUITY,success
+623,SHLE,Source Energy Services Ltd.,232.83M,17.54,-1.46%,700.31M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,SHLE.TO,Energy,Oil & Gas Equipment & Services,Source Energy Services Ltd.,EQUITY,success
+624,CRRX,CareRx Corporation,230.95M,3.6,-1.10%,370.24M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,CRRX.TO,Healthcare,Medical Care Facilities,CareRx Corporation,EQUITY,success
+625,WNDR,WonderFi Technologies Inc.,229.93M,0.345,-,45.97M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,WNDR.TO,Technology,Software - Application,WonderFi Technologies Inc.,EQUITY,success
+626,PNE,Pine Cliff Energy Ltd.,229.63M,0.64,-,164.55M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,PNE.TO,Energy,Oil & Gas E&P,Pine Cliff Energy Ltd.,EQUITY,success
+627,TC,Tucows Inc.,229.08M,20.51,-5.22%,535.15M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,TC.TO,Technology,Software - Infrastructure,Tucows Inc.,EQUITY,success
+628,DND,Dye & Durham Limited,228.39M,3.28,-3.53%,423.92M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,DND.TO,Technology,Software - Application,Dye & Durham Limited,EQUITY,success
+629,ORV,Orvana Minerals Corp.,225.43M,1.67,1.21%,149.76M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,ORV.TO,Basic Materials,Other Precious Metals & Mining,Orvana Minerals Corp.,EQUITY,success
+630,MOLY,Greenland Resources Inc.,219.52M,1.66,-5.14%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,MOLY.TO,Basic Materials,Other Industrial Metals & Mining,,EQUITY,success
+631,AGMR,Silver Mountain Resources Inc.,214.82M,3.57,0.85%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,AGMR.TO,Basic Materials,Silver,Silver Mountain Resources Inc.,EQUITY,success
+632,BOIL,Beyond Oil Ltd.,211.99M,2.78,-1.77%,6.19M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,BOIL.TO,Consumer Defensive,Packaged Foods,Beyond Oil Ltd.,EQUITY,success
+633,LAM,Laramide Resources Ltd.,207.07M,0.73,-,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,LAM.TO,Energy,Uranium,Laramide Resources Ltd.,EQUITY,success
+634,CRDL,Cardiol Therapeutics Inc.,203.61M,1.81,-0.55%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,CRDL.TO,Healthcare,Drug Manufacturers - Specialty & Generic,Cardiol Therapeutics Inc.,EQUITY,success
+635,XAU,Goldmoney Inc.,202.39M,16.17,0.19%,216.29M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,XAU.TO,Financial Services,Capital Markets,Goldmoney Inc.,EQUITY,success
+636,DBO,D-BOX Technologies Inc.,202.19M,0.94,3.30%,51.55M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,DBO.TO,Technology,Consumer Electronics,D-BOX Technologies Inc.,EQUITY,success
+637,GENM,Generation Mining Limited,196.34M,0.63,3.28%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,GENM.TO,Basic Materials,Other Industrial Metals & Mining,Generation Mining Limited,EQUITY,success
+638,XLY,Auxly Cannabis Group Inc.,193.37M,0.135,-,151.48M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,XLY.TO,Healthcare,Drug Manufacturers - Specialty & Generic,Auxly Cannabis Group Inc.,EQUITY,success
+639,STC,Sangoma Technologies Corporation,190.02M,5.78,1.23%,301.23M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,STC.TO,Technology,Software - Infrastructure,Sangoma Technologies Corporation,EQUITY,success
+640,ECO,EcoSynthetix Inc.,189.49M,3.19,-0.93%,28.52M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,ECO.TO,Basic Materials,Specialty Chemicals,EcoSynthetix Inc.,EQUITY,success
+641,GDC,Genesis Land Development Corp.,188.57M,3.33,-0.60%,381.16M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,GDC.TO,Real Estate,Real Estate - Development,,EQUITY,success
+642,PSD,Pulse Seismic Inc.,187.14M,3.68,-0.27%,30.18M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,PSD.TO,Energy,Oil & Gas Equipment & Services,Pulse Seismic Inc.,EQUITY,success
+643,MTEK,Metatek-Group Ltd.,186.56M,4.95,-,32.43M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,MTEK.TO,Energy,Oil & Gas Equipment & Services,Metatek-Group Ltd.,EQUITY,success
+644,S,Sherritt International Corporation,186.37M,0.263,-0.94%,177.30M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,S.TO,Basic Materials,Other Industrial Metals & Mining,Sherritt International Corporation,EQUITY,success
+645,FLNT,Flint Corp.,184.80M,1.78,5.95%,563.85M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,FLNT.TO,Energy,Oil & Gas Equipment & Services,Flint Corp.,EQUITY,success
+646,QTRH,Quarterhill Inc.,179.97M,1.51,0.67%,212.76M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,QTRH.TO,Technology,Communication Equipment,Quarterhill Inc.,EQUITY,success
+647,BOS,AirBoss of America Corp.,178.48M,6.55,-0.30%,562.44M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,BOS.TO,Basic Materials,Specialty Chemicals,AirBoss of America Corp.,EQUITY,success
+648,Y,Yellow Pages Limited,178.31M,12.86,-0.77%,198.88M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,Y.TO,Communication Services,Publishing,Yellow Pages Limited,EQUITY,success
+649,AKT.A,AKITA Drilling Ltd.,177.27M,4.6,3.37%,200.90M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,AKT-A.TO,Energy,Oil & Gas Drilling,AKITA Drilling Ltd.,EQUITY,success
+650,AKT.B,AKITA Drilling Ltd.,177.27M,4.6,9.52%,200.90M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,AKT-B.TO,Energy,Oil & Gas Drilling,AKITA Drilling Ltd.,EQUITY,success
+651,HAI,Haivision Systems Inc.,175.05M,6.34,-0.16%,144.70M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,HAI.TO,Technology,Software - Infrastructure,Haivision Systems Inc.,EQUITY,success
+652,GCU,Gunnison Copper Corp.,173.35M,0.41,-,14.94M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,GCU.TO,Basic Materials,Copper,Gunnison Copper Corp,EQUITY,success
+653,LOVE,Cannara Biotech Inc.,172.87M,1.74,-0.57%,113.01M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,LOVE.TO,Healthcare,Drug Manufacturers - Specialty & Generic,Cannara Biotech Inc.,EQUITY,success
+654,HMM.A,Hammond Manufacturing Company Limited,161.06M,14.5,2.04%,289.48M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,HMM-A.TO,Industrials,Electrical Equipment & Parts,Hammond Manufacturing Company Limited,EQUITY,success
+655,BAMI,Blue Ant Media Corporation,159.52M,5.82,1.22%,267.30M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,BAMI.TO,Communication Services,Entertainment,Blue Ant Media Corporation,EQUITY,success
+656,QEC,Questerre Energy Corporation,158.16M,0.335,-1.47%,70.75M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,QEC.TO,Energy,Oil & Gas E&P,Questerre Energy Corporation,EQUITY,success
+657,HBP,Helix BioPharma Corp.,155.81M,2.04,-3.32%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,HBP.TO,Healthcare,Biotechnology,Helix BioPharma Corp.,EQUITY,success
+658,ROOT,Roots Corporation,155.61M,3.97,-,277.68M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,ROOT.TO,Consumer Cyclical,Apparel Retail,Roots Corporation,EQUITY,success
+659,TINY,Tiny Ltd.,154.97M,5.29,-,203.75M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,TINY.TO,Financial Services,Asset Management,Tiny Ltd.,EQUITY,success
+660,YGR,Yangarra Resources Ltd.,154.17M,1.46,-,107.21M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,YGR.TO,Energy,Oil & Gas E&P,Yangarra Resources Ltd.,EQUITY,success
+661,DRT,DIRTT Environmental Solutions Ltd.,153.01M,0.77,-2.53%,231.52M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,DRT.TO,Industrials,Engineering & Construction,DIRTT Environmental Solutions Ltd.,EQUITY,success
+662,RUA,Rua Gold Inc.,148.27M,1.33,3.10%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,RUA.TO,Basic Materials,Other Industrial Metals & Mining,Rua Gold Inc.,EQUITY,success
+663,FURY,Fury Gold Mines Limited,147.35M,0.79,1.94%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,FURY.TO,Basic Materials,Other Industrial Metals & Mining,Fury Gold Mines Limited,EQUITY,success
+664,HLS,HLS Therapeutics Inc.,147.30M,4.71,1.29%,76.10M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,HLS.TO,Healthcare,Drug Manufacturers - Specialty & Generic,HLS Therapeutics Inc.,EQUITY,success
+665,OCG,Outcrop Silver & Gold Corporation,146.83M,0.305,1.67%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,OCG.TO,Basic Materials,Other Precious Metals & Mining,Outcrop Silver & Gold Corporation,EQUITY,success
+666,CXI,"Currency Exchange International, Corp.",146.80M,25.18,1.94%,98.23M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,CXI.TO,Financial Services,Capital Markets,"Currency Exchange International, Corp.",EQUITY,success
+667,G,Augusta Gold Corp.,146.27M,1.69,-,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,G.TO,,,Augusta Gold Corp.,EQUITY,success
+668,WEF,Western Forest Products Inc.,145.49M,14.06,2.03%,986.50M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,WEF.TO,Basic Materials,Lumber & Wood Production,Western Forest Products Inc.,EQUITY,success
+669,IMP,Intermap Technologies Corporation,144.61M,1.98,1.02%,14.49M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,IMP.TO,Technology,Software - Application,Intermap Technologies Corporation,EQUITY,success
+670,XTG,Xtra-Gold Resources Corp.,144.31M,3.1,-1.90%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,XTG.TO,Basic Materials,Gold,Xtra-Gold Resources Corp.,EQUITY,success
+671,TELY,TelyRx Holdings Inc.,142.30M,3.03,1.00%,58.85M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,TELY.TO,Healthcare,Pharmaceutical Retailers,TelyRx Holdings Inc.,EQUITY,success
+672,GEO,Geodrill Limited,141.59M,3.09,3.69%,253.54M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,GEO.TO,Basic Materials,Other Industrial Metals & Mining,Geodrill Limited,EQUITY,success
+673,IVQ,Invesque Inc.,137.03M,0.15,7.14%,102.96M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,IVQ.TO,Real Estate,Real Estate Services,Invesque Inc.,EQUITY,success
+674,IVQ.U,Invesque Inc.,137.03M,0.095,-,102.96M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,IVQ-U.TO,Real Estate,Real Estate Services,Invesque Inc.,EQUITY,success
+675,BRE,Bridgemarq Real Estate Services Inc.,132.20M,13.86,-0.57%,407.38M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,BRE.TO,Real Estate,Real Estate Services,Bridgemarq Real Estate Services Inc.,EQUITY,success
+676,SRV.UN,SIR Royalty Income Fund,131.16M,15.66,-0.19%,11.10M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,SRV-UN.TO,Consumer Cyclical,Restaurants,SIR Royalty Income Fund,EQUITY,success
+677,LGO,Largo Inc.,129.69M,1.59,2.58%,150.67M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,LGO.TO,Basic Materials,Other Industrial Metals & Mining,Largo Inc.,EQUITY,success
+678,ALYA,Alithya Group Inc.,129.11M,1.32,-0.75%,488.94M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,ALYA.TO,Technology,Information Technology Services,Alithya Group Inc.,EQUITY,success
+679,GMX,Globex Mining Enterprises Inc.,126.63M,2.23,0.45%,1.45M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,GMX.TO,Basic Materials,Other Industrial Metals & Mining,Globex Mining Enterprises Inc.,EQUITY,success
+680,IFA,iFabric Corp.,125.14M,4.06,-1.69%,32.87M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,IFA.TO,Consumer Cyclical,Apparel Manufacturing,iFabric Corp.,EQUITY,success
+681,MDP,Medexus Pharmaceuticals Inc.,124.26M,3.94,1.55%,136.34M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,MDP.TO,Healthcare,Drug Manufacturers - Specialty & Generic,Medexus Pharmaceuticals Inc.,EQUITY,success
+682,E,"Enterprise Group, Inc.",122.42M,1.475,-1.67%,36.35M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,E.TO,Energy,Oil & Gas Equipment & Services,"Enterprise Group, Inc.",EQUITY,success
+683,GURU,GURU Organic Energy Corp.,118.91M,3.87,-2.03%,35.88M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,GURU.TO,Consumer Defensive,Beverages - Non-Alcoholic,GURU Organic Energy Corp.,EQUITY,success
+684,CWEB,"Charlotte's Web Holdings, Inc.",117.22M,0.69,-5.48%,68.41M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,CWEB.TO,Healthcare,Drug Manufacturers - Specialty & Generic,"Charlotte's Web Holdings, Inc.",EQUITY,success
+685,TNT.UN,True North Commercial Real Estate Investment Trust,115.63M,8.28,0.73%,130.12M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,TNT-UN.TO,Real Estate,REIT - Office,True North Commercial Real Estate Investment Trust,EQUITY,success
+686,XTRA,Xtract One Technologies Inc.,114.37M,0.44,-,17.21M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,XTRA.TO,Technology,Software - Application,Xtract One Technologies Inc.,EQUITY,success
+687,KPT,KP Tissue Inc.,114.05M,11.35,-0.26%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,KPT.TO,Consumer Defensive,Household & Personal Products,KP Tissue Inc.,EQUITY,success
+688,NANO,Nano One Materials Corp.,113.70M,0.96,1.05%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,NANO.TO,Basic Materials,Specialty Chemicals,Nano One Materials Corp.,EQUITY,success
+689,CCM,Canagold Resources Ltd.,113.39M,0.53,-,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,CCM.TO,Basic Materials,Gold,Canagold Resources Ltd.,EQUITY,success
+690,ERE.UN,European Residential Real Estate Investment Trust,110.80M,1.19,0.85%,61.85M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,ERE-UN.TO,Real Estate,REIT - Residential,European Residential Real Estate Investment Trust,EQUITY,success
+691,THNC,Thinkific Labs Inc.,109.44M,1.45,-10.49%,100.35M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,THNC.TO,Technology,Software - Application,Thinkific Labs Inc.,EQUITY,success
+692,TRZ,Transat A.T. Inc.,105.79M,2.57,-1.15%,3.44B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,TRZ.TO,Consumer Cyclical,Travel Services,Transat A.T. Inc.,EQUITY,success
+693,WRG,Western Energy Services Corp.,105.27M,3.11,-,203.75M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,WRG.TO,Energy,Oil & Gas Drilling,Western Energy Services Corp.,EQUITY,success
+694,SLR,Solitario Resources Corp.,102.87M,1.13,-4.24%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,SLR.TO,Basic Materials,Other Industrial Metals & Mining,Solitario Resources Corp.,EQUITY,success
+695,ELR,Eastern Platinum Limited,101.45M,0.5,1.01%,84.44M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,ELR.TO,Basic Materials,Other Precious Metals & Mining,Eastern Platinum Limited,EQUITY,success
+696,PNC.A,Postmedia Network Canada Corp.,99.03M,0.94,-,432.21M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,PNC-A.TO,Communication Services,Publishing,Postmedia Network Canada Corp.,EQUITY,success
+697,PNC.B,Postmedia Network Canada Corp.,99.03M,1,5.26%,432.21M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,PNC-B.TO,Communication Services,Publishing,Postmedia Network Canada Corp.,EQUITY,success
+698,WM,Wallbridge Mining Company Limited,97.81M,0.08,-,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,WM.TO,Basic Materials,Gold,Wallbridge Mining Company Limited,EQUITY,success
+699,DCM,DATA Communications Management Corp.,96.35M,1.67,-,450.36M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,DCM.TO,Industrials,Specialty Business Services,DATA Communications Management Corp.,EQUITY,success
+700,GDL,Goodfellow Inc.,96.06M,11.55,-0.43%,540.53M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,GDL.TO,Basic Materials,Lumber & Wood Production,Goodfellow Inc.,EQUITY,success
+701,SYZ,Sylogist Ltd.,95.20M,4,-1.72%,62.24M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,SYZ.TO,Technology,Software - Application,Sylogist Ltd.,EQUITY,success
+702,IS,Infrastructure Dividend Split Corp.,93.58M,18.92,-0.94%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,IS.TO,Financial Services,Asset Management,,EQUITY,success
+703,FSY,Forsys Metals Corp.,93.00M,0.365,-3.95%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,FSY.TO,Basic Materials,Other Industrial Metals & Mining,Forsys Metals Corp.,EQUITY,success
+704,FT,Fortune Minerals Limited,88.74M,0.158,8.62%,112.25K,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,FT.TO,Basic Materials,Other Industrial Metals & Mining,Fortune Minerals Limited,EQUITY,success
+705,SXP,Supremex Inc.,88.32M,3.65,0.55%,274.78M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,SXP.TO,Consumer Cyclical,Packaging & Containers,Supremex Inc.,EQUITY,success
+706,RTG,RTG Mining Inc.,86.39M,0.045,-,109.22K,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,RTG.TO,Basic Materials,Other Industrial Metals & Mining,RTG Mining Inc.,EQUITY,success
+707,PNP,Pinetree Capital Ltd.,86.17M,9.01,-1.85%,-17.44M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,PNP.TO,Financial Services,Capital Markets,Pinetree Capital Ltd.,EQUITY,success
+708,PYR,PyroGenesis Inc.,82.64M,0.4,-2.50%,12.57M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,PYR.TO,Industrials,Specialty Industrial Machinery,PyroGenesis Inc.,EQUITY,success
+709,CEMX,CEMATRIX Corporation,82.38M,0.55,-,45.74M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,CEMX.TO,Basic Materials,Building Materials,CEMATRIX Corporation,EQUITY,success
+710,NEXT,NextSource Materials Inc.,81.02M,0.335,1.52%,1.67M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,NEXT.TO,Basic Materials,Other Industrial Metals & Mining,NextSource Materials Inc.,EQUITY,success
+711,AIAI,NetraMark Holdings Inc.,78.75M,0.85,-3.41%,165.26K,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,AIAI.TO,Healthcare,Health Information Services,NetraMark Holdings Inc.,EQUITY,success
+712,ESM,Euro Sun Mining Inc.,77.63M,0.16,-8.57%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,ESM.TO,Basic Materials,Gold,Euro Sun Mining Inc.,EQUITY,success
+713,COPR,Coppernico Metals Inc.,74.83M,0.42,-1.18%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,COPR.TO,Basic Materials,Other Industrial Metals & Mining,Coppernico Metals Inc,EQUITY,success
+714,DYA,dynaCERT Inc.,73.70M,0.145,-,643.93K,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,DYA.TO,Industrials,Specialty Industrial Machinery,dynaCERT Inc.,EQUITY,success
+715,BRAG,Bragg Gaming Group Inc.,73.14M,2.79,-2.45%,170.76M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,BRAG.TO,Consumer Cyclical,Gambling,Bragg Gaming Group Inc.,EQUITY,success
+716,MCB,McCoy Global Inc.,71.13M,2.6,-0.76%,83.78M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,MCB.TO,Energy,Oil & Gas Equipment & Services,McCoy Global Inc.,EQUITY,success
+717,OGD,Orbit Garant Drilling Inc.,70.59M,1.85,-,191.84M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,OGD.TO,Basic Materials,Other Industrial Metals & Mining,Orbit Garant Drilling Inc.,EQUITY,success
+718,SAM,Starcore International Mines Ltd.,65.13M,0.69,-1.43%,42.23M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,SAM.TO,Basic Materials,Other Industrial Metals & Mining,Starcore International Mines Ltd.,EQUITY,success
+719,TSL,Tree Island Steel Ltd.,63.65M,2.47,0.41%,170.83M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,TSL.TO,Basic Materials,Steel,Tree Island Steel Ltd.,EQUITY,success
+720,SVA,Sernova Biotherapeutics Inc,61.45M,0.17,-,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,SVA.TO,Healthcare,Biotechnology,Sernova Biotherapeutics Inc,EQUITY,success
+721,FORA,VerticalScope Holdings Inc.,58.54M,2.73,1.11%,79.73M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,FORA.TO,Communication Services,Internet Content & Information,VerticalScope Holdings Inc.,EQUITY,success
+722,TXP,Touchstone Exploration Inc.,58.45M,0.18,-,47.65M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,TXP.TO,Energy,Oil & Gas E&P,Touchstone Exploration Inc.,EQUITY,success
+723,BCHT,Birchtech Corp.,57.98M,2.205,1.15%,24.17M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,BCHT.TO,Industrials,Pollution & Treatment Controls,,EQUITY,success
+724,DII.A,Dorel Industries Inc.,57.83M,1.89,-,1.63B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,DII-A.TO,Consumer Cyclical,"Furnishings, Fixtures & Appliances",Dorel Industries Inc.,EQUITY,success
+725,DII.B,Dorel Industries Inc.,57.83M,1.64,-1.21%,1.63B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,DII-B.TO,Consumer Cyclical,"Furnishings, Fixtures & Appliances",Dorel Industries Inc.,EQUITY,success
+726,NPK,Verde AgriTech Limited,56.44M,0.97,-3.00%,16.61M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,NPK.TO,Basic Materials,Agricultural Inputs,Verde AgriTech Limited,EQUITY,success
+727,ICE,Canlan Ice Sports Corp.,55.35M,4,-3.61%,100.03M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,ICE.TO,Consumer Cyclical,Leisure,Canlan Ice Sports Corp.,EQUITY,success
+728,AVL,Avalon Advanced Materials Inc.,54.29M,0.06,-7.69%,129.65K,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,AVL.TO,Basic Materials,Other Industrial Metals & Mining,Avalon Advanced Materials Inc.,EQUITY,success
+729,MDNA,Medicenna Therapeutics Corp.,51.72M,0.625,0.81%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,MDNA.TO,Healthcare,Biotechnology,Medicenna Therapeutics Corp.,EQUITY,success
+730,GFP,GreenFirst Forest Products Inc.,51.15M,2.21,-1.34%,303.55M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,GFP.TO,Basic Materials,Lumber & Wood Production,GreenFirst Forest Products Inc.,EQUITY,success
+731,SWP,Swiss Water Decaffeinated Coffee Inc.,51.03M,4.84,-9.02%,258.72M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,SWP.TO,Consumer Defensive,Packaged Foods,Swiss Water Decaffeinated Coffee Inc.,EQUITY,success
+732,TVA.B,TVA Group Inc.,50.12M,1.16,0.87%,540.82M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,TVA-B.TO,Communication Services,Broadcasting,TVA Group Inc.,EQUITY,success
+733,WPRT,Westport Fuel Systems Inc.,47.14M,2.72,0.37%,31.97M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,WPRT.TO,Consumer Cyclical,Auto Parts,Westport Fuel Systems Inc.,EQUITY,success
+734,SLT,Saltire Capital Ltd.,45.15M,4.5,-5.26%,67.29M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,SLT.TO,,,,EQUITY,success
+735,SLT.U,Saltire Capital Ltd.,45.15M,3.4,-2.86%,67.29M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,SLT-U.TO,Technology,Computer Hardware,Saltire Capital Ltd.,EQUITY,success
+736,SFD,NXT Energy Solutions Inc.,44.82M,0.39,-,16.35M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,SFD.TO,Energy,Oil & Gas Equipment & Services,NXT Energy Solutions Inc.,EQUITY,success
+737,GVC,Glacier Media Inc.,44.58M,0.34,-,137.51M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,GVC.TO,Communication Services,Publishing,Glacier Media Inc.,EQUITY,success
+738,ILLM,illumin Holdings Inc.,42.50M,0.87,4.82%,143.59M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,ILLM.TO,Communication Services,Advertising Agencies,illumin Holdings Inc.,EQUITY,success
+739,UNI,Unisync Corp.,41.64M,2.19,-0.45%,88.17M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,UNI.TO,Consumer Cyclical,Apparel Manufacturing,Unisync Corp.,EQUITY,success
+740,BCT,BriaCell Therapeutics Corp.,40.17M,5.51,-0.54%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,BCT.TO,Healthcare,Biotechnology,BriaCell Therapeutics Corp.,EQUITY,success
+741,BYL,Baylin Technologies Inc.,38.96M,0.255,-,76.31M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,BYL.TO,Technology,Communication Equipment,Baylin Technologies Inc.,EQUITY,success
+742,GRN,Greenlane Renewables Inc.,36.71M,0.225,-2.17%,44.43M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,GRN.TO,Industrials,Specialty Industrial Machinery,Greenlane Renewables Inc.,EQUITY,success
+743,HOT.UN,American Hotel Income Properties REIT LP,36.59M,0.51,8.51%,257.47M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,HOT-UN.TO,Real Estate,REIT - Hotel & Motel,American Hotel Income Properties REIT LP,EQUITY,success
+744,LABS,MediPharm Labs Corp.,36.11M,0.085,-,45.12M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,LABS.TO,Healthcare,Drug Manufacturers - Specialty & Generic,MediPharm Labs Corp.,EQUITY,success
+745,MBX,Microbix Biosystems Inc.,35.20M,0.255,-,16.76M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,MBX.TO,Healthcare,Biotechnology,Microbix Biosystems Inc.,EQUITY,success
+746,ORIO,Orion Digital Corp.,33.25M,1.39,-0.71%,40.66M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,ORIO.TO,Technology,Software - Infrastructure,Orion Digital Corp.,EQUITY,success
+747,BKI,Black Iron Inc.,33.23M,0.1,-,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,BKI.TO,Basic Materials,Other Industrial Metals & Mining,Black Iron Inc.,EQUITY,success
+748,NPS,Canadian Large Cap Leaders Split Corp.,32.77M,15.17,-0.26%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,NPS.TO,Financial Services,Asset Management,,EQUITY,success
+749,TGO,TeraGo Inc.,32.38M,0.82,-1.20%,25.36M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,TGO.TO,Communication Services,Telecom Services,TeraGo Inc.,EQUITY,success
+750,RVX,Resverlogix Corp.,31.67M,0.095,-5.00%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,RVX.TO,Healthcare,Biotechnology,Resverlogix Corp.,EQUITY,success
+751,NVO,Novo Resources Corp.,31.35M,0.08,6.67%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,NVO.TO,Basic Materials,Gold,Novo Resources Corp.,EQUITY,success
+752,AMC,Arizona Metals Corp.,31.00M,0.205,-8.89%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,AMC.TO,Basic Materials,Other Industrial Metals & Mining,Arizona Metals Corp.,EQUITY,success
+753,WCM.A,Wilmington Capital Management Inc.,29.89M,2.4,-,1.25M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,WCM-A.TO,Financial Services,Asset Management,Wilmington Capital Management Inc.,EQUITY,success
+754,WCM.B,Wilmington Capital Management Inc.,29.89M,2.3,-,1.25M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,WCM-B.TO,Financial Services,Asset Management,Wilmington Capital Management Inc.,EQUITY,success
+755,SVB,"Silver Bull Resources, Inc.",28.84M,0.58,-1.69%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,SVB.TO,Basic Materials,Other Industrial Metals & Mining,"Silver Bull Resources, Inc.",EQUITY,success
+756,YRB,Yorbeau Resources Inc.,28.52M,0.06,-,71.20K,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,YRB.TO,Basic Materials,Gold,Yorbeau Resources Inc.,EQUITY,success
+757,INO.UN,Inovalis Real Estate Investment Trust,28.47M,0.79,-7.06%,17.45M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,INO-UN.TO,Real Estate,REIT - Office,Inovalis Real Estate Investment Trust,EQUITY,success
+758,MSV,Minco Silver Corporation,27.42M,0.45,1.12%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,MSV.TO,Basic Materials,Silver,Minco Silver Corporation,EQUITY,success
+759,BU,Burcon NutraScience Corporation,26.91M,2.12,-,1.48M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,BU.TO,Consumer Defensive,Packaged Foods,Burcon NutraScience Corporation,EQUITY,success
+760,CWL,The Caldwell Partners International Inc.,26.55M,0.92,2.22%,115.23M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,CWL.TO,Industrials,Staffing & Employment Services,The Caldwell Partners International Inc.,EQUITY,success
+761,SFI,Solution Financial Inc.,23.13M,0.275,-,11.32M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,SFI.TO,Consumer Cyclical,Auto & Truck Dealerships,Solution Financial Inc.,EQUITY,success
+762,AEG,Aegis Brands Inc.,23.03M,0.27,-,16.90M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,AEG.TO,Consumer Cyclical,Restaurants,Aegis Brands Inc.,EQUITY,success
+763,BEK.B,The Becker Milk Company Limited,22.80M,12.61,-,3.06M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,BEK-B.TO,Real Estate,Real Estate Services,The Becker Milk Company Limited,EQUITY,success
+764,GRC,Gold Springs Resource Corp.,22.64M,0.09,12.50%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,GRC.TO,Basic Materials,Gold,Gold Springs Resource Corp.,EQUITY,success
+765,GEC,Global Education Communities Corp.,22.55M,0.33,-,29.83M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,GEC.TO,Consumer Defensive,Education & Training Services,Global Education Communities Corp.,EQUITY,success
+766,PPR,Prairie Provident Resources Inc.,22.21M,0.475,-5.00%,36.94M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,PPR.TO,Energy,Oil & Gas E&P,Prairie Provident Resources Inc.,EQUITY,success
+767,FOOD,Goodfood Market Corp.,20.40M,0.21,2.44%,105.76M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,FOOD.TO,Consumer Cyclical,Personal Services,Goodfood Market Corp.,EQUITY,success
+768,BR,Big Rock Brewery Inc.,19.66M,0.71,-11.25%,49.09M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,BR.TO,Consumer Defensive,Beverages - Brewers,Big Rock Brewery Inc.,EQUITY,success
+769,BNG,Bengal Energy Ltd.,19.41M,0.04,-,3.60M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,BNG.TO,Energy,Oil & Gas E&P,Bengal Energy Ltd.,EQUITY,success
+770,DIAM,Star Diamond Corporation,19.35M,0.03,20.00%,-33.00K,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,DIAM.TO,Basic Materials,Other Precious Metals & Mining,Star Diamond Corporation,EQUITY,success
+771,KRN,Karnalyte Resources Inc.,19.18M,0.37,2.78%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,KRN.TO,Basic Materials,Agricultural Inputs,Karnalyte Resources Inc.,EQUITY,success
+772,AVCN,Avicanna Inc.,17.61M,0.14,-3.45%,25.48M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,AVCN.TO,Healthcare,Drug Manufacturers - Specialty & Generic,Avicanna Inc.,EQUITY,success
+773,WRX,Western Resources Corp.,16.33M,0.04,-,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,WRX.TO,Basic Materials,Other Industrial Metals & Mining,Western Resources Corp.,EQUITY,success
+774,ADCO,Adcore Inc.,14.92M,0.245,-4.08%,32.67M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,ADCO.TO,Technology,Software - Application,Adcore Inc.,EQUITY,success
+775,CTX,Crescita Therapeutics Inc.,14.15M,0.76,-,21.12M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,CTX.TO,Healthcare,Drug Manufacturers - Specialty & Generic,Crescita Therapeutics Inc.,EQUITY,success
+776,ACD,Accord Financial Corp.,12.75M,1.48,0.68%,17.62M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,ACD.TO,Financial Services,Credit Services,Accord Financial Corp.,EQUITY,success
+777,HWO,High Arctic Energy Services Inc,10.79M,0.81,-4.71%,10.64M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,HWO.TO,Energy,Oil & Gas Equipment & Services,High Arctic Energy Services Inc,EQUITY,success
+778,MPVD,Mountain Province Diamonds Inc.,10.63M,0.05,-,155.73M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,MPVD.TO,Basic Materials,Other Precious Metals & Mining,Mountain Province Diamonds Inc.,EQUITY,success
+779,ELEF,Silver Elephant Mining Corp.,10.33M,0.175,-2.78%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,ELEF.TO,Basic Materials,Other Industrial Metals & Mining,Silver Elephant Mining Corp.,EQUITY,success
+780,BRY,Bri-Chem Corp.,9.38M,0.31,-12.68%,75.60M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,BRY.TO,Energy,Oil & Gas Equipment & Services,Bri-Chem Corp.,EQUITY,success
+781,AVNT,Avant Brands Inc.,8.69M,0.59,1.72%,34.36M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,AVNT.TO,Healthcare,Drug Manufacturers - Specialty & Generic,Avant Brands Inc.,EQUITY,success
+782,VRTS,Vertiqal Studios Corp.,8.66M,0.005,-50.00%,5.83M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,VRTS.TO,Communication Services,Electronic Gaming & Multimedia,Vertiqal Studios Corp.,EQUITY,success
+783,EAGR,East Side Games Group Inc.,8.46M,0.11,-,77.58M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,EAGR.TO,Communication Services,Electronic Gaming & Multimedia,East Side Games Group Inc.,EQUITY,success
+784,CSCI,COSCIENS Biopharma Inc.,8.37M,2.64,0.38%,10.28M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,CSCI.TO,Healthcare,Biotechnology,COSCIENS Biopharma Inc.,EQUITY,success
+785,KLS,Kelso Technologies Inc.,8.02M,0.14,-3.45%,14.79M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,KLS.TO,Industrials,Railroads,Kelso Technologies Inc.,EQUITY,success
+786,EGLX,Enthusiast Gaming Holdings Inc.,6.37M,0.045,12.50%,32.03M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,EGLX.TO,Communication Services,Internet Content & Information,Enthusiast Gaming Holdings Inc.,EQUITY,success
+787,CJR.B,Corus Entertainment Inc.,5.98M,0.035,16.67%,1.03B,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,CJR-B.TO,Communication Services,Entertainment,Corus Entertainment Inc.,EQUITY,success
+788,APS,Aptose Biosciences Inc.,5.10M,2,-15.25%,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,APS.TO,Healthcare,Biotechnology,Aptose Biosciences Inc.,EQUITY,success
+789,FMR,Future Mineral Resources Inc.,5.08M,0.29,-,-,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,FMR.TO,Basic Materials,Other Industrial Metals & Mining,Future Mineral Resources Inc.,EQUITY,success
+790,AAB,Aberdeen International Inc.,4.82M,0.03,-,-684.94K,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,AAB.TO,Financial Services,Asset Management,Aberdeen International Inc.,EQUITY,success
+791,CFF,Conifex Timber Inc.,4.48M,0.115,4.55%,142.75M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,CFF.TO,Basic Materials,Lumber & Wood Production,Conifex Timber Inc.,EQUITY,success
+792,CNT,Century Global Commodities Corporation,4.14M,0.035,-12.50%,13.82M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,CNT.TO,Consumer Defensive,Food Distribution,Century Global Commodities Corporation,EQUITY,success
+793,AUMN,Golden Minerals Company,3.64M,0.28,5.66%,405.29K,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,AUMN.TO,Basic Materials,Other Precious Metals & Mining,Golden Minerals Company,EQUITY,success
+794,CRWN,Crown Capital Partners Inc.,3.59M,0.6,-,98.38M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,CRWN.TO,Financial Services,Credit Services,Crown Capital Partners Inc.,EQUITY,success
+795,MKZ.UN,Mackenzie Master Limited Partnership,3.07M,0.49,-,778.04K,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,MKZ-UN.TO,Financial Services,Asset Management,Mackenzie Master Limited Partnership,EQUITY,success
+796,APLI,Appili Therapeutics Inc.,2.65M,0.015,-25.00%,206.31K,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,APLI.TO,Healthcare,Biotechnology,Appili Therapeutics Inc.,EQUITY,success
+797,RPR.UN,Ravelin Properties REIT,2.02M,0.025,-,185.29M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,RPR-UN.TO,Real Estate,REIT - Office,,EQUITY,success
+798,BABY,Else Nutrition Holdings Inc.,1.48M,0.03,-,6.03M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,BABY.TO,Consumer Defensive,Packaged Foods,Else Nutrition Holdings Inc.,EQUITY,success
+799,IOM,Assure Holdings Corp.,2.50K,20.2,-2.89%,-5.85M,TSX,https://stockanalysis.com/list/toronto-stock-exchange/?page=2,IOM.TO,,,,,success
