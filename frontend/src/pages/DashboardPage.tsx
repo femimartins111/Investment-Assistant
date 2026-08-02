@@ -1,10 +1,11 @@
-import { useMemo, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
 import PortfolioTable from "../components/PortfolioTable";
 import PredictionCard from "../components/PredictionCard";
+import StockHistoryChart from "../components/StockHistoryChart";
 import SummaryCards from "../components/SummaryCards";
 import { calculatePortfolioSummary, savePortfolioToLocalStorage } from "../components/csvupload";
-import { getPortfolio } from "../services/portfolioApi";
-import type { PortfolioStock } from "../types/portfolio";
+import { getPortfolio, getPortfolioSummary } from "../services/portfolioApi";
+import type { PortfolioStock, PortfolioSummary } from "../types/portfolio";
 
 interface DashboardPageProps {
   username: string;
@@ -23,7 +24,37 @@ export default function DashboardPage({
   const [isRefreshing, setIsRefreshing] = useState(false);
   const [refreshMessage, setRefreshMessage] = useState("");
 
-  const summary = useMemo(() => calculatePortfolioSummary(stocks), [stocks]);
+  const localSummary = useMemo(() => calculatePortfolioSummary(stocks), [stocks]);
+  const [summary, setSummary] = useState<PortfolioSummary>(localSummary);
+
+  // Prefer the backend's summary (it's the source of truth once a
+  // portfolio has been uploaded there). Fall back to the local,
+  // client-side recalculation if the backend can't be reached --
+  // e.g. before the first upload, or while working offline.
+  useEffect(() => {
+    let cancelled = false;
+
+    if (!username) {
+      setSummary(localSummary);
+      return;
+    }
+
+    getPortfolioSummary(username)
+      .then((backendSummary) => {
+        if (!cancelled) {
+          setSummary(backendSummary);
+        }
+      })
+      .catch(() => {
+        if (!cancelled) {
+          setSummary(localSummary);
+        }
+      });
+
+    return () => {
+      cancelled = true;
+    };
+  }, [username, localSummary]);
 
   async function handleBackendRefresh(): Promise<void> {
     setIsRefreshing(true);
@@ -34,6 +65,13 @@ export default function DashboardPage({
       onPortfolioUpdate(backendStocks);
       savePortfolioToLocalStorage(username, backendStocks);
       setSelectedTicker(backendStocks[0]?.ticker ?? "");
+
+      try {
+        setSummary(await getPortfolioSummary(username));
+      } catch {
+        setSummary(calculatePortfolioSummary(backendStocks));
+      }
+
       setRefreshMessage("Portfolio refreshed from backend.");
     } catch {
       setRefreshMessage(
@@ -83,6 +121,8 @@ export default function DashboardPage({
         />
         <PredictionCard selectedTicker={selectedTicker} />
       </div>
+
+      <StockHistoryChart ticker={selectedTicker} />
     </main>
   );
 }

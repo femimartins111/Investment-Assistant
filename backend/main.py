@@ -1,10 +1,11 @@
 from fastapi import FastAPI, UploadFile, File, Form, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
-from dotenv import load_dotenv; load_dotenv() 
+from dotenv import load_dotenv
 import tempfile
 import os
 import math
 
+load_dotenv()
 
 from Csv_loader import load_portfolio_data
 from tickgetter import (
@@ -40,6 +41,10 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
+
+# In-memory cache for the current process's lifetime. Postgres (via
+# dbauth.py) is the durable store; this just avoids hitting the DB on
+# every read within the same session.
 PORTFOLIOS = {}
 
 
@@ -142,37 +147,42 @@ async def upload_portfolio(
             os.remove(temp_file_path)
 
 
-@app.get("/api/portfolio/{user_id}")
-def get_portfolio(user_id: str):
-    if user_id not in PORTFOLIOS:
-        # Fall back to Postgres if this process doesn't have it cached
-        # (e.g. after a restart).
-        db_portfolio = None
-        try:
-            db_portfolio = get_latest_portfolio_data(user_id)
-        except Exception as db_error:
-            print(f"Warning: could not read portfolio from DB: {db_error}")
+def _get_portfolio_or_404(user_id: str):
+    """
+    Returns the raw portfolio dict for a user, checking the in-memory
+    cache first and falling back to Postgres (e.g. after a server
+    restart) before giving up. Raises 404 if it truly can't be found
+    anywhere.
+    """
+    if user_id in PORTFOLIOS:
+        return PORTFOLIOS[user_id]
 
-        if db_portfolio is None:
-            raise HTTPException(
-                status_code=404,
-                detail="Portfolio not found. Upload a CSV first."
-            )
+    db_portfolio = None
+    try:
+        db_portfolio = get_latest_portfolio_data(user_id)
+    except Exception as db_error:
+        print(f"Warning: could not read portfolio from DB: {db_error}")
 
-        PORTFOLIOS[user_id] = db_portfolio
-
-    return portfolio_dict_to_list(PORTFOLIOS[user_id])
-
-
-@app.get("/api/portfolio/summary/{user_id}")
-def get_summary(user_id: str):
-    if user_id not in PORTFOLIOS:
+    if db_portfolio is None:
         raise HTTPException(
             status_code=404,
             detail="Portfolio not found. Upload a CSV first."
         )
 
-    summary = portfolio_summary(PORTFOLIOS[user_id])
+    PORTFOLIOS[user_id] = db_portfolio
+    return PORTFOLIOS[user_id]
+
+
+@app.get("/api/portfolio/{user_id}")
+def get_portfolio(user_id: str):
+    portfolio = _get_portfolio_or_404(user_id)
+    return portfolio_dict_to_list(portfolio)
+
+
+@app.get("/api/portfolio/summary/{user_id}")
+def get_summary(user_id: str):
+    portfolio = _get_portfolio_or_404(user_id)
+    summary = portfolio_summary(portfolio)
 
     return {
         "total_invested": clean_number(summary["total_invested"]),
@@ -182,34 +192,44 @@ def get_summary(user_id: str):
     }
 
 
+def _fetch_indicator_dataframe(symbol: str):
+    """
+    Fetches daily price data for `symbol` from Alpha Vantage and adds
+    RSI/MACD columns. Raises the same HTTPExceptions used by both the
+    prediction and history endpoints so error handling stays
+    consistent between them.
+    """
+    data = get_time_series(symbol)
+
+    if "Note" in data:
+        raise HTTPException(
+            status_code=429,
+            detail="Alpha Vantage rate limit reached. Try again later."
+        )
+
+    if "Error Message" in data:
+        raise HTTPException(
+            status_code=400,
+            detail="Invalid stock symbol."
+        )
+
+    if "Time Series (Daily)" not in data:
+        raise HTTPException(
+            status_code=400,
+            detail="Could not get stock data from Alpha Vantage."
+        )
+
+    df = json_to_dataframe(data)
+    df = calculate_rsi(df)
+    df = calculate_macd(df)
+    return df
+
+
 @app.get("/api/stocks/predict/{symbol}")
 def get_prediction(symbol: str):
     try:
         symbol = symbol.upper()
-
-        data = get_time_series(symbol)
-
-        if "Note" in data:
-            raise HTTPException(
-                status_code=429,
-                detail="Alpha Vantage rate limit reached. Try again later."
-            )
-
-        if "Error Message" in data:
-            raise HTTPException(
-                status_code=400,
-                detail="Invalid stock symbol."
-            )
-
-        if "Time Series (Daily)" not in data:
-            raise HTTPException(
-                status_code=400,
-                detail="Could not get stock data from Alpha Vantage."
-            )
-
-        df = json_to_dataframe(data)
-        df = calculate_rsi(df)
-        df = calculate_macd(df)
+        df = _fetch_indicator_dataframe(symbol)
 
         latest = df.iloc[-1]
 
@@ -244,4 +264,46 @@ def get_prediction(symbol: str):
         raise HTTPException(
             status_code=500,
             detail=f"Prediction error: {str(e)}"
+        )
+
+
+@app.get("/api/stocks/history/{symbol}")
+def get_history(symbol: str, days: int = 90):
+    """
+    Returns close price, RSI, and MACD for the last `days` trading
+    days, for charting on the frontend. This is the JSON equivalent
+    of what plot_macd()/plot_rsi() in market.py draw locally with
+    matplotlib -- those functions only work in a local Python session
+    (they call plt.show()), so this endpoint exposes the same
+    underlying data over the API instead.
+    """
+    try:
+        symbol = symbol.upper()
+        df = _fetch_indicator_dataframe(symbol)
+
+        recent = df.tail(max(days, 1))
+
+        history = [
+            {
+                "date": index.strftime("%Y-%m-%d"),
+                "close": clean_number(float(row["close"])),
+                "rsi": clean_number(float(row["rsi"])),
+                "macd": clean_number(float(row["macd"])),
+                "signal_line": clean_number(float(row["signal_line"])),
+            }
+            for index, row in recent.iterrows()
+        ]
+
+        return {
+            "symbol": symbol,
+            "history": history,
+        }
+
+    except HTTPException:
+        raise
+
+    except Exception as e:
+        raise HTTPException(
+            status_code=500,
+            detail=f"History error: {str(e)}"
         )
