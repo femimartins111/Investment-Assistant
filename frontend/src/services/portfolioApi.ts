@@ -1,4 +1,9 @@
-import type { PortfolioStock, PortfolioSummary, PredictionResult } from "../types/portfolio";
+import type {
+  PortfolioStock,
+  PortfolioSummary,
+  PredictionResult,
+  StockHistory,
+} from "../types/portfolio";
 
 // Point this at your running FastAPI backend. Override it with a
 // .env file (VITE_API_BASE_URL=http://localhost:8000) if your backend
@@ -66,6 +71,18 @@ export async function getPrediction(symbol: string): Promise<PredictionResult> {
 
   if (!response.ok) {
     throw new Error(await parseErrorDetail(response, "Failed to get a prediction."));
+  }
+
+  return response.json();
+}
+
+export async function getStockHistory(symbol: string, days = 90): Promise<StockHistory> {
+  const response = await fetch(
+    `${API_BASE_URL}/api/stocks/history/${encodeURIComponent(symbol)}?days=${days}`
+  );
+
+  if (!response.ok) {
+    throw new Error(await parseErrorDetail(response, "Failed to load price history."));
   }
 
   return response.json();

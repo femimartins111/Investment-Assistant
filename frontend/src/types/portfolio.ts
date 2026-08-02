@@ -40,6 +40,22 @@ export interface PredictionResult {
   macd_interpretation: string;
 }
 
+/**
+ * Mirrors the shape returned by /api/stocks/history/{symbol}.
+ */
+export interface StockHistoryPoint {
+  date: string;
+  close: number | null;
+  rsi: number | null;
+  macd: number | null;
+  signal_line: number | null;
+}
+
+export interface StockHistory {
+  symbol: string;
+  history: StockHistoryPoint[];
+}
+
 export interface CsvValidationResult {
   isValid: boolean;
   errors: string[];
